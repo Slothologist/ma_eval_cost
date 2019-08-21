@@ -2,7 +2,6 @@ import rospy
 from std_msgs.msg import String
 from esiaf_ros.msg import EsiafRosMsg
 from threading import Lock
-import signal
 
 player_topic = '/esiaf/wav_player/finished_playing'
 orc_topic = '/esiaf_ros/synchronized/speech'
@@ -71,16 +70,14 @@ orc_sub = rospy.Subscriber(orc_topic, EsiafRosMsg, orc_sub_fn)
 player_sub = rospy.Subscriber(player_topic, String, player_sub_fn)
 
 
-def exit_program(signal, value):
+def kill_p(signal):
     orc_sub.unregister()
     player_sub.unregister()
     logfile.close()
     rospy.signal_shutdown('successfully finished')
     exit(0)
 
-
-signal.signal(signal.SIGINT, exit_program)
-signal.signal(signal.SIGTERM, exit_program)
+sub = rospy.Subscriber('/esiaf/wav_player/shutdown', String, kill_p)
 
 rospy.loginfo('Ready!')
 
