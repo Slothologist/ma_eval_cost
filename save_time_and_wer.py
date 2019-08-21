@@ -75,6 +75,7 @@ def exit_program(signal, value):
     orc_sub.unregister()
     player_sub.unregister()
     logfile.close()
+    rospy.signal_shutdown('successfully finished')
     exit(0)
 
 

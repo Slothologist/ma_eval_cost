@@ -1,8 +1,8 @@
 import psutil
 import sys
 import yaml
-import signal
-import time
+import rospy
+from std_msgs.msg import String
 
 
 def any_process_in(processes, y):
@@ -44,8 +44,7 @@ for process in processes:
 files = [open(config['save_dir']+x.cmdline()[2] + '.txt', 'w') for _, x in processes]  # open all required files
 
 
-def exit_program(signum, frame):
-    kill_now = True
+def kill_p(bla):
     for process_no in range(len(processes)):
         old_cpu_times, process = processes[process_no]
         act_cpu_time = sum(process.cpu_times()) - sum(old_cpu_times)
@@ -56,13 +55,11 @@ def exit_program(signum, frame):
 
     for f in files:
         f.close()
-    exit(0)
+    rospy.signal_shutdown('finished')
 
-
-signal.signal(signal.SIGINT, exit_program)
-signal.signal(signal.SIGTERM, exit_program)
+rospy.init_node('save_cpu_node')
+sub = rospy.Subscriber('/esiaf/wav_player/shutdown', String, kill_p)
 
 print('Ready!')
 
-while True:
-    time.sleep(1)
+rospy.spin()
