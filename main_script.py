@@ -17,17 +17,17 @@ t1.start()
 
 # start wav player
 
-t2 = Thread(target=subprocess_cmd, args=(['roslaunch esiaf_wav_player wav_player.launch path_to_config:=/home/rfeldhans/programming/audio/workspace/install/share/esiaf_wav_player/config/eval_pipeline_2.yaml'],))
-t2.start()
+# t2 = Thread(target=subprocess_cmd, args=(['roslaunch esiaf_wav_player wav_player.launch path_to_config:=/home/rfeldhans/programming/audio/workspace/install/share/esiaf_wav_player/config/eval_pipeline_2.yaml'],))
+# t2.start()
 
 # wait a sec
-time.sleep(1)
+time.sleep(5)
 
 # start cpu saver
 t3 = Thread(target=subprocess_cmd, args=('python save_cpu.py config.yaml',))
 t3.start()
 
 t1.join()
-t2.join()
+# t2.join()
 t3.join()
 print('finished!')
