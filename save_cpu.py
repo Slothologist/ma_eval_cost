@@ -41,7 +41,7 @@ processes = aquire_processes(config)
 for process in processes:
     process[1].cpu_percent()  # call once, to initialize
 
-files = [open(config['save_dir']+x.cmdline()[2] + '.txt', 'w') for _, x in processes]  # open all required files
+files = [open(config['save_dir'] + 'esiaf_wav_player' + '.txt', 'w') if 'esiaf_wav_player' in x.cmdline()[2] else open(config['save_dir'] + x.cmdline()[2] + '.txt', 'w') for _, x in processes]  # open all required files
 
 
 def kill_p(bla):
