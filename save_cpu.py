@@ -10,6 +10,13 @@ def any_process_in(processes, y):
     return len(list_of_process_names_in_y) > 0
 
 
+def aquire_actual_cpu_times(process):
+    cpu_times = process.cpu_times()
+    cpu_cost = cpu_times.user + cpu_times.system
+    for child in process.children():
+        cpu_cost += aquire_actual_cpu_times(child)
+    return cpu_cost
+
 def aquire_processes(config):
     process_names = config['processes']
     ignore = config['ignore']
@@ -23,10 +30,9 @@ def aquire_processes(config):
     for process in processes:
         print(process.cmdline()[2])
 
-    processes = [[x.cpu_times(), x] for x in processes]  # some reordering
+    processes = [[aquire_actual_cpu_times(x), x] for x in processes]  # some reordering
 
     return processes
-
 
 # read config
 print('Loading config...')
@@ -38,20 +44,16 @@ path_to_config = argv[1]
 config = yaml.safe_load(open(path_to_config))
 processes = aquire_processes(config)
 
-for process in processes:
-    process[1].cpu_percent()  # call once, to initialize
 
-files = [open(config['save_dir'] + 'esiaf_wav_player' + '.txt', 'w') if 'esiaf_wav_player' in x.cmdline()[2] else open(config['save_dir'] + x.cmdline()[2] + '.txt', 'w') for _, x in processes]  # open all required files
+files = [open(config['save_dir'] + x.cmdline()[2] + '.txt', 'w') for _, x in processes]  # open all required files
 
 
 def kill_p(bla):
     for process_no in range(len(processes)):
         old_cpu_times, process = processes[process_no]
-        act_cpu_time = sum(process.cpu_times()) - sum(old_cpu_times)
+        act_cpu_time = aquire_actual_cpu_times(process) - old_cpu_times
         files[process_no].write('Runtime on CPU\n')
-        files[process_no].write(str(act_cpu_time))
-        files[process_no].write('\nPercentage\n')
-        files[process_no].write(str(process.cpu_percent()) + '\n\n')
+        files[process_no].write(str(act_cpu_time) + '\n')
 
     for f in files:
         f.close()
