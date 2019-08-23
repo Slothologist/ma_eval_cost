@@ -1,29 +1,13 @@
 
 recognition
-time: 1.006332081 secs
+time: 1.012571991 secs
 
 recognition
-time: 0.996148991 secs
+time: 0.988888991 secs
 more than one recognition
 
 recognition
-time: 0.997677895 secs
-more than one recognition
-
-recognition
-time: 1.045896906 secs
-more than one recognition
-
-recognition
-time: 0.99799695 secs
-more than one recognition
-
-recognition
-time: 1.036828087 secs
-more than one recognition
-
-no recognition
-time: 
+time: 1.004622943 secs
 more than one recognition
 
 no recognition
@@ -31,43 +15,11 @@ time:
 more than one recognition
 
 recognition
-time: 1.012248001 secs
+time: 1.014932041 secs
 more than one recognition
 
 recognition
-time: 1.011822077 secs
-more than one recognition
-
-recognition
-time: 0.991166037 secs
-more than one recognition
-
-recognition
-time: 1.016603977 secs
-more than one recognition
-
-recognition
-time: 1.034901995 secs
-more than one recognition
-
-recognition
-time: 1.038130871 secs
-more than one recognition
-
-recognition
-time: 1.038801781 secs
-more than one recognition
-
-recognition
-time: 1.028037012 secs
-more than one recognition
-
-recognition
-time: 1.012817198 secs
-more than one recognition
-
-recognition
-time: 1.00546407 secs
+time: 0.999168011 secs
 more than one recognition
 
 no recognition
@@ -75,63 +27,47 @@ time:
 more than one recognition
 
 recognition
-time: 0.987552107 secs
+time: 1.037703984 secs
 more than one recognition
 
 recognition
-time: 1.008967995 secs
+time: 1.011408137 secs
 more than one recognition
 
 recognition
-time: 1.044747162 secs
+time: 1.00667518 secs
 more than one recognition
 
 recognition
-time: 1.009989881 secs
+time: 1.026295126 secs
 more than one recognition
 
 recognition
-time: 1.009989881 secs
+time: 0.993134987 secs
 more than one recognition
 
 recognition
-time: 1.012076817 secs
+time: 1.021851896 secs
 more than one recognition
 
 recognition
-time: 0.995946957 secs
+time: 1.025969835 secs
 more than one recognition
 
 recognition
-time: 1.004796808 secs
+time: 0.990574994 secs
 more than one recognition
 
 recognition
-time: 1.005102993 secs
+time: 0.999537081 secs
 more than one recognition
 
 recognition
-time: 1.034889017 secs
+time: 1.017686982 secs
 more than one recognition
 
 recognition
-time: 1.019341997 secs
-more than one recognition
-
-recognition
-time: 1.016558977 secs
-more than one recognition
-
-recognition
-time: 1.017599802 secs
-more than one recognition
-
-recognition
-time: 1.012094871 secs
-more than one recognition
-
-no recognition
-time: 
+time: 1.022890167 secs
 more than one recognition
 
 no recognition
@@ -139,6657 +75,6817 @@ time:
 more than one recognition
 
 recognition
-time: 0.99635903 secs
+time: 1.015096998 secs
 more than one recognition
 
 recognition
-time: 1.023337866 secs
+time: 1.035536015 secs
 more than one recognition
 
 recognition
-time: 1.005977029 secs
+time: 0.989579835 secs
 more than one recognition
 
 recognition
-time: 1.013922995 secs
+time: 1.00880683 secs
 more than one recognition
 
 recognition
-time: 1.000274947 secs
+time: 1.012149837 secs
 more than one recognition
 
 recognition
-time: 0.998377935 secs
+time: 1.036608097 secs
 more than one recognition
 
 recognition
-time: 0.997677895 secs
+time: 1.021113146 secs
 more than one recognition
 
 recognition
-time: 0.99418706 secs
+time: 1.024436931 secs
 more than one recognition
 
 recognition
-time: 1.014098997 secs
+time: 1.023255862 secs
 more than one recognition
 
 recognition
-time: 1.012817198 secs
+time: 1.016123089 secs
 more than one recognition
 
 recognition
-time: 1.019777101 secs
+time: 1.028541939 secs
 more than one recognition
 
 recognition
-time: 1.024920183 secs
+time: 1.011714054 secs
 more than one recognition
 
 recognition
-time: 1.005181015 secs
+time: 1.048537152 secs
 more than one recognition
 
 recognition
-time: 1.021795996 secs
+time: 1.008908968 secs
 more than one recognition
 
 recognition
-time: 1.007058067 secs
+time: 1.019454072 secs
 more than one recognition
 
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.008913108 secs
+more than one recognition
+
+recognition
+time: 0.998017923 secs
+more than one recognition
+
+recognition
+time: 1.047976112 secs
+more than one recognition
+
+recognition
+time: 1.048965976 secs
+more than one recognition
+
+recognition
+time: 1.034925969 secs
+more than one recognition
+
+recognition
+time: 1.031679031 secs
+more than one recognition
+
+recognition
+time: 1.004622943 secs
+more than one recognition
+
+recognition
+time: 1.014639063 secs
+more than one recognition
+
+recognition
+time: 1.028965091 secs
+more than one recognition
+
+recognition
+time: 1.017686982 secs
+more than one recognition
+
+recognition
+time: 1.00628116 secs
+more than one recognition
+
+recognition
+time: 1.008483826 secs
+more than one recognition
+
+recognition
+time: 1.029226876 secs
+more than one recognition
+
+recognition
+time: 0.992643989 secs
+more than one recognition
+
+recognition
+time: 1.010741957 secs
+more than one recognition
+
+recognition
+time: 0.997049099 secs
+more than one recognition
+
+recognition
+time: 0.991135925 secs
+more than one recognition
+
+recognition
+time: 1.043057949 secs
+more than one recognition
+
+recognition
+time: 1.021113146 secs
+more than one recognition
+
+recognition
+time: 1.026657047 secs
+more than one recognition
+
+recognition
+time: 1.009191065 secs
+more than one recognition
+
+recognition
+time: 0.999429991 secs
+more than one recognition
+
+recognition
+time: 1.014639063 secs
+more than one recognition
+
+recognition
+time: 0.99936291 secs
+more than one recognition
+
+recognition
+time: 1.008088998 secs
+more than one recognition
+
+recognition
+time: 1.010265202 secs
+more than one recognition
+
+recognition
+time: 1.025875997 secs
+more than one recognition
+
+recognition
+time: 0.99947414 secs
+more than one recognition
+
+recognition
+time: 1.034257958 secs
+more than one recognition
+
+recognition
+time: 1.010265202 secs
+more than one recognition
+
+recognition
+time: 1.031937994 secs
+more than one recognition
+
+recognition
+time: 1.005736187 secs
+more than one recognition
+
+recognition
+time: 1.023314091 secs
+more than one recognition
+
+recognition
+time: 1.005736187 secs
+more than one recognition
+
+recognition
+time: 1.037310154 secs
+more than one recognition
+
+recognition
+time: 1.010234036 secs
+more than one recognition
+
+recognition
+time: 0.988259971 secs
+more than one recognition
+
+recognition
+time: 1.009886011 secs
+more than one recognition
+
+recognition
+time: 1.01198407 secs
+more than one recognition
+
 recognition
-time: 1.050662955 secs
+time: 1.009396132 secs
 more than one recognition
 
 recognition
-time: 1.025738825 secs
+time: 0.988259971 secs
 more than one recognition
 
 recognition
-time: 0.998628931 secs
+time: 1.021801131 secs
 more than one recognition
 
 recognition
-time: 0.995946957 secs
+time: 1.034257958 secs
 more than one recognition
 
 recognition
-time: 1.00860302 secs
+time: 1.037310154 secs
 more than one recognition
 
 recognition
-time: 1.024355117 secs
+time: 1.033055008 secs
 more than one recognition
 
 recognition
-time: 0.999139919 secs
+time: 0.993144909 secs
 more than one recognition
 
 recognition
-time: 0.99418706 secs
+time: 1.012161913 secs
 more than one recognition
 
 recognition
-time: 1.003677892 secs
+time: 0.997049099 secs
 more than one recognition
 
 recognition
-time: 1.012950914 secs
+time: 1.039665834 secs
 more than one recognition
 
 recognition
-time: 1.01417399 secs
+time: 1.037310154 secs
 more than one recognition
 
 recognition
-time: 1.008621967 secs
+time: 1.034610058 secs
 more than one recognition
 
 recognition
-time: 1.012698999 secs
+time: 0.989550143 secs
 more than one recognition
 
 recognition
-time: 1.006825973 secs
+time: 1.016967108 secs
 more than one recognition
 
 recognition
-time: 1.01417399 secs
+time: 1.009396132 secs
 more than one recognition
 
 recognition
-time: 1.011099102 secs
+time: 1.029736071 secs
 more than one recognition
 
 recognition
-time: 0.996236005 secs
+time: 1.018339989 secs
 more than one recognition
 
 recognition
-time: 0.990895924 secs
+time: 1.023395151 secs
 more than one recognition
 
 recognition
-time: 0.996236005 secs
+time: 1.043232057 secs
 more than one recognition
 
 recognition
-time: 1.007658119 secs
+time: 1.004225094 secs
 more than one recognition
 
 recognition
-time: 0.993616892 secs
+time: 1.002003956 secs
 more than one recognition
 
 recognition
-time: 1.013489992 secs
+time: 1.003101113 secs
 more than one recognition
 
 recognition
-time: 1.015424971 secs
+time: 0.991830875 secs
 more than one recognition
 
 recognition
-time: 0.99647295 secs
+time: 0.997049099 secs
 more than one recognition
 
 recognition
-time: 1.015902832 secs
+time: 1.047820942 secs
 more than one recognition
 
 recognition
-time: 1.031456066 secs
+time: 1.054280024 secs
 more than one recognition
 
 recognition
-time: 1.020472816 secs
+time: 1.000913864 secs
 more than one recognition
 
 recognition
-time: 1.006825973 secs
+time: 1.019156853 secs
 more than one recognition
 
 recognition
-time: 1.007658119 secs
+time: 1.024291216 secs
 more than one recognition
 
 recognition
-time: 1.008455914 secs
+time: 0.999907977 secs
 more than one recognition
 
 recognition
-time: 1.021692043 secs
+time: 1.023836922 secs
 more than one recognition
 
 recognition
-time: 1.008972977 secs
+time: 1.003101113 secs
 more than one recognition
 
 recognition
-time: 1.050662955 secs
+time: 1.030919857 secs
 more than one recognition
 
 recognition
-time: 1.018496971 secs
+time: 0.983023047 secs
 more than one recognition
 
 recognition
-time: 1.007658119 secs
+time: 1.014221153 secs
 more than one recognition
 
 recognition
-time: 1.012048008 secs
+time: 1.014483017 secs
 more than one recognition
 
 recognition
-time: 1.008455914 secs
+time: 1.035866812 secs
 more than one recognition
 
 recognition
-time: 1.024918995 secs
+time: 0.98172295 secs
 more than one recognition
 
 recognition
-time: 1.015902832 secs
+time: 1.009134146 secs
 more than one recognition
 
 recognition
-time: 1.038541973 secs
+time: 0.98172295 secs
 more than one recognition
 
 recognition
-time: 0.991377924 secs
+time: 0.993841136 secs
 more than one recognition
 
 recognition
-time: 1.03009105 secs
+time: 1.039118982 secs
 more than one recognition
 
 recognition
-time: 1.016621899 secs
+time: 1.037310154 secs
 more than one recognition
 
 recognition
-time: 1.016760101 secs
+time: 0.999666092 secs
 more than one recognition
 
 recognition
-time: 1.007191141 secs
+time: 1.009949932 secs
 more than one recognition
 
 recognition
-time: 0.990895924 secs
+time: 1.016229091 secs
 more than one recognition
 
 recognition
-time: 1.024300949 secs
+time: 1.013622854 secs
 more than one recognition
 
 recognition
-time: 0.991400833 secs
+time: 1.047820942 secs
 more than one recognition
 
 recognition
-time: 0.991663156 secs
+time: 1.033505016 secs
 more than one recognition
 
 recognition
-time: 1.03451684 secs
+time: 0.979189818 secs
 more than one recognition
 
 recognition
-time: 1.003878988 secs
+time: 0.98172295 secs
 more than one recognition
 
 recognition
-time: 1.023298096 secs
+time: 1.047820942 secs
 more than one recognition
 
 recognition
-time: 1.004709945 secs
+time: 1.018562953 secs
 more than one recognition
 
 recognition
-time: 1.05331914 secs
+time: 1.016835001 secs
 more than one recognition
 
 recognition
-time: 1.024580939 secs
+time: 1.015370893 secs
 more than one recognition
 
 recognition
-time: 1.013213071 secs
+time: 1.017937902 secs
 more than one recognition
 
 recognition
-time: 1.023595074 secs
+time: 0.996404871 secs
 more than one recognition
 
 recognition
-time: 1.002010788 secs
+time: 0.99945693 secs
 more than one recognition
 
 recognition
-time: 1.002025002 secs
+time: 1.012976978 secs
 more than one recognition
 
 recognition
-time: 1.021290018 secs
+time: 1.026798879 secs
 more than one recognition
 
 recognition
-time: 1.017319969 secs
+time: 0.983023047 secs
 more than one recognition
 
 recognition
-time: 1.030818189 secs
+time: 1.024262977 secs
 more than one recognition
 
 recognition
-time: 1.028992895 secs
+time: 1.015390035 secs
 more than one recognition
 
 recognition
-time: 1.030818189 secs
+time: 1.021146935 secs
 more than one recognition
 
 recognition
-time: 0.983972969 secs
+time: 1.021146935 secs
 more than one recognition
 
 recognition
-time: 1.003618021 secs
+time: 1.008791107 secs
 more than one recognition
 
 recognition
-time: 1.007658119 secs
+time: 1.030845951 secs
 more than one recognition
 
 recognition
-time: 1.023725061 secs
+time: 1.008806948 secs
 more than one recognition
 
 recognition
-time: 1.03801791 secs
+time: 0.983023047 secs
 more than one recognition
 
 recognition
-time: 1.011222994 secs
+time: 1.009396132 secs
 more than one recognition
 
 recognition
-time: 1.026016003 secs
+time: 1.014170978 secs
 more than one recognition
 
 recognition
-time: 0.991663156 secs
+time: 1.039261824 secs
 more than one recognition
 
 recognition
-time: 1.030817951 secs
+time: 1.040864902 secs
 more than one recognition
 
 recognition
-time: 1.02182303 secs
+time: 1.011763108 secs
 more than one recognition
 
 recognition
-time: 1.030818189 secs
+time: 1.011763108 secs
 more than one recognition
 
 recognition
-time: 0.991663156 secs
+time: 1.017369061 secs
 more than one recognition
 
 recognition
-time: 1.018934084 secs
+time: 1.021388081 secs
 more than one recognition
 
 recognition
-time: 1.057641142 secs
+time: 1.024614077 secs
 more than one recognition
 
 recognition
-time: 1.023546894 secs
+time: 1.034602108 secs
 more than one recognition
 
 recognition
-time: 0.994123916 secs
+time: 1.013672144 secs
 more than one recognition
 
 recognition
-time: 1.019839184 secs
+time: 1.009396132 secs
 more than one recognition
 
 recognition
-time: 1.027058085 secs
+time: 0.99073506 secs
 more than one recognition
 
 recognition
-time: 1.014878105 secs
+time: 1.024837996 secs
 more than one recognition
 
 recognition
-time: 1.003960162 secs
+time: 1.017369061 secs
 more than one recognition
 
 recognition
-time: 1.002010788 secs
+time: 1.013672144 secs
 more than one recognition
 
 recognition
-time: 1.026471903 secs
+time: 1.014925078 secs
 more than one recognition
 
 recognition
-time: 1.011723135 secs
+time: 1.02304299 secs
 more than one recognition
 
 recognition
-time: 0.99733802 secs
+time: 1.02397995 secs
 more than one recognition
 
 recognition
-time: 0.99733802 secs
+time: 1.030845951 secs
 more than one recognition
 
 recognition
-time: 1.00873996 secs
+time: 1.002580864 secs
 more than one recognition
 
 recognition
-time: 1.040532159 secs
+time: 1.003741037 secs
 more than one recognition
 
 recognition
-time: 0.994372007 secs
+time: 1.032312852 secs
 more than one recognition
 
 recognition
-time: 1.002010788 secs
+time: 0.999903119 secs
 more than one recognition
 
 recognition
-time: 1.015902832 secs
+time: 1.042396118 secs
 more than one recognition
 
 recognition
-time: 1.036266945 secs
+time: 1.021336949 secs
 more than one recognition
 
 recognition
-time: 1.011941004 secs
+time: 1.006738983 secs
 more than one recognition
 
 recognition
-time: 1.033945154 secs
+time: 1.003101113 secs
 more than one recognition
 
 recognition
-time: 1.015526998 secs
+time: 1.032312852 secs
 more than one recognition
 
 recognition
-time: 1.015526998 secs
+time: 1.028318866 secs
 more than one recognition
 
 recognition
-time: 1.030455834 secs
+time: 1.039698043 secs
 more than one recognition
 
 recognition
-time: 1.005873033 secs
+time: 1.025310154 secs
 more than one recognition
 
 recognition
-time: 0.988442032 secs
+time: 1.030556921 secs
 more than one recognition
 
 recognition
-time: 1.005926897 secs
+time: 1.041008913 secs
 more than one recognition
 
 recognition
-time: 0.996261019 secs
+time: 1.000883131 secs
 more than one recognition
 
 recognition
-time: 1.015902832 secs
+time: 1.008749098 secs
 more than one recognition
 
 recognition
-time: 1.007110881 secs
+time: 1.016395903 secs
 more than one recognition
 
 recognition
-time: 0.998367099 secs
+time: 0.990328899 secs
 more than one recognition
 
 recognition
-time: 1.030455834 secs
+time: 1.007383959 secs
 more than one recognition
 
 recognition
-time: 0.996261019 secs
+time: 0.996470047 secs
 more than one recognition
 
 recognition
-time: 1.033193943 secs
+time: 1.020640095 secs
 more than one recognition
 
 recognition
-time: 1.01748699 secs
+time: 1.016008925 secs
 more than one recognition
 
 recognition
-time: 1.018169081 secs
+time: 1.007383959 secs
 more than one recognition
 
 recognition
-time: 1.040532159 secs
+time: 1.017237091 secs
 more than one recognition
 
 recognition
-time: 1.007282959 secs
+time: 0.983023047 secs
 more than one recognition
 
 recognition
-time: 1.022579073 secs
+time: 1.003720051 secs
 more than one recognition
 
 recognition
-time: 0.993999939 secs
+time: 1.019910797 secs
 more than one recognition
 
 recognition
-time: 1.014959971 secs
+time: 1.007860971 secs
 more than one recognition
 
 recognition
-time: 1.019724894 secs
+time: 0.997513108 secs
 more than one recognition
 
 recognition
-time: 1.036475101 secs
+time: 0.997513108 secs
 more than one recognition
 
 recognition
-time: 1.000592008 secs
+time: 1.008508013 secs
 more than one recognition
 
 recognition
-time: 1.013213071 secs
+time: 1.036066101 secs
 more than one recognition
 
 recognition
-time: 0.993999939 secs
+time: 1.019515152 secs
 more than one recognition
 
 recognition
-time: 1.027634912 secs
+time: 1.011476045 secs
 more than one recognition
 
 recognition
-time: 1.009842927 secs
+time: 0.988740931 secs
 more than one recognition
 
 recognition
-time: 1.01363694 secs
+time: 1.010324986 secs
 more than one recognition
 
 recognition
-time: 1.000497002 secs
+time: 0.998452076 secs
 more than one recognition
 
 recognition
-time: 1.034588061 secs
+time: 1.036099066 secs
 more than one recognition
 
 recognition
-time: 0.999819128 secs
+time: 0.990620141 secs
 more than one recognition
 
 recognition
-time: 1.01778302 secs
+time: 1.025225185 secs
 more than one recognition
 
 recognition
-time: 1.035578842 secs
+time: 1.001147946 secs
 more than one recognition
 
 recognition
-time: 1.028969118 secs
+time: 1.016136934 secs
 more than one recognition
 
 recognition
-time: 1.023737197 secs
+time: 1.009605976 secs
 more than one recognition
 
 recognition
-time: 1.011742924 secs
+time: 0.990620141 secs
 more than one recognition
 
 recognition
-time: 1.034588061 secs
+time: 0.987525967 secs
 more than one recognition
 
 recognition
-time: 1.028969118 secs
+time: 0.992967877 secs
 more than one recognition
 
 recognition
-time: 1.017389915 secs
+time: 1.008806948 secs
 more than one recognition
 
 recognition
-time: 1.002010788 secs
+time: 1.000034932 secs
 more than one recognition
 
 recognition
-time: 1.025562122 secs
+time: 0.989696012 secs
 more than one recognition
 
 recognition
-time: 0.997163864 secs
+time: 1.05445186 secs
 more than one recognition
 
 recognition
-time: 1.020133977 secs
+time: 0.992967877 secs
 more than one recognition
 
 recognition
-time: 1.020133977 secs
+time: 0.992967877 secs
 more than one recognition
 
 recognition
-time: 1.014959971 secs
+time: 0.996275041 secs
 more than one recognition
 
 recognition
-time: 1.011389043 secs
+time: 1.016943874 secs
 more than one recognition
 
 recognition
-time: 0.995756959 secs
+time: 1.026743957 secs
 more than one recognition
 
 recognition
-time: 0.996824831 secs
+time: 1.011476045 secs
 more than one recognition
 
 recognition
-time: 1.017723112 secs
+time: 1.004584013 secs
 more than one recognition
 
 recognition
-time: 1.009438867 secs
+time: 1.024228905 secs
 more than one recognition
 
 recognition
-time: 1.003433987 secs
+time: 0.988740931 secs
 more than one recognition
 
 recognition
-time: 1.006955951 secs
+time: 1.05445186 secs
 more than one recognition
 
 recognition
-time: 1.021329022 secs
+time: 0.991649933 secs
 more than one recognition
 
 recognition
-time: 1.008123028 secs
+time: 1.002971992 secs
 more than one recognition
 
 recognition
-time: 0.999229069 secs
+time: 1.021357143 secs
 more than one recognition
 
 recognition
-time: 1.005274906 secs
+time: 0.983458046 secs
 more than one recognition
 
 recognition
-time: 1.012392052 secs
+time: 1.03272105 secs
 more than one recognition
 
 recognition
-time: 1.021329022 secs
+time: 1.029061863 secs
 more than one recognition
 
 recognition
-time: 1.025460121 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 1.005549006 secs
+time: 0.996743946 secs
 more than one recognition
 
 recognition
-time: 0.994372007 secs
+time: 0.991649933 secs
 more than one recognition
 
 recognition
-time: 1.037281113 secs
+time: 1.013734907 secs
 more than one recognition
 
 recognition
-time: 1.02602309 secs
+time: 1.028318866 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 0.994489065 secs
 more than one recognition
 
 recognition
-time: 1.005549006 secs
+time: 1.014651153 secs
 more than one recognition
 
 recognition
-time: 1.005549006 secs
+time: 1.033166027 secs
 more than one recognition
 
 recognition
-time: 0.998674164 secs
+time: 1.012427078 secs
 more than one recognition
 
 recognition
-time: 1.000002887 secs
+time: 1.009880991 secs
 more than one recognition
 
 recognition
-time: 1.012221083 secs
+time: 1.01137307 secs
 more than one recognition
 
 recognition
-time: 0.996824831 secs
+time: 1.009880991 secs
 more than one recognition
 
 recognition
-time: 1.008751009 secs
+time: 1.042215917 secs
 more than one recognition
 
 recognition
-time: 1.028306017 secs
+time: 1.044565094 secs
 more than one recognition
 
 recognition
-time: 1.017723112 secs
+time: 1.022930954 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 1.042390984 secs
 more than one recognition
 
 recognition
-time: 1.02795998 secs
+time: 1.006124089 secs
 more than one recognition
 
 recognition
-time: 1.02613986 secs
+time: 1.010083177 secs
 more than one recognition
 
 recognition
-time: 1.0274009 secs
+time: 0.983458046 secs
 more than one recognition
 
 recognition
-time: 1.012740055 secs
+time: 0.985689165 secs
 more than one recognition
 
 recognition
-time: 1.019042887 secs
+time: 0.983458046 secs
 more than one recognition
 
 recognition
-time: 1.024735191 secs
+time: 1.040402046 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 0.993910079 secs
 more than one recognition
 
 recognition
-time: 1.018194072 secs
+time: 1.042390984 secs
 more than one recognition
 
 recognition
-time: 1.02795998 secs
+time: 1.053490099 secs
 more than one recognition
 
 recognition
-time: 1.019714968 secs
+time: 1.003334116 secs
 more than one recognition
 
 recognition
-time: 1.027634912 secs
+time: 1.003813877 secs
 more than one recognition
 
 recognition
-time: 1.036158892 secs
+time: 1.008135027 secs
 more than one recognition
 
 recognition
-time: 0.999988863 secs
+time: 0.989736993 secs
 more than one recognition
 
 recognition
-time: 1.008751009 secs
+time: 0.990096857 secs
 more than one recognition
 
 recognition
-time: 1.016730032 secs
+time: 1.045794039 secs
 more than one recognition
 
 recognition
-time: 1.019896931 secs
+time: 1.002410832 secs
 more than one recognition
 
 recognition
-time: 1.037281113 secs
+time: 1.014530039 secs
 more than one recognition
 
 recognition
-time: 1.019896931 secs
+time: 1.017963133 secs
 more than one recognition
 
 recognition
-time: 1.03888389 secs
+time: 1.05445186 secs
 more than one recognition
 
 recognition
-time: 1.047478203 secs
+time: 0.996403006 secs
 more than one recognition
 
 recognition
-time: 1.003584892 secs
+time: 0.998001103 secs
 more than one recognition
 
 recognition
-time: 1.004997995 secs
+time: 1.030174061 secs
 more than one recognition
 
 recognition
-time: 1.042588993 secs
+time: 1.053490099 secs
 more than one recognition
 
 recognition
-time: 1.012740055 secs
+time: 1.026558946 secs
 more than one recognition
 
 recognition
-time: 0.987990034 secs
+time: 1.01419792 secs
 more than one recognition
 
 recognition
-time: 1.012740055 secs
+time: 1.023856929 secs
 more than one recognition
 
 recognition
-time: 0.987990034 secs
+time: 1.01708287 secs
 more than one recognition
 
 recognition
-time: 1.035574983 secs
+time: 0.99128717 secs
 more than one recognition
 
 recognition
-time: 1.004997995 secs
+time: 1.035097845 secs
 more than one recognition
 
 recognition
-time: 0.987583016 secs
+time: 1.032825928 secs
 more than one recognition
 
 recognition
-time: 0.994969156 secs
+time: 1.020423895 secs
 more than one recognition
 
 recognition
-time: 0.989986986 secs
+time: 1.000283034 secs
 more than one recognition
 
 recognition
-time: 1.001070163 secs
+time: 0.995389175 secs
 more than one recognition
 
 recognition
-time: 1.028061911 secs
+time: 0.997550938 secs
 more than one recognition
 
 recognition
-time: 1.01779908 secs
+time: 1.014530039 secs
 more than one recognition
 
 recognition
-time: 1.008437921 secs
+time: 0.996316124 secs
 more than one recognition
 
 recognition
-time: 1.024818016 secs
+time: 1.037952942 secs
 more than one recognition
 
 recognition
-time: 1.04294108 secs
+time: 1.008019907 secs
 more than one recognition
 
 recognition
-time: 1.016292013 secs
+time: 0.996403006 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 1.024619 secs
 more than one recognition
 
 recognition
-time: 1.045485891 secs
+time: 0.998001103 secs
 more than one recognition
 
 recognition
-time: 0.989986986 secs
+time: 0.9855459 secs
 more than one recognition
 
 recognition
-time: 1.018251961 secs
+time: 1.032175981 secs
 more than one recognition
 
 recognition
-time: 0.987583016 secs
+time: 1.010114128 secs
 more than one recognition
 
 recognition
-time: 1.034400012 secs
+time: 0.9855459 secs
 more than one recognition
 
 recognition
-time: 0.982766981 secs
+time: 1.018512039 secs
 more than one recognition
 
 recognition
-time: 0.987583016 secs
+time: 0.98746311 secs
 more than one recognition
 
 recognition
-time: 1.006932936 secs
+time: 0.98746311 secs
 more than one recognition
 
 recognition
-time: 1.049099037 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 0.997118805 secs
+time: 1.011215085 secs
 more than one recognition
 
 recognition
-time: 1.018829006 secs
+time: 1.024953111 secs
 more than one recognition
 
 recognition
-time: 1.023330953 secs
+time: 1.021623897 secs
 more than one recognition
 
 recognition
-time: 1.011668019 secs
+time: 1.008669872 secs
 more than one recognition
 
 recognition
-time: 1.020372061 secs
+time: 1.011951048 secs
 more than one recognition
 
 recognition
-time: 1.02795998 secs
+time: 1.055889998 secs
 more than one recognition
 
 recognition
-time: 1.04294108 secs
+time: 1.000754959 secs
 more than one recognition
 
 recognition
-time: 1.000235985 secs
+time: 0.996316124 secs
 more than one recognition
 
 recognition
-time: 1.007935175 secs
+time: 1.043222824 secs
 more than one recognition
 
 recognition
-time: 1.022122864 secs
+time: 0.99153281 secs
 more than one recognition
 
 recognition
-time: 1.009395042 secs
+time: 1.025312927 secs
 more than one recognition
 
 recognition
-time: 1.009141905 secs
+time: 1.011951048 secs
 more than one recognition
 
 recognition
-time: 1.012354811 secs
+time: 0.996316124 secs
 more than one recognition
 
 recognition
-time: 0.995672036 secs
+time: 1.010322166 secs
 more than one recognition
 
 recognition
-time: 1.001949972 secs
+time: 1.010322056 secs
 more than one recognition
 
 recognition
-time: 1.016185001 secs
+time: 1.010322166 secs
 more than one recognition
 
 recognition
-time: 0.995672036 secs
+time: 1.03382806 secs
 more than one recognition
 
 recognition
-time: 1.017126913 secs
+time: 0.98746311 secs
 more than one recognition
 
 recognition
-time: 1.018014803 secs
+time: 1.010114128 secs
 more than one recognition
 
 recognition
-time: 1.018014803 secs
+time: 0.991402027 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 0.987724903 secs
 more than one recognition
 
 recognition
-time: 1.018881996 secs
+time: 0.992069098 secs
 more than one recognition
 
 recognition
-time: 1.038430046 secs
+time: 1.011951048 secs
 more than one recognition
 
 recognition
-time: 1.014486988 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 1.060230057 secs
+time: 1.003334116 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 1.027480066 secs
 more than one recognition
 
 recognition
-time: 1.000963103 secs
+time: 0.999147914 secs
 more than one recognition
 
 recognition
-time: 1.044762043 secs
+time: 0.997232031 secs
 more than one recognition
 
 recognition
-time: 1.000235985 secs
+time: 0.998649948 secs
 more than one recognition
 
 recognition
-time: 1.014419929 secs
+time: 1.019258785 secs
 more than one recognition
 
 recognition
-time: 0.999119202 secs
+time: 1.006449015 secs
 more than one recognition
 
 recognition
-time: 0.984062096 secs
+time: 1.024873114 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 1.025051208 secs
 more than one recognition
 
 recognition
-time: 1.000235985 secs
+time: 1.036722886 secs
 more than one recognition
 
 recognition
-time: 1.009326919 secs
+time: 1.017489979 secs
 more than one recognition
 
 recognition
-time: 1.008581989 secs
+time: 1.011232011 secs
 more than one recognition
 
 recognition
-time: 1.009326919 secs
+time: 1.036695007 secs
 more than one recognition
 
 recognition
-time: 1.006294029 secs
+time: 1.033079929 secs
 more than one recognition
 
 recognition
-time: 1.018014803 secs
+time: 1.013199812 secs
 more than one recognition
 
 recognition
-time: 1.016185001 secs
+time: 0.994024932 secs
 more than one recognition
 
 recognition
-time: 1.009243994 secs
+time: 1.031498156 secs
 more than one recognition
 
 recognition
-time: 1.00405315 secs
+time: 1.006551104 secs
 more than one recognition
 
 recognition
-time: 1.010312085 secs
+time: 0.989549917 secs
 more than one recognition
 
 recognition
-time: 1.012236017 secs
+time: 1.009141928 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 0.994969156 secs
+time: 1.022442028 secs
 more than one recognition
 
 recognition
-time: 0.993153793 secs
+time: 1.011985053 secs
 more than one recognition
 
 recognition
-time: 1.041416174 secs
+time: 0.999854074 secs
 more than one recognition
 
 recognition
-time: 1.008374913 secs
+time: 1.006052139 secs
 more than one recognition
 
 recognition
-time: 1.008667971 secs
+time: 1.005706907 secs
 more than one recognition
 
 recognition
-time: 1.031985004 secs
+time: 1.006320958 secs
 more than one recognition
 
 recognition
-time: 1.018428984 secs
+time: 1.005956059 secs
 more than one recognition
 
 recognition
-time: 1.038006075 secs
+time: 1.005683003 secs
 more than one recognition
 
 recognition
-time: 1.006174872 secs
+time: 0.988296949 secs
 more than one recognition
 
 recognition
-time: 0.994273929 secs
+time: 1.00714216 secs
 more than one recognition
 
 recognition
-time: 1.030802946 secs
+time: 1.02621398 secs
 more than one recognition
 
 recognition
-time: 0.99297604 secs
+time: 1.011754152 secs
 more than one recognition
 
 recognition
-time: 0.995219992 secs
+time: 0.993522189 secs
 more than one recognition
 
 recognition
-time: 1.018630922 secs
+time: 1.00476593 secs
 more than one recognition
 
 recognition
-time: 1.004459977 secs
+time: 1.013199812 secs
 more than one recognition
 
 recognition
-time: 1.000088133 secs
+time: 0.990350815 secs
 more than one recognition
 
 recognition
-time: 1.05085207 secs
+time: 1.023334919 secs
 more than one recognition
 
 recognition
-time: 1.002873951 secs
+time: 1.011721901 secs
 more than one recognition
 
 recognition
-time: 1.008575052 secs
+time: 1.022911829 secs
 more than one recognition
 
 recognition
-time: 1.034934916 secs
+time: 1.021550985 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 1.02444803 secs
 more than one recognition
 
 recognition
-time: 1.012149951 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 1.031486174 secs
+time: 1.017233051 secs
 more than one recognition
 
 recognition
-time: 1.020370144 secs
+time: 1.013679922 secs
 more than one recognition
 
 recognition
-time: 1.01091889 secs
+time: 0.993650944 secs
 more than one recognition
 
 recognition
-time: 1.028040918 secs
+time: 1.031588991 secs
 more than one recognition
 
 recognition
-time: 1.02858988 secs
+time: 1.00839892 secs
 more than one recognition
 
 recognition
-time: 1.020495928 secs
+time: 1.010228964 secs
 more than one recognition
 
 recognition
-time: 1.022364109 secs
+time: 1.010432017 secs
 more than one recognition
 
 recognition
-time: 1.028576965 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 1.022424054 secs
+time: 1.02154901 secs
 more than one recognition
 
 recognition
-time: 1.013849158 secs
+time: 1.025669035 secs
 more than one recognition
 
 recognition
-time: 0.998748938 secs
+time: 1.026738069 secs
 more than one recognition
 
 recognition
-time: 1.007731913 secs
+time: 1.044259056 secs
 more than one recognition
 
 recognition
-time: 1.02712504 secs
+time: 1.018169839 secs
 more than one recognition
 
 recognition
-time: 1.004459977 secs
+time: 1.006698983 secs
 more than one recognition
 
 recognition
-time: 1.025153944 secs
+time: 1.014979046 secs
 more than one recognition
 
 recognition
-time: 1.028241854 secs
+time: 1.023468998 secs
 more than one recognition
 
 recognition
-time: 1.014438007 secs
+time: 0.996861077 secs
 more than one recognition
 
 recognition
-time: 1.031409109 secs
+time: 1.020721032 secs
 more than one recognition
 
 recognition
-time: 1.025062218 secs
+time: 1.010932789 secs
 more than one recognition
 
 recognition
-time: 1.015123896 secs
+time: 0.988296949 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 0.995611912 secs
 more than one recognition
 
 recognition
-time: 1.05259207 secs
+time: 0.993811036 secs
 more than one recognition
 
 recognition
-time: 1.022521002 secs
+time: 1.02887711 secs
 more than one recognition
 
 recognition
-time: 1.005949093 secs
+time: 1.011780054 secs
 more than one recognition
 
 recognition
-time: 1.013806887 secs
+time: 1.006995943 secs
 more than one recognition
 
 recognition
-time: 0.999528902 secs
+time: 1.019765037 secs
 more than one recognition
 
 recognition
-time: 1.049077953 secs
+time: 0.995042783 secs
 more than one recognition
 
 recognition
-time: 1.001567959 secs
+time: 0.984646128 secs
 more than one recognition
 
 recognition
-time: 1.003468927 secs
+time: 0.988296949 secs
 more than one recognition
 
 recognition
-time: 1.01323089 secs
+time: 1.010297964 secs
 more than one recognition
 
 recognition
-time: 1.014113005 secs
+time: 1.016238203 secs
 more than one recognition
 
 recognition
-time: 0.999887907 secs
+time: 1.018128984 secs
 more than one recognition
 
 recognition
-time: 0.996419065 secs
+time: 1.016238203 secs
 more than one recognition
 
 recognition
-time: 1.010898813 secs
+time: 1.001325005 secs
 more than one recognition
 
 recognition
-time: 1.038213843 secs
+time: 1.024519014 secs
 more than one recognition
 
 recognition
-time: 1.007295073 secs
+time: 1.026784998 secs
 more than one recognition
 
 recognition
-time: 1.037465041 secs
+time: 1.012138937 secs
 more than one recognition
 
 recognition
-time: 0.987056069 secs
+time: 1.011232011 secs
 more than one recognition
 
 recognition
-time: 1.01771796 secs
+time: 0.995611912 secs
 more than one recognition
 
 recognition
-time: 1.028576965 secs
+time: 1.017274992 secs
 more than one recognition
 
 recognition
-time: 0.999632993 secs
+time: 1.001706867 secs
 more than one recognition
 
 recognition
-time: 1.005766211 secs
+time: 0.995058022 secs
 more than one recognition
 
 recognition
-time: 1.031972889 secs
+time: 1.034242118 secs
 more than one recognition
 
 recognition
-time: 1.033363867 secs
+time: 1.01987817 secs
 more than one recognition
 
 recognition
-time: 1.015957058 secs
+time: 1.016268109 secs
 more than one recognition
 
 recognition
-time: 1.015573006 secs
+time: 1.047037087 secs
 more than one recognition
 
 recognition
-time: 1.003533976 secs
+time: 1.000706789 secs
 more than one recognition
 
 recognition
-time: 1.009301146 secs
+time: 1.006755985 secs
 more than one recognition
 
 recognition
-time: 1.028576965 secs
+time: 1.019760985 secs
 more than one recognition
 
 recognition
-time: 1.003583122 secs
+time: 1.010932789 secs
 more than one recognition
 
 recognition
-time: 1.009948938 secs
+time: 1.035155887 secs
 more than one recognition
 
 recognition
-time: 1.014838072 secs
+time: 1.028721115 secs
 more than one recognition
 
 recognition
-time: 1.009948938 secs
+time: 1.001706867 secs
 more than one recognition
 
 recognition
-time: 1.005688044 secs
+time: 1.000706789 secs
 more than one recognition
 
 recognition
-time: 1.014090152 secs
+time: 1.003606113 secs
 more than one recognition
 
 recognition
-time: 1.007314047 secs
+time: 1.016238203 secs
 more than one recognition
 
 recognition
-time: 1.023987062 secs
+time: 1.029098995 secs
 more than one recognition
 
 recognition
-time: 1.023342972 secs
+time: 1.010932789 secs
 more than one recognition
 
 recognition
-time: 1.025587151 secs
+time: 1.009522897 secs
 more than one recognition
 
 recognition
-time: 1.04261594 secs
+time: 0.991819973 secs
 more than one recognition
 
 recognition
-time: 1.013793103 secs
+time: 1.025860054 secs
 more than one recognition
 
 recognition
-time: 0.993942202 secs
+time: 1.014516102 secs
 more than one recognition
 
 recognition
-time: 1.003468927 secs
+time: 1.027969002 secs
 more than one recognition
 
 recognition
-time: 1.004492109 secs
+time: 1.035702924 secs
 more than one recognition
 
 recognition
-time: 1.002629997 secs
+time: 0.996013004 secs
 more than one recognition
 
 recognition
-time: 0.998163056 secs
+time: 0.999733992 secs
 more than one recognition
 
 recognition
-time: 1.007731913 secs
+time: 1.016268109 secs
 more than one recognition
 
 recognition
-time: 0.993330918 secs
+time: 0.988296949 secs
 more than one recognition
 
 recognition
-time: 1.008784953 secs
+time: 1.018817148 secs
 more than one recognition
 
 recognition
-time: 1.01771796 secs
+time: 1.021952027 secs
 more than one recognition
 
 recognition
-time: 1.001239046 secs
+time: 1.008678833 secs
 more than one recognition
 
 recognition
-time: 1.017086159 secs
+time: 0.993328981 secs
 more than one recognition
 
 recognition
-time: 1.013793103 secs
+time: 1.038731931 secs
 more than one recognition
 
 recognition
-time: 1.018457005 secs
+time: 1.017274992 secs
 more than one recognition
 
 recognition
-time: 1.02070298 secs
+time: 1.021762983 secs
 more than one recognition
 
 recognition
-time: 1.009948938 secs
+time: 1.038632185 secs
 more than one recognition
 
 recognition
-time: 0.989707954 secs
+time: 1.038632185 secs
 more than one recognition
 
 recognition
-time: 1.01771796 secs
+time: 1.011765939 secs
 more than one recognition
 
 recognition
-time: 1.003965057 secs
+time: 0.992179857 secs
 more than one recognition
 
 recognition
-time: 0.994231989 secs
+time: 1.000031887 secs
 more than one recognition
 
 recognition
-time: 0.99954198 secs
+time: 1.019093107 secs
 more than one recognition
 
 recognition
-time: 1.019881886 secs
+time: 1.010228964 secs
 more than one recognition
 
 recognition
-time: 1.003909944 secs
+time: 1.023157124 secs
 more than one recognition
 
 recognition
-time: 1.005928975 secs
+time: 1.030520934 secs
 more than one recognition
 
 recognition
-time: 1.013103975 secs
+time: 1.046600912 secs
 more than one recognition
 
 recognition
-time: 1.021735194 secs
+time: 1.01090904 secs
 more than one recognition
 
 recognition
-time: 1.002629997 secs
+time: 1.030603958 secs
 more than one recognition
 
 recognition
-time: 1.028576965 secs
+time: 1.023157124 secs
 more than one recognition
 
 recognition
-time: 1.012214081 secs
+time: 1.013616116 secs
 more than one recognition
 
 recognition
-time: 1.046048863 secs
+time: 1.024490992 secs
 more than one recognition
 
 recognition
-time: 1.007778023 secs
+time: 1.006812948 secs
 more than one recognition
 
 recognition
-time: 1.026758952 secs
+time: 1.000688951 secs
 more than one recognition
 
 recognition
-time: 1.001841187 secs
+time: 1.034495142 secs
 more than one recognition
 
 recognition
-time: 1.006274854 secs
+time: 1.018081975 secs
 more than one recognition
 
 recognition
-time: 0.997958795 secs
+time: 1.030520934 secs
 more than one recognition
 
 recognition
-time: 1.008307965 secs
+time: 1.056082041 secs
 more than one recognition
 
 recognition
-time: 1.008307965 secs
+time: 1.014063127 secs
 more than one recognition
 
 recognition
-time: 1.020944036 secs
+time: 1.018129026 secs
 more than one recognition
 
 recognition
-time: 1.00207917 secs
+time: 1.019093107 secs
 more than one recognition
 
 recognition
-time: 1.002632015 secs
+time: 1.0041181 secs
 more than one recognition
 
 recognition
-time: 0.998177122 secs
+time: 1.024314 secs
 more than one recognition
 
 recognition
-time: 1.049077953 secs
+time: 1.019093107 secs
 more than one recognition
 
 recognition
-time: 1.017792944 secs
+time: 1.037058118 secs
 more than one recognition
 
 recognition
-time: 1.013897025 secs
+time: 1.036639803 secs
 more than one recognition
 
 recognition
-time: 1.008820995 secs
+time: 1.024727072 secs
 more than one recognition
 
 recognition
-time: 1.042994936 secs
+time: 1.007412026 secs
 more than one recognition
 
 recognition
-time: 0.995993101 secs
+time: 1.008678833 secs
 more than one recognition
 
 recognition
-time: 1.017792944 secs
+time: 1.005907932 secs
 more than one recognition
 
 recognition
-time: 1.021962177 secs
+time: 1.036639803 secs
 more than one recognition
 
 recognition
-time: 1.028272852 secs
+time: 1.044429123 secs
 more than one recognition
 
 recognition
-time: 1.014991962 secs
+time: 1.010327839 secs
 more than one recognition
 
 recognition
-time: 1.026771229 secs
+time: 1.049605902 secs
 more than one recognition
 
 recognition
-time: 0.997404016 secs
+time: 1.021796209 secs
 more than one recognition
 
 recognition
-time: 1.053418947 secs
+time: 1.013719996 secs
 more than one recognition
 
 recognition
-time: 1.013897025 secs
+time: 0.999836953 secs
 more than one recognition
 
 recognition
-time: 1.020857018 secs
+time: 1.022942074 secs
 more than one recognition
 
 recognition
-time: 1.010495974 secs
+time: 1.006647913 secs
 more than one recognition
 
 recognition
-time: 1.013759117 secs
+time: 1.037058118 secs
 more than one recognition
 
 recognition
-time: 1.014230088 secs
+time: 1.001458954 secs
 more than one recognition
 
 recognition
-time: 1.009088 secs
+time: 1.033235119 secs
 more than one recognition
 
 recognition
-time: 0.994095051 secs
+time: 1.013695118 secs
 more than one recognition
 
 recognition
-time: 1.014230088 secs
+time: 1.033666077 secs
 more than one recognition
 
 recognition
-time: 1.010211124 secs
+time: 1.01350098 secs
 more than one recognition
 
 recognition
-time: 1.017855887 secs
+time: 1.020674985 secs
 more than one recognition
 
 recognition
-time: 1.035732061 secs
+time: 0.999836953 secs
 more than one recognition
 
 recognition
-time: 0.998409947 secs
+time: 0.999163067 secs
 more than one recognition
 
 recognition
-time: 1.007778023 secs
+time: 1.006395128 secs
 more than one recognition
 
 recognition
-time: 1.035657868 secs
+time: 0.984475945 secs
 more than one recognition
 
 recognition
-time: 1.017855887 secs
+time: 1.00668185 secs
 more than one recognition
 
 recognition
-time: 1.012280003 secs
+time: 1.038134933 secs
 more than one recognition
 
 recognition
-time: 1.045579998 secs
+time: 0.999163067 secs
 more than one recognition
 
 recognition
-time: 0.99640888 secs
+time: 1.03318906 secs
 more than one recognition
 
 recognition
-time: 1.019944998 secs
+time: 0.999706171 secs
 more than one recognition
 
 recognition
-time: 1.038060047 secs
+time: 1.015805883 secs
 more than one recognition
 
 recognition
-time: 1.023299118 secs
+time: 1.016284048 secs
 more than one recognition
 
 recognition
-time: 0.999436939 secs
+time: 1.021952027 secs
 more than one recognition
 
 recognition
-time: 1.010211124 secs
+time: 1.000390105 secs
 more than one recognition
 
 recognition
-time: 1.02152719 secs
+time: 1.001489954 secs
 more than one recognition
 
 recognition
-time: 0.995841984 secs
+time: 1.035742785 secs
 more than one recognition
 
 recognition
-time: 1.01098896 secs
+time: 1.006395128 secs
 more than one recognition
 
 recognition
-time: 1.013759117 secs
+time: 1.027469095 secs
 more than one recognition
 
 recognition
-time: 1.005028855 secs
+time: 1.012984152 secs
 more than one recognition
 
 recognition
-time: 0.999592073 secs
+time: 1.026017975 secs
 more than one recognition
 
 recognition
-time: 1.004353939 secs
+time: 1.008128858 secs
 more than one recognition
 
 recognition
-time: 1.009901986 secs
+time: 1.02988814 secs
 more than one recognition
 
 recognition
-time: 0.993143848 secs
+time: 1.004882965 secs
 more than one recognition
 
 recognition
-time: 1.001793035 secs
+time: 1.021952027 secs
 more than one recognition
 
 recognition
-time: 1.026451119 secs
+time: 1.006436167 secs
 more than one recognition
 
 recognition
-time: 1.004353939 secs
+time: 1.00692201 secs
 more than one recognition
 
 recognition
-time: 1.018117864 secs
+time: 0.997738196 secs
 more than one recognition
 
 recognition
-time: 1.002005064 secs
+time: 1.034242118 secs
 more than one recognition
 
 recognition
-time: 1.020126089 secs
+time: 1.021952027 secs
 more than one recognition
 
 recognition
-time: 1.012098909 secs
+time: 1.001133213 secs
 more than one recognition
 
 recognition
-time: 1.046048863 secs
+time: 1.030772995 secs
 more than one recognition
 
 recognition
-time: 0.993143848 secs
+time: 1.047769992 secs
 more than one recognition
 
 recognition
-time: 1.009852855 secs
+time: 1.023007964 secs
 more than one recognition
 
 recognition
-time: 1.005010111 secs
+time: 1.013623114 secs
 more than one recognition
 
 recognition
-time: 1.009901986 secs
+time: 1.013623114 secs
 more than one recognition
 
 recognition
-time: 1.016529867 secs
+time: 1.028211986 secs
 more than one recognition
 
 recognition
-time: 1.033394994 secs
+time: 0.988102147 secs
 more than one recognition
 
 recognition
-time: 1.035448141 secs
+time: 0.988102147 secs
 more than one recognition
 
 recognition
-time: 1.002529014 secs
+time: 0.987885853 secs
 more than one recognition
 
 recognition
-time: 1.015279888 secs
+time: 0.99190888 secs
 more than one recognition
 
 recognition
-time: 1.014821987 secs
+time: 1.013605035 secs
 more than one recognition
 
 recognition
-time: 1.046048863 secs
+time: 1.00692201 secs
 more than one recognition
 
 recognition
-time: 1.019104946 secs
+time: 1.030772995 secs
 more than one recognition
 
 recognition
-time: 1.012195896 secs
+time: 1.043787031 secs
 more than one recognition
 
 recognition
-time: 1.003466133 secs
+time: 1.013030943 secs
 more than one recognition
 
 recognition
-time: 1.007805048 secs
+time: 1.014818159 secs
 more than one recognition
 
 recognition
-time: 1.046048863 secs
+time: 0.999836953 secs
 more than one recognition
 
 recognition
-time: 1.025764 secs
+time: 0.999488167 secs
 more than one recognition
 
 recognition
-time: 1.006028074 secs
+time: 1.013030943 secs
 more than one recognition
 
 recognition
-time: 1.038743944 secs
+time: 1.006395128 secs
 more than one recognition
 
 recognition
-time: 1.017914868 secs
+time: 1.018048139 secs
 more than one recognition
 
 recognition
-time: 1.032759956 secs
+time: 1.00221691 secs
 more than one recognition
 
 recognition
-time: 1.032759956 secs
+time: 1.03317391 secs
 more than one recognition
 
 recognition
-time: 1.001246132 secs
+time: 1.002013174 secs
 more than one recognition
 
 recognition
-time: 0.996798878 secs
+time: 0.999836953 secs
 more than one recognition
 
 recognition
-time: 1.014976082 secs
+time: 0.979481922 secs
 more than one recognition
 
 recognition
-time: 0.995889843 secs
+time: 1.014368117 secs
 more than one recognition
 
 recognition
-time: 1.012799156 secs
+time: 1.011530943 secs
 more than one recognition
 
 recognition
-time: 1.036933993 secs
+time: 0.979481922 secs
 more than one recognition
 
 recognition
-time: 1.012195896 secs
+time: 1.01017302 secs
 more than one recognition
 
 recognition
-time: 1.006028074 secs
+time: 0.990310003 secs
 more than one recognition
 
 recognition
-time: 1.017533095 secs
+time: 1.000035027 secs
 more than one recognition
 
 recognition
-time: 1.012408131 secs
+time: 1.022812981 secs
 more than one recognition
 
 recognition
-time: 1.025664099 secs
+time: 1.041793862 secs
 more than one recognition
 
 recognition
-time: 0.999592073 secs
+time: 1.02355119 secs
 more than one recognition
 
 recognition
-time: 1.012408131 secs
+time: 1.023033863 secs
 more than one recognition
 
 recognition
-time: 1.008945979 secs
+time: 1.027469095 secs
 more than one recognition
 
 recognition
-time: 1.003037979 secs
+time: 1.001892956 secs
 more than one recognition
 
 recognition
-time: 1.016059862 secs
+time: 1.033998154 secs
 more than one recognition
 
 recognition
-time: 1.008076975 secs
+time: 1.015086887 secs
 more than one recognition
 
 recognition
-time: 1.017178948 secs
+time: 1.017198803 secs
 more than one recognition
 
 recognition
-time: 0.999592073 secs
+time: 1.003021877 secs
 more than one recognition
 
 recognition
-time: 1.01346801 secs
+time: 0.987953953 secs
 more than one recognition
 
 recognition
-time: 1.006703871 secs
+time: 1.042508881 secs
 more than one recognition
 
 recognition
-time: 1.04897805 secs
+time: 0.996952001 secs
 more than one recognition
 
 recognition
-time: 1.01346801 secs
+time: 0.998089914 secs
 more than one recognition
 
 recognition
-time: 1.033063957 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.043883917 secs
+time: 1.013030943 secs
 more than one recognition
 
 recognition
-time: 1.018820873 secs
+time: 1.002657225 secs
 more than one recognition
 
 recognition
-time: 1.035211117 secs
+time: 0.990438056 secs
 more than one recognition
 
 recognition
-time: 1.014807936 secs
+time: 1.009375861 secs
 more than one recognition
 
 recognition
-time: 1.029084063 secs
+time: 1.040657055 secs
 more than one recognition
 
 recognition
-time: 1.021886009 secs
+time: 1.015185045 secs
 more than one recognition
 
 recognition
-time: 1.016529867 secs
+time: 1.022211996 secs
 more than one recognition
 
 recognition
-time: 1.018043974 secs
+time: 1.027915808 secs
 more than one recognition
 
 recognition
-time: 1.004019051 secs
+time: 1.015081823 secs
 more than one recognition
 
 recognition
-time: 1.041786973 secs
+time: 1.017198999 secs
 more than one recognition
 
 recognition
-time: 1.004273071 secs
+time: 1.019309825 secs
 more than one recognition
 
 recognition
-time: 1.024775971 secs
+time: 1.009375861 secs
 more than one recognition
 
 recognition
-time: 0.999381184 secs
+time: 1.012233002 secs
 more than one recognition
 
 recognition
-time: 1.028852022 secs
+time: 1.017645048 secs
 more than one recognition
 
 recognition
-time: 1.009625788 secs
+time: 1.002406919 secs
 more than one recognition
 
 recognition
-time: 1.007715893 secs
+time: 0.990438056 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 0.997930988 secs
 more than one recognition
 
 recognition
-time: 1.012408131 secs
+time: 0.990438056 secs
 more than one recognition
 
 recognition
-time: 1.024944834 secs
+time: 0.990310003 secs
 more than one recognition
 
 recognition
-time: 1.031284103 secs
+time: 0.979481922 secs
 more than one recognition
 
 recognition
-time: 1.04867314 secs
+time: 1.009375861 secs
 more than one recognition
 
 recognition
-time: 1.006703871 secs
+time: 1.028775938 secs
 more than one recognition
 
 recognition
-time: 1.022173096 secs
+time: 1.006553202 secs
 more than one recognition
 
 recognition
-time: 1.040191008 secs
+time: 1.012544069 secs
 more than one recognition
 
 recognition
-time: 1.029235933 secs
+time: 1.006559881 secs
 more than one recognition
 
 recognition
-time: 1.012195896 secs
+time: 1.013835066 secs
 more than one recognition
 
 recognition
-time: 1.039234058 secs
+time: 1.026028881 secs
 more than one recognition
 
 recognition
-time: 1.007028887 secs
+time: 1.015185045 secs
 more than one recognition
 
 recognition
-time: 1.04867314 secs
+time: 1.014230927 secs
 more than one recognition
 
 recognition
-time: 1.020985929 secs
+time: 1.013708096 secs
 more than one recognition
 
 recognition
-time: 1.009195019 secs
+time: 0.990438056 secs
 more than one recognition
 
 recognition
-time: 1.015923998 secs
+time: 1.021055138 secs
 more than one recognition
 
 recognition
-time: 1.031284103 secs
+time: 1.027512985 secs
 more than one recognition
 
 recognition
-time: 1.006830853 secs
+time: 1.005516016 secs
 more than one recognition
 
 recognition
-time: 1.031284103 secs
+time: 1.002657225 secs
 more than one recognition
 
 recognition
-time: 1.043883917 secs
+time: 1.046212094 secs
 more than one recognition
 
 recognition
-time: 1.021103993 secs
+time: 1.021218044 secs
 more than one recognition
 
 recognition
-time: 1.004375073 secs
+time: 1.01909614 secs
 more than one recognition
 
 recognition
-time: 0.998172943 secs
+time: 1.010187134 secs
 more than one recognition
 
 recognition
-time: 0.981791088 secs
+time: 1.006553202 secs
 more than one recognition
 
 recognition
-time: 1.008867965 secs
+time: 1.00507687 secs
 more than one recognition
 
 recognition
-time: 1.01764781 secs
+time: 1.052739104 secs
 more than one recognition
 
 recognition
-time: 0.994887142 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.022173096 secs
+time: 1.021218044 secs
 more than one recognition
 
 recognition
-time: 0.986065129 secs
+time: 1.00507687 secs
 more than one recognition
 
 recognition
-time: 1.02349394 secs
+time: 1.007036926 secs
 more than one recognition
 
 recognition
-time: 1.031284103 secs
+time: 1.021764915 secs
 more than one recognition
 
 recognition
-time: 1.04725498 secs
+time: 1.019966019 secs
 more than one recognition
 
 recognition
-time: 1.017026949 secs
+time: 1.02175303 secs
 more than one recognition
 
 recognition
-time: 1.008867965 secs
+time: 1.017354059 secs
 more than one recognition
 
 recognition
-time: 1.016163961 secs
+time: 1.009266903 secs
 more than one recognition
 
 recognition
-time: 1.018134922 secs
+time: 0.995109892 secs
 more than one recognition
 
 recognition
-time: 1.045187043 secs
+time: 1.02652405 secs
 more than one recognition
 
 recognition
-time: 0.997909813 secs
+time: 1.012999 secs
 more than one recognition
 
 recognition
-time: 1.029285002 secs
+time: 0.997355036 secs
 more than one recognition
 
 recognition
-time: 0.998172943 secs
+time: 0.995667028 secs
 more than one recognition
 
 recognition
-time: 1.017756033 secs
+time: 1.026150122 secs
 more than one recognition
 
 recognition
-time: 1.000421986 secs
+time: 1.009715021 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 1.043146019 secs
 more than one recognition
 
 recognition
-time: 1.045187043 secs
+time: 1.023873892 secs
 more than one recognition
 
 recognition
-time: 1.017756033 secs
+time: 1.00726809 secs
 more than one recognition
 
 recognition
-time: 1.003628969 secs
+time: 1.020978929 secs
 more than one recognition
 
 recognition
-time: 0.999327 secs
+time: 1.00269199 secs
 more than one recognition
 
 recognition
-time: 0.989669111 secs
+time: 1.019118101 secs
 more than one recognition
 
 recognition
-time: 0.995179848 secs
+time: 1.024176147 secs
 more than one recognition
 
 recognition
-time: 1.009019015 secs
+time: 1.007814045 secs
 more than one recognition
 
 recognition
-time: 1.003658039 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.010839903 secs
+time: 1.011903919 secs
 more than one recognition
 
 recognition
-time: 1.011428988 secs
+time: 1.029896948 secs
 more than one recognition
 
 recognition
-time: 1.021285822 secs
+time: 1.00269199 secs
 more than one recognition
 
 recognition
-time: 1.014734903 secs
+time: 1.033683977 secs
 more than one recognition
 
 recognition
-time: 1.011547958 secs
+time: 0.994740015 secs
 more than one recognition
 
 recognition
-time: 1.0066311 secs
+time: 1.047399853 secs
 more than one recognition
 
 recognition
-time: 1.004363173 secs
+time: 1.00269199 secs
 more than one recognition
 
 recognition
-time: 1.001594189 secs
+time: 1.028167038 secs
 more than one recognition
 
 recognition
-time: 1.014999885 secs
+time: 1.00901795 secs
 more than one recognition
 
 recognition
-time: 0.997736047 secs
+time: 1.02988617 secs
 more than one recognition
 
 recognition
-time: 1.019675022 secs
+time: 1.00726809 secs
 more than one recognition
 
 recognition
-time: 1.019698971 secs
+time: 1.044117069 secs
 more than one recognition
 
 recognition
-time: 1.030268091 secs
+time: 1.002668064 secs
 more than one recognition
 
 recognition
-time: 1.010103017 secs
+time: 1.00106489 secs
 more than one recognition
 
 recognition
-time: 1.013386065 secs
+time: 1.026717087 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 1.025429058 secs
 more than one recognition
 
 recognition
-time: 1.03763178 secs
+time: 1.009266903 secs
 more than one recognition
 
 recognition
-time: 0.995667776 secs
+time: 1.012943077 secs
 more than one recognition
 
 recognition
-time: 0.998296879 secs
+time: 1.019000923 secs
 more than one recognition
 
 recognition
-time: 1.03445299 secs
+time: 0.996506958 secs
 more than one recognition
 
 recognition
-time: 1.024840988 secs
+time: 0.98806502 secs
 more than one recognition
 
 recognition
-time: 1.015335934 secs
+time: 0.994847981 secs
 more than one recognition
 
 recognition
-time: 1.019698971 secs
+time: 0.985897987 secs
 more than one recognition
 
 recognition
-time: 0.992078987 secs
+time: 1.008196968 secs
 more than one recognition
 
 recognition
-time: 1.01706217 secs
+time: 1.031295025 secs
 more than one recognition
 
 recognition
-time: 0.991829123 secs
+time: 1.026498104 secs
 more than one recognition
 
 recognition
-time: 0.997736047 secs
+time: 0.994576911 secs
 more than one recognition
 
 recognition
-time: 1.011785168 secs
+time: 1.038394068 secs
 more than one recognition
 
 recognition
-time: 1.024110866 secs
+time: 0.994576911 secs
 more than one recognition
 
 recognition
-time: 1.024077938 secs
+time: 1.031647953 secs
 more than one recognition
 
 recognition
-time: 1.013590929 secs
+time: 1.032525089 secs
 more than one recognition
 
 recognition
-time: 1.008337046 secs
+time: 1.008196968 secs
 more than one recognition
 
 recognition
-time: 1.003658039 secs
+time: 1.033673942 secs
 more than one recognition
 
 recognition
-time: 1.035736998 secs
+time: 0.984505054 secs
 more than one recognition
 
 recognition
-time: 1.034435101 secs
+time: 1.042430099 secs
 more than one recognition
 
 recognition
-time: 1.01493305 secs
+time: 1.00129798 secs
 more than one recognition
 
 recognition
-time: 1.020522045 secs
+time: 0.995691899 secs
 more than one recognition
 
 recognition
-time: 1.003564953 secs
+time: 1.000026991 secs
 more than one recognition
 
 recognition
-time: 1.000218035 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.05093716 secs
+time: 1.013087065 secs
 more than one recognition
 
 recognition
-time: 1.003039062 secs
+time: 1.013087065 secs
 more than one recognition
 
 recognition
-time: 1.044691023 secs
+time: 0.994740015 secs
 more than one recognition
 
 recognition
-time: 1.016879929 secs
+time: 1.018028954 secs
 more than one recognition
 
 recognition
-time: 1.037034106 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.012760954 secs
+time: 1.016610953 secs
 more than one recognition
 
 recognition
-time: 1.028005133 secs
+time: 1.017961071 secs
 more than one recognition
 
 recognition
-time: 1.012993102 secs
+time: 1.002251046 secs
 more than one recognition
 
 recognition
-time: 1.05093716 secs
+time: 1.018300888 secs
 more than one recognition
 
 recognition
-time: 1.004105009 secs
+time: 1.041761017 secs
 more than one recognition
 
 recognition
-time: 0.990886001 secs
+time: 1.016610953 secs
 more than one recognition
 
 recognition
-time: 1.045225946 secs
+time: 1.012943077 secs
 more than one recognition
 
 recognition
-time: 1.002489984 secs
+time: 1.011462106 secs
 more than one recognition
 
 recognition
-time: 1.02130798 secs
+time: 0.993740935 secs
 more than one recognition
 
 recognition
-time: 1.013386065 secs
+time: 0.997897997 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 1.012943077 secs
 more than one recognition
 
 recognition
-time: 0.995885141 secs
+time: 1.017961071 secs
 more than one recognition
 
 recognition
-time: 0.995885141 secs
+time: 1.007635017 secs
 more than one recognition
 
 recognition
-time: 1.024840988 secs
+time: 1.007635017 secs
 more than one recognition
 
 recognition
-time: 1.005827996 secs
+time: 1.037702805 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 1.010676039 secs
 more than one recognition
 
 recognition
-time: 1.016926119 secs
+time: 1.007635017 secs
 more than one recognition
 
 recognition
-time: 1.000790992 secs
+time: 1.029488048 secs
 more than one recognition
 
 recognition
-time: 1.041351128 secs
+time: 1.018113014 secs
 more than one recognition
 
 recognition
-time: 0.986013094 secs
+time: 1.039991972 secs
 more than one recognition
 
 recognition
-time: 1.030347896 secs
+time: 0.99412698 secs
 more than one recognition
 
 recognition
-time: 1.016926119 secs
+time: 0.994658884 secs
 more than one recognition
 
 recognition
-time: 1.007227143 secs
+time: 0.993740935 secs
 more than one recognition
 
 recognition
-time: 1.023317144 secs
+time: 1.037702805 secs
 more than one recognition
 
 recognition
-time: 1.039072021 secs
+time: 1.041761017 secs
 more than one recognition
 
 recognition
-time: 1.039408188 secs
+time: 1.019709007 secs
 more than one recognition
 
 recognition
-time: 1.008947915 secs
+time: 1.002002942 secs
 more than one recognition
 
 recognition
-time: 1.000790992 secs
+time: 1.010569924 secs
 more than one recognition
 
 recognition
-time: 1.034082941 secs
+time: 1.015261921 secs
 more than one recognition
 
 recognition
-time: 1.034082941 secs
+time: 1.010959112 secs
 more than one recognition
 
 recognition
-time: 1.017484886 secs
+time: 1.010569924 secs
 more than one recognition
 
 recognition
-time: 1.021767899 secs
+time: 0.992326891 secs
 more than one recognition
 
 recognition
-time: 1.003056036 secs
+time: 1.000026991 secs
 more than one recognition
 
 recognition
-time: 1.032364957 secs
+time: 1.009359947 secs
 more than one recognition
 
 recognition
-time: 1.028926878 secs
+time: 0.993938018 secs
 more than one recognition
 
 recognition
-time: 1.046379118 secs
+time: 1.006678936 secs
 more than one recognition
 
 recognition
-time: 0.99966917 secs
+time: 1.024615034 secs
 more than one recognition
 
 recognition
-time: 1.01081094 secs
+time: 1.039376095 secs
 more than one recognition
 
 recognition
-time: 1.039072021 secs
+time: 0.994588051 secs
 more than one recognition
 
 recognition
-time: 1.017484886 secs
+time: 1.013895087 secs
 more than one recognition
 
 recognition
-time: 1.000370855 secs
+time: 1.011462106 secs
 more than one recognition
 
 recognition
-time: 1.030248039 secs
+time: 0.997384878 secs
 more than one recognition
 
 recognition
-time: 1.015116178 secs
+time: 1.019408059 secs
 more than one recognition
 
 recognition
-time: 1.009435982 secs
+time: 1.009359947 secs
 more than one recognition
 
 recognition
-time: 1.043918883 secs
+time: 1.022403074 secs
 more than one recognition
 
 recognition
-time: 1.026784123 secs
+time: 0.989751908 secs
 more than one recognition
 
 recognition
-time: 1.009435982 secs
+time: 1.009362118 secs
 more than one recognition
 
 recognition
-time: 1.005944043 secs
+time: 1.013492983 secs
 more than one recognition
 
 recognition
-time: 1.017972192 secs
+time: 1.019813133 secs
 more than one recognition
 
 recognition
-time: 1.034744009 secs
+time: 1.034303884 secs
 more than one recognition
 
 recognition
-time: 1.001283975 secs
+time: 0.986516958 secs
 more than one recognition
 
 recognition
-time: 1.002575929 secs
+time: 1.033594878 secs
 more than one recognition
 
 recognition
-time: 1.033059862 secs
+time: 1.019408059 secs
 more than one recognition
 
 recognition
-time: 1.004439059 secs
+time: 1.011141998 secs
 more than one recognition
 
 recognition
-time: 1.01355107 secs
+time: 1.025565981 secs
 more than one recognition
 
 recognition
-time: 1.03880289 secs
+time: 1.010736973 secs
 more than one recognition
 
 recognition
-time: 1.023317144 secs
+time: 1.041419056 secs
 more than one recognition
 
 recognition
-time: 1.010612931 secs
+time: 1.021319981 secs
 more than one recognition
 
 recognition
-time: 1.041866112 secs
+time: 1.00296303 secs
 more than one recognition
 
 recognition
-time: 1.034744009 secs
+time: 1.027737021 secs
 more than one recognition
 
 recognition
-time: 1.00815713 secs
+time: 1.002251046 secs
 more than one recognition
 
 recognition
-time: 0.989877189 secs
+time: 1.012471096 secs
 more than one recognition
 
 recognition
-time: 1.013445013 secs
+time: 1.007085945 secs
 more than one recognition
 
 recognition
-time: 1.000336069 secs
+time: 1.010141853 secs
 more than one recognition
 
 recognition
-time: 1.00335514 secs
+time: 1.017319837 secs
 more than one recognition
 
 recognition
-time: 1.016927032 secs
+time: 1.018330037 secs
 more than one recognition
 
 recognition
-time: 1.017335029 secs
+time: 1.005906 secs
 more than one recognition
 
 recognition
-time: 1.029406967 secs
+time: 1.032254967 secs
 more than one recognition
 
 recognition
-time: 1.043855004 secs
+time: 1.017373135 secs
 more than one recognition
 
 recognition
-time: 1.016703977 secs
+time: 1.017373135 secs
 more than one recognition
 
 recognition
-time: 0.993455983 secs
+time: 1.007085945 secs
 more than one recognition
 
 recognition
-time: 1.01129693 secs
+time: 1.008075065 secs
 more than one recognition
 
 recognition
-time: 0.982317825 secs
+time: 1.0318249 secs
 more than one recognition
 
 recognition
-time: 1.017162112 secs
+time: 1.042513113 secs
 more than one recognition
 
 recognition
-time: 1.010744924 secs
+time: 1.015782926 secs
 more than one recognition
 
 recognition
-time: 1.018639118 secs
+time: 1.050356978 secs
 more than one recognition
 
 recognition
-time: 1.005001899 secs
+time: 1.023771984 secs
 more than one recognition
 
 recognition
-time: 1.00322895 secs
+time: 1.023948 secs
 more than one recognition
 
 recognition
-time: 1.00165206 secs
+time: 1.008833025 secs
 more than one recognition
 
 recognition
-time: 1.026323885 secs
+time: 1.012379912 secs
 more than one recognition
 
 recognition
-time: 1.013973068 secs
+time: 1.040088096 secs
 more than one recognition
 
 recognition
-time: 0.996803986 secs
+time: 1.012379912 secs
 more than one recognition
 
 recognition
-time: 1.007902025 secs
+time: 1.014722075 secs
 more than one recognition
 
 recognition
-time: 1.03880289 secs
+time: 1.0318249 secs
 more than one recognition
 
 recognition
-time: 0.996437034 secs
+time: 1.013350036 secs
 more than one recognition
 
 recognition
-time: 1.010307861 secs
+time: 0.990025002 secs
 more than one recognition
 
 recognition
-time: 1.00165206 secs
+time: 1.000878881 secs
 more than one recognition
 
 recognition
-time: 1.018579874 secs
+time: 1.027851178 secs
 more than one recognition
 
 recognition
-time: 1.035458008 secs
+time: 0.990025002 secs
 more than one recognition
 
 recognition
-time: 1.037922926 secs
+time: 1.00000107 secs
 more than one recognition
 
 recognition
-time: 1.022978962 secs
+time: 1.024615034 secs
 more than one recognition
 
 recognition
-time: 1.013072992 secs
+time: 1.019967046 secs
 more than one recognition
 
 recognition
-time: 1.006418059 secs
+time: 1.026525112 secs
 more than one recognition
 
 recognition
-time: 1.002561939 secs
+time: 1.026525112 secs
 more than one recognition
 
 recognition
-time: 1.024109001 secs
+time: 1.043940203 secs
 more than one recognition
 
 recognition
-time: 0.983718031 secs
+time: 1.016141981 secs
 more than one recognition
 
 recognition
-time: 1.003556019 secs
+time: 1.034303884 secs
 more than one recognition
 
 recognition
-time: 0.983718031 secs
+time: 1.010046095 secs
 more than one recognition
 
 recognition
-time: 1.000790992 secs
+time: 0.99437799 secs
 more than one recognition
 
 recognition
-time: 1.035458008 secs
+time: 1.020609101 secs
 more than one recognition
 
 recognition
-time: 0.990123146 secs
+time: 1.005085041 secs
 more than one recognition
 
 recognition
-time: 1.011807968 secs
+time: 0.998003121 secs
 more than one recognition
 
 recognition
-time: 1.038553026 secs
+time: 1.011237935 secs
 more than one recognition
 
 recognition
-time: 1.021987054 secs
+time: 1.003415979 secs
 more than one recognition
 
 recognition
-time: 1.011807968 secs
+time: 1.027742914 secs
 more than one recognition
 
 recognition
-time: 1.001482863 secs
+time: 1.018100921 secs
 more than one recognition
 
 recognition
-time: 1.033059862 secs
+time: 1.017114014 secs
 more than one recognition
 
 recognition
-time: 1.013720977 secs
+time: 1.043940203 secs
 more than one recognition
 
 recognition
-time: 1.003919952 secs
+time: 1.007181995 secs
 more than one recognition
 
 recognition
-time: 1.003919952 secs
+time: 1.026525112 secs
 more than one recognition
 
 recognition
-time: 1.013423122 secs
+time: 0.998027048 secs
 more than one recognition
 
 recognition
-time: 1.010307861 secs
+time: 1.027742914 secs
 more than one recognition
 
 recognition
-time: 1.016927032 secs
+time: 1.01765009 secs
 more than one recognition
 
 recognition
-time: 0.996106019 secs
+time: 0.998027048 secs
 more than one recognition
 
 recognition
-time: 0.984416097 secs
+time: 0.997196963 secs
 more than one recognition
 
 recognition
-time: 1.009078856 secs
+time: 1.009266903 secs
 more than one recognition
 
 recognition
-time: 1.025062914 secs
+time: 1.02080889 secs
 more than one recognition
 
 recognition
-time: 0.999511857 secs
+time: 1.043550824 secs
 more than one recognition
 
 recognition
-time: 1.027343191 secs
+time: 1.024901079 secs
 more than one recognition
 
 recognition
-time: 1.012086031 secs
+time: 1.005491955 secs
 more than one recognition
 
 recognition
-time: 0.995308885 secs
+time: 1.028372074 secs
 more than one recognition
 
 recognition
-time: 0.998507892 secs
+time: 1.041616188 secs
 more than one recognition
 
 recognition
-time: 1.013423122 secs
+time: 1.025476896 secs
 more than one recognition
 
 recognition
-time: 1.017003887 secs
+time: 1.033594878 secs
 more than one recognition
 
 recognition
-time: 0.996552887 secs
+time: 1.013712972 secs
 more than one recognition
 
 recognition
-time: 1.025057993 secs
+time: 1.003893989 secs
 more than one recognition
 
 recognition
-time: 1.012086031 secs
+time: 1.009266903 secs
 more than one recognition
 
 recognition
-time: 1.034668169 secs
+time: 1.021287859 secs
 more than one recognition
 
 recognition
-time: 1.025057993 secs
+time: 1.023992996 secs
 more than one recognition
 
 recognition
-time: 0.990960951 secs
+time: 1.006662018 secs
 more than one recognition
 
 recognition
-time: 1.003658039 secs
+time: 1.033594878 secs
 more than one recognition
 
 recognition
-time: 0.996574009 secs
+time: 0.999374981 secs
 more than one recognition
 
 recognition
-time: 1.006452068 secs
+time: 1.033594878 secs
 more than one recognition
 
 recognition
-time: 1.029939882 secs
+time: 1.036400041 secs
 more than one recognition
 
 recognition
-time: 1.035876018 secs
+time: 1.017346043 secs
 more than one recognition
 
 recognition
-time: 1.005872166 secs
+time: 1.005085041 secs
 more than one recognition
 
 recognition
-time: 0.989796104 secs
+time: 0.998027048 secs
 more than one recognition
 
 recognition
-time: 1.008720014 secs
+time: 1.001768942 secs
 more than one recognition
 
 recognition
-time: 1.029406967 secs
+time: 0.998027048 secs
 more than one recognition
 
 recognition
-time: 1.030005068 secs
+time: 1.001706985 secs
 more than one recognition
 
 recognition
-time: 1.013692994 secs
+time: 1.012903048 secs
 more than one recognition
 
 recognition
-time: 1.003658039 secs
+time: 1.006500164 secs
 more than one recognition
 
 recognition
-time: 1.029910983 secs
+time: 1.007181995 secs
 more than one recognition
 
 recognition
-time: 1.009872959 secs
+time: 1.016751857 secs
 more than one recognition
 
 recognition
-time: 0.998486948 secs
+time: 1.013151115 secs
 more than one recognition
 
 recognition
-time: 1.029406967 secs
+time: 1.001842096 secs
 more than one recognition
 
 recognition
-time: 1.015716906 secs
+time: 1.019670864 secs
 more than one recognition
 
 recognition
-time: 1.029406967 secs
+time: 1.004213033 secs
 more than one recognition
 
 recognition
-time: 1.026524029 secs
+time: 1.047173008 secs
 more than one recognition
 
 recognition
-time: 1.017403025 secs
+time: 1.001963017 secs
 more than one recognition
 
 recognition
-time: 1.009078856 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.025057993 secs
+time: 1.006183966 secs
 more than one recognition
 
 recognition
-time: 1.014173016 secs
+time: 0.994173075 secs
 more than one recognition
 
 recognition
-time: 1.025057993 secs
+time: 0.995407011 secs
 more than one recognition
 
 recognition
-time: 1.009228962 secs
+time: 1.004736773 secs
 more than one recognition
 
 recognition
-time: 1.024847927 secs
+time: 0.994173075 secs
 more than one recognition
 
 recognition
-time: 1.017020969 secs
+time: 1.001706985 secs
 more than one recognition
 
 recognition
-time: 1.017003887 secs
+time: 1.022747933 secs
 more than one recognition
 
 recognition
-time: 1.00906106 secs
+time: 1.007225931 secs
 more than one recognition
 
 recognition
-time: 1.012855108 secs
+time: 1.025744033 secs
 more than one recognition
 
 recognition
-time: 0.993560974 secs
+time: 1.016194943 secs
 more than one recognition
 
 recognition
-time: 1.028323118 secs
+time: 0.987657093 secs
 more than one recognition
 
 recognition
-time: 1.023062863 secs
+time: 1.0002539 secs
 more than one recognition
 
 recognition
-time: 1.016173933 secs
+time: 1.005151839 secs
 more than one recognition
 
 recognition
-time: 1.018683052 secs
+time: 0.988856974 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.013377975 secs
 more than one recognition
 
 recognition
-time: 1.013070015 secs
+time: 1.001706985 secs
 more than one recognition
 
 recognition
-time: 1.038620952 secs
+time: 1.013377975 secs
 more than one recognition
 
 recognition
-time: 0.994222115 secs
+time: 1.00405184 secs
 more than one recognition
 
 recognition
-time: 1.00042597 secs
+time: 1.019627968 secs
 more than one recognition
 
 recognition
-time: 1.038620952 secs
+time: 1.023340879 secs
 more than one recognition
 
 recognition
-time: 1.009228962 secs
+time: 0.988983036 secs
 more than one recognition
 
 recognition
-time: 1.00258689 secs
+time: 1.031460186 secs
 more than one recognition
 
 recognition
-time: 1.021302923 secs
+time: 1.013828069 secs
 more than one recognition
 
 recognition
-time: 1.009078923 secs
+time: 1.01274094 secs
 more than one recognition
 
 recognition
-time: 1.00355982 secs
+time: 1.005737896 secs
 more than one recognition
 
 recognition
-time: 0.997413941 secs
+time: 0.993750843 secs
 more than one recognition
 
 recognition
-time: 1.009167938 secs
+time: 1.035933764 secs
 more than one recognition
 
 recognition
-time: 1.020286216 secs
+time: 1.022747933 secs
 more than one recognition
 
 recognition
-time: 1.033385199 secs
+time: 1.035933764 secs
 more than one recognition
 
 recognition
-time: 1.019771929 secs
+time: 0.997035059 secs
 more than one recognition
 
 recognition
-time: 1.009228962 secs
+time: 1.018171905 secs
 more than one recognition
 
 recognition
-time: 1.019771929 secs
+time: 1.02715397 secs
 more than one recognition
 
 recognition
-time: 1.035062924 secs
+time: 1.000650793 secs
 more than one recognition
 
 recognition
-time: 1.015255892 secs
+time: 1.018171905 secs
 more than one recognition
 
 recognition
-time: 1.02584408 secs
+time: 1.041267969 secs
 more than one recognition
 
 recognition
-time: 0.992179081 secs
+time: 1.007225931 secs
 more than one recognition
 
 recognition
-time: 1.007473956 secs
+time: 1.003512018 secs
 more than one recognition
 
 recognition
-time: 1.042732964 secs
+time: 1.017436035 secs
 more than one recognition
 
 recognition
-time: 1.042182037 secs
+time: 1.010654989 secs
 more than one recognition
 
 recognition
-time: 1.036132906 secs
+time: 1.007181995 secs
 more than one recognition
 
 recognition
-time: 1.037425053 secs
+time: 1.006500164 secs
 more than one recognition
 
 recognition
-time: 1.024145981 secs
+time: 1.030844823 secs
 more than one recognition
 
 recognition
-time: 1.00258689 secs
+time: 1.027054813 secs
 more than one recognition
 
 recognition
-time: 1.041652092 secs
+time: 1.003020982 secs
 more than one recognition
 
 recognition
-time: 1.013863163 secs
+time: 1.024233888 secs
 more than one recognition
 
 recognition
-time: 0.993843068 secs
+time: 1.015030911 secs
 more than one recognition
 
 recognition
-time: 1.022832916 secs
+time: 1.044551895 secs
 more than one recognition
 
 recognition
-time: 1.041652092 secs
+time: 1.007751101 secs
 more than one recognition
 
 recognition
-time: 1.001887111 secs
+time: 0.987692946 secs
 more than one recognition
 
 recognition
-time: 1.00871679 secs
+time: 1.004606968 secs
 more than one recognition
 
 recognition
-time: 1.021302923 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.013882013 secs
+time: 1.005520193 secs
 more than one recognition
 
 recognition
-time: 0.983551174 secs
+time: 1.01274094 secs
 more than one recognition
 
 recognition
-time: 0.996049057 secs
+time: 1.028101038 secs
 more than one recognition
 
 recognition
-time: 1.00252083 secs
+time: 1.017694132 secs
 more than one recognition
 
 recognition
-time: 1.018777115 secs
+time: 1.04026705 secs
 more than one recognition
 
 recognition
-time: 0.998607033 secs
+time: 0.993427911 secs
 more than one recognition
 
 recognition
-time: 1.026166035 secs
+time: 1.031308094 secs
 more than one recognition
 
 recognition
-time: 1.00061998 secs
+time: 1.008382979 secs
 more than one recognition
 
 recognition
-time: 1.031151062 secs
+time: 0.991706228 secs
 more than one recognition
 
 recognition
-time: 1.026166035 secs
+time: 1.029144008 secs
 more than one recognition
 
 recognition
-time: 1.00252083 secs
+time: 1.037221038 secs
 more than one recognition
 
 recognition
-time: 0.983551174 secs
+time: 1.016277009 secs
 more than one recognition
 
 recognition
-time: 1.051553862 secs
+time: 1.015816954 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.031308094 secs
 more than one recognition
 
 recognition
-time: 0.988969912 secs
+time: 0.988127994 secs
 more than one recognition
 
 recognition
-time: 1.042182037 secs
+time: 1.007181995 secs
 more than one recognition
 
 recognition
-time: 1.019070072 secs
+time: 1.007665869 secs
 more than one recognition
 
 recognition
-time: 1.020335051 secs
+time: 1.044551895 secs
 more than one recognition
 
 recognition
-time: 1.014179072 secs
+time: 1.030844823 secs
 more than one recognition
 
 recognition
-time: 1.026747992 secs
+time: 1.001706985 secs
 more than one recognition
 
 recognition
-time: 1.001887111 secs
+time: 1.003300951 secs
 more than one recognition
 
 recognition
-time: 1.021603006 secs
+time: 1.008582926 secs
 more than one recognition
 
 recognition
-time: 1.031724917 secs
+time: 1.017694132 secs
 more than one recognition
 
 recognition
-time: 0.999055128 secs
+time: 1.024945965 secs
 more than one recognition
 
 recognition
-time: 1.006229982 secs
+time: 1.044551895 secs
 more than one recognition
 
 recognition
-time: 1.009297022 secs
+time: 0.994188032 secs
 more than one recognition
 
 recognition
-time: 1.010894043 secs
+time: 1.006310081 secs
 more than one recognition
 
 recognition
-time: 1.001887111 secs
+time: 1.006679106 secs
 more than one recognition
 
 recognition
-time: 1.0273441 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.017554956 secs
+time: 1.002708088 secs
 more than one recognition
 
 recognition
-time: 1.017554956 secs
+time: 1.013658116 secs
 more than one recognition
 
 recognition
-time: 1.011824978 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.018777115 secs
+time: 1.049184874 secs
 more than one recognition
 
 recognition
-time: 1.009228962 secs
+time: 1.019374828 secs
 more than one recognition
 
 recognition
-time: 1.034966065 secs
+time: 1.02615493 secs
 more than one recognition
 
 recognition
-time: 1.024209118 secs
+time: 1.043226898 secs
 more than one recognition
 
 recognition
-time: 1.020335051 secs
+time: 1.001293039 secs
 more than one recognition
 
 recognition
-time: 1.012151059 secs
+time: 1.00984383 secs
 more than one recognition
 
 recognition
-time: 1.011824978 secs
+time: 1.020098976 secs
 more than one recognition
 
 recognition
-time: 0.993510924 secs
+time: 0.994837917 secs
 more than one recognition
 
 recognition
-time: 0.999927855 secs
+time: 0.991297068 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.020098976 secs
 more than one recognition
 
 recognition
-time: 1.01818497 secs
+time: 1.01166497 secs
 more than one recognition
 
 recognition
-time: 1.011325164 secs
+time: 1.012667138 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.003769123 secs
 more than one recognition
 
 recognition
-time: 1.014098179 secs
+time: 1.00904695 secs
 more than one recognition
 
 recognition
-time: 1.031544061 secs
+time: 1.052831007 secs
 more than one recognition
 
 recognition
-time: 1.023832129 secs
+time: 1.013768786 secs
 more than one recognition
 
 recognition
-time: 0.992572115 secs
+time: 1.004356022 secs
 more than one recognition
 
 recognition
-time: 1.012423109 secs
+time: 0.993760895 secs
 more than one recognition
 
 recognition
-time: 1.006430912 secs
+time: 1.015212002 secs
 more than one recognition
 
 recognition
-time: 1.032414118 secs
+time: 1.001293039 secs
 more than one recognition
 
 recognition
-time: 1.022929017 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.006430912 secs
+time: 1.00904695 secs
 more than one recognition
 
 recognition
-time: 1.010614088 secs
+time: 1.014660145 secs
 more than one recognition
 
 recognition
-time: 1.04930516 secs
+time: 1.001293039 secs
 more than one recognition
 
 recognition
-time: 1.020307197 secs
+time: 0.997373131 secs
 more than one recognition
 
 recognition
-time: 1.039315859 secs
+time: 1.015212002 secs
 more than one recognition
 
 recognition
-time: 1.010223045 secs
+time: 1.012742148 secs
 more than one recognition
 
 recognition
-time: 1.018725124 secs
+time: 1.001293039 secs
 more than one recognition
 
 recognition
-time: 1.021551874 secs
+time: 1.057740034 secs
 more than one recognition
 
 recognition
-time: 1.033331119 secs
+time: 1.001942019 secs
 more than one recognition
 
 recognition
-time: 1.009228962 secs
+time: 1.002983011 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.025712881 secs
 more than one recognition
 
 recognition
-time: 1.039315859 secs
+time: 1.010250859 secs
 more than one recognition
 
 recognition
-time: 1.020335051 secs
+time: 1.01064691 secs
 more than one recognition
 
 recognition
-time: 1.014098179 secs
+time: 1.01735189 secs
 more than one recognition
 
 recognition
-time: 1.01622797 secs
+time: 1.024945965 secs
 more than one recognition
 
 recognition
-time: 1.033331119 secs
+time: 1.01589611 secs
 more than one recognition
 
 recognition
-time: 1.026309984 secs
+time: 1.004695954 secs
 more than one recognition
 
 recognition
-time: 1.014098179 secs
+time: 1.037725828 secs
 more than one recognition
 
 recognition
-time: 1.013799055 secs
+time: 1.024032105 secs
 more than one recognition
 
 recognition
-time: 1.009946119 secs
+time: 1.013768786 secs
 more than one recognition
 
 recognition
-time: 1.039315859 secs
+time: 1.008291985 secs
 more than one recognition
 
 recognition
-time: 1.034034078 secs
+time: 1.018205974 secs
 more than one recognition
 
 recognition
-time: 1.016512119 secs
+time: 1.01735189 secs
 more than one recognition
 
 recognition
-time: 0.99473507 secs
+time: 1.015802933 secs
 more than one recognition
 
 recognition
-time: 1.030839858 secs
+time: 1.011315024 secs
 more than one recognition
 
 recognition
-time: 1.012151059 secs
+time: 1.018012829 secs
 more than one recognition
 
 recognition
-time: 1.028310955 secs
+time: 1.032203008 secs
 more than one recognition
 
 recognition
-time: 1.02716188 secs
+time: 1.015599932 secs
 more than one recognition
 
 recognition
-time: 1.029827171 secs
+time: 1.004688986 secs
 more than one recognition
 
 recognition
-time: 1.039218977 secs
+time: 0.999703974 secs
 more than one recognition
 
 recognition
-time: 1.010223045 secs
+time: 0.988126999 secs
 more than one recognition
 
 recognition
-time: 1.016605965 secs
+time: 1.038709107 secs
 more than one recognition
 
 recognition
-time: 1.002624929 secs
+time: 1.005697103 secs
 more than one recognition
 
 recognition
-time: 1.030839858 secs
+time: 1.011315024 secs
 more than one recognition
 
 recognition
-time: 1.006972948 secs
+time: 1.01353789 secs
 more than one recognition
 
 recognition
-time: 1.011185886 secs
+time: 1.01589611 secs
 more than one recognition
 
 recognition
-time: 1.021434845 secs
+time: 1.000357113 secs
 more than one recognition
 
 recognition
-time: 1.017866031 secs
+time: 1.042654118 secs
 more than one recognition
 
 recognition
-time: 1.000060848 secs
+time: 1.012478994 secs
 more than one recognition
 
 recognition
-time: 1.015707998 secs
+time: 1.005888924 secs
 more than one recognition
 
 recognition
-time: 0.99719692 secs
+time: 1.012478994 secs
 more than one recognition
 
 recognition
-time: 0.995894936 secs
+time: 1.000085882 secs
 more than one recognition
 
 recognition
-time: 1.008079081 secs
+time: 1.015802933 secs
 more than one recognition
 
 recognition
-time: 1.046763944 secs
+time: 1.013740978 secs
 more than one recognition
 
 recognition
-time: 1.011185886 secs
+time: 1.032697057 secs
 more than one recognition
 
 recognition
-time: 1.009001043 secs
+time: 0.987556108 secs
 more than one recognition
 
 recognition
-time: 1.017154898 secs
+time: 1.018801979 secs
 more than one recognition
 
 recognition
-time: 1.017217077 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.001840042 secs
+time: 1.010017942 secs
 more than one recognition
 
 recognition
-time: 1.001887205 secs
+time: 1.005888924 secs
 more than one recognition
 
 recognition
-time: 1.048110773 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.001887205 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 0.994536104 secs
+time: 0.991935 secs
 more than one recognition
 
 recognition
-time: 1.006972948 secs
+time: 0.996725008 secs
 more than one recognition
 
 recognition
-time: 1.016155985 secs
+time: 0.987001066 secs
 more than one recognition
 
 recognition
-time: 1.048082989 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.001840042 secs
+time: 0.997772011 secs
 more than one recognition
 
 recognition
-time: 1.025133011 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 1.00865399 secs
 more than one recognition
 
 recognition
-time: 1.005914823 secs
+time: 1.031832863 secs
 more than one recognition
 
 recognition
-time: 1.000266083 secs
+time: 0.997590071 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 1.022931949 secs
 more than one recognition
 
 recognition
-time: 1.012778961 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 1.014066943 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.025593081 secs
+time: 1.002500977 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 1.017241131 secs
 more than one recognition
 
 recognition
-time: 1.014239973 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 1.014366047 secs
 more than one recognition
 
 recognition
-time: 1.026729847 secs
+time: 1.006228823 secs
 more than one recognition
 
 recognition
-time: 1.036965929 secs
+time: 1.043487043 secs
 more than one recognition
 
 recognition
-time: 1.016378042 secs
+time: 1.000696904 secs
 more than one recognition
 
 recognition
-time: 1.008113022 secs
+time: 1.011724966 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 1.043487043 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 1.006333031 secs
 more than one recognition
 
 recognition
-time: 0.998363066 secs
+time: 0.999889074 secs
 more than one recognition
 
 recognition
-time: 1.038813873 secs
+time: 1.045556118 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 1.014147892 secs
 more than one recognition
 
 recognition
-time: 1.035939981 secs
+time: 0.994490978 secs
 more than one recognition
 
 recognition
-time: 1.05051993 secs
+time: 0.987001066 secs
 more than one recognition
 
 recognition
-time: 1.010855863 secs
+time: 1.030905905 secs
 more than one recognition
 
 recognition
-time: 1.029309127 secs
+time: 0.995213815 secs
 more than one recognition
 
 recognition
-time: 1.03101794 secs
+time: 1.037341991 secs
 more than one recognition
 
 recognition
-time: 1.010855863 secs
+time: 0.99661895 secs
 more than one recognition
 
 recognition
-time: 1.014849018 secs
+time: 1.01781304 secs
 more than one recognition
 
 recognition
-time: 1.011442038 secs
+time: 1.037878067 secs
 more than one recognition
 
 recognition
-time: 1.029050856 secs
+time: 0.999889074 secs
 more than one recognition
 
 recognition
-time: 0.994512194 secs
+time: 1.004733892 secs
 more than one recognition
 
 recognition
-time: 1.016002073 secs
+time: 1.01544717 secs
 more than one recognition
 
 recognition
-time: 1.025593081 secs
+time: 1.017606089 secs
 more than one recognition
 
 recognition
-time: 1.023392057 secs
+time: 1.020211952 secs
 more than one recognition
 
 recognition
-time: 1.024096883 secs
+time: 1.011724966 secs
 more than one recognition
 
 recognition
-time: 1.045028997 secs
+time: 1.016100958 secs
 more than one recognition
 
 recognition
-time: 1.006725904 secs
+time: 1.01667701 secs
 more than one recognition
 
 recognition
-time: 0.990884117 secs
+time: 1.020211952 secs
 more than one recognition
 
 recognition
-time: 1.029050856 secs
+time: 1.020211952 secs
 more than one recognition
 
 recognition
-time: 1.011442038 secs
+time: 1.037878067 secs
 more than one recognition
 
 recognition
-time: 1.009149969 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.024052976 secs
+time: 1.015596111 secs
 more than one recognition
 
 recognition
-time: 1.022398152 secs
+time: 1.003358912 secs
 more than one recognition
 
 recognition
-time: 1.041316137 secs
+time: 0.99229499 secs
 more than one recognition
 
 recognition
-time: 1.033605133 secs
+time: 1.022225926 secs
 more than one recognition
 
 recognition
-time: 0.996417035 secs
+time: 1.000085882 secs
 more than one recognition
 
 recognition
-time: 1.008741096 secs
+time: 1.041360037 secs
 more than one recognition
 
 recognition
-time: 1.041316137 secs
+time: 1.028628075 secs
 more than one recognition
 
 recognition
-time: 1.041316137 secs
+time: 1.032637037 secs
 more than one recognition
 
 recognition
-time: 0.989914833 secs
+time: 0.993451837 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 0.99229499 secs
 more than one recognition
 
 recognition
-time: 1.01097517 secs
+time: 1.008833782 secs
 more than one recognition
 
 recognition
-time: 1.023749922 secs
+time: 1.008833782 secs
 more than one recognition
 
 recognition
-time: 1.028515022 secs
+time: 0.999290819 secs
 more than one recognition
 
 recognition
-time: 1.033480974 secs
+time: 1.011113913 secs
 more than one recognition
 
 recognition
-time: 1.057769869 secs
+time: 1.032573919 secs
 more than one recognition
 
 recognition
-time: 1.012554869 secs
+time: 1.02487707 secs
 more than one recognition
 
 recognition
-time: 1.047783941 secs
+time: 1.013596128 secs
 more than one recognition
 
 recognition
-time: 1.004257923 secs
+time: 1.016971025 secs
 more than one recognition
 
 recognition
-time: 1.029401026 secs
+time: 0.999294937 secs
 more than one recognition
 
 recognition
-time: 0.989456007 secs
+time: 0.999294937 secs
 more than one recognition
 
 recognition
-time: 1.00112907 secs
+time: 0.996124145 secs
 more than one recognition
 
 recognition
-time: 1.00112907 secs
+time: 1.044768061 secs
 more than one recognition
 
 recognition
-time: 1.024060018 secs
+time: 1.041360037 secs
 more than one recognition
 
 recognition
-time: 1.027336927 secs
+time: 1.007898969 secs
 more than one recognition
 
 recognition
-time: 0.989456007 secs
+time: 0.993057818 secs
 more than one recognition
 
 recognition
-time: 1.039096009 secs
+time: 1.007160977 secs
 more than one recognition
 
 recognition
-time: 0.991112976 secs
+time: 1.012227021 secs
 more than one recognition
 
 recognition
-time: 1.020789908 secs
+time: 1.024481932 secs
 more than one recognition
 
 recognition
-time: 1.030442007 secs
+time: 1.015966942 secs
 more than one recognition
 
 recognition
-time: 1.030442007 secs
+time: 1.055995901 secs
 more than one recognition
 
 recognition
-time: 1.011214917 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 0.988912029 secs
+time: 1.021229099 secs
 more than one recognition
 
 recognition
-time: 1.012554869 secs
+time: 0.989959871 secs
 more than one recognition
 
 recognition
-time: 1.01380596 secs
+time: 1.006630981 secs
 more than one recognition
 
 recognition
-time: 1.015821937 secs
+time: 1.017676112 secs
 more than one recognition
 
 recognition
-time: 1.021813875 secs
+time: 1.018648932 secs
 more than one recognition
 
 recognition
-time: 1.004873066 secs
+time: 1.001681919 secs
 more than one recognition
 
 recognition
-time: 0.996089033 secs
+time: 1.001681919 secs
 more than one recognition
 
 recognition
-time: 1.017470953 secs
+time: 1.025247984 secs
 more than one recognition
 
 recognition
-time: 1.015052171 secs
+time: 1.008025048 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 1.008230149 secs
 more than one recognition
 
 recognition
-time: 1.013936895 secs
+time: 1.041360037 secs
 more than one recognition
 
 recognition
-time: 1.028719994 secs
+time: 1.000401002 secs
 more than one recognition
 
 recognition
-time: 1.012742129 secs
+time: 1.032573919 secs
 more than one recognition
 
 recognition
-time: 1.007428812 secs
+time: 1.008510975 secs
 more than one recognition
 
 recognition
-time: 1.022483181 secs
+time: 1.033971962 secs
 more than one recognition
 
 recognition
-time: 1.037012152 secs
+time: 1.025234813 secs
 more than one recognition
 
 recognition
-time: 1.037012152 secs
+time: 1.023281128 secs
 more than one recognition
 
 recognition
-time: 1.015822107 secs
+time: 1.008025048 secs
 more than one recognition
 
 recognition
-time: 1.009497864 secs
+time: 1.025581154 secs
 more than one recognition
 
 recognition
-time: 1.028719994 secs
+time: 0.998828155 secs
 more than one recognition
 
 recognition
-time: 1.012554869 secs
+time: 0.983384096 secs
 more than one recognition
 
 recognition
-time: 1.033904949 secs
+time: 1.034458908 secs
 more than one recognition
 
 recognition
-time: 0.989456007 secs
+time: 1.008147092 secs
 more than one recognition
 
 recognition
-time: 0.993868977 secs
+time: 1.027400133 secs
 more than one recognition
 
 recognition
-time: 1.01952499 secs
+time: 1.006420101 secs
 more than one recognition
 
 recognition
-time: 1.010559063 secs
+time: 0.983384096 secs
 more than one recognition
 
 recognition
-time: 1.020996165 secs
+time: 1.031941049 secs
 more than one recognition
 
 recognition
-time: 1.005464939 secs
+time: 1.016091179 secs
 more than one recognition
 
 recognition
-time: 0.986472982 secs
+time: 1.007027121 secs
 more than one recognition
 
 recognition
-time: 1.005717132 secs
+time: 1.006069092 secs
 more than one recognition
 
 recognition
-time: 1.005558907 secs
+time: 1.011417992 secs
 more than one recognition
 
 recognition
-time: 1.0179909 secs
+time: 1.055995901 secs
 more than one recognition
 
 recognition
-time: 1.015258038 secs
+time: 1.031941049 secs
 more than one recognition
 
 recognition
-time: 1.018632092 secs
+time: 1.033971962 secs
 more than one recognition
 
 recognition
-time: 1.032983005 secs
+time: 1.000846001 secs
 more than one recognition
 
 recognition
-time: 1.005558907 secs
+time: 0.994941047 secs
 more than one recognition
 
 recognition
-time: 1.006656045 secs
+time: 1.038422001 secs
 more than one recognition
 
 recognition
-time: 0.990836216 secs
+time: 1.008230149 secs
 more than one recognition
 
 recognition
-time: 1.005464939 secs
+time: 1.027219885 secs
 more than one recognition
 
 recognition
-time: 0.994854057 secs
+time: 0.994941047 secs
 more than one recognition
 
 recognition
-time: 1.007366108 secs
+time: 1.008895864 secs
 more than one recognition
 
 recognition
-time: 1.015052171 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 1.006656045 secs
+time: 1.023520909 secs
 more than one recognition
 
 recognition
-time: 1.01952499 secs
+time: 1.017966211 secs
 more than one recognition
 
 recognition
-time: 1.000534151 secs
+time: 0.993797112 secs
 more than one recognition
 
 recognition
-time: 0.992826038 secs
+time: 1.022453918 secs
 more than one recognition
 
 recognition
-time: 0.99596401 secs
+time: 1.001992855 secs
 more than one recognition
 
 recognition
-time: 1.001155897 secs
+time: 1.001992855 secs
 more than one recognition
 
 recognition
-time: 1.004015083 secs
+time: 0.98622897 secs
 more than one recognition
 
 recognition
-time: 0.992826038 secs
+time: 1.007576147 secs
 more than one recognition
 
 recognition
-time: 1.013131069 secs
+time: 1.003555086 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 1.008837063 secs
 more than one recognition
 
 recognition
-time: 1.024556948 secs
+time: 0.993797112 secs
 more than one recognition
 
 recognition
-time: 1.018015062 secs
+time: 1.015966942 secs
 more than one recognition
 
 recognition
-time: 1.049540889 secs
+time: 1.013359057 secs
 more than one recognition
 
 recognition
-time: 0.99705196 secs
+time: 1.038422001 secs
 more than one recognition
 
 recognition
-time: 1.036286964 secs
+time: 1.028619014 secs
 more than one recognition
 
 recognition
-time: 1.000048056 secs
+time: 1.01885491 secs
 more than one recognition
 
 recognition
-time: 1.020892866 secs
+time: 1.017966211 secs
 more than one recognition
 
 recognition
-time: 1.001763954 secs
+time: 0.993504851 secs
 more than one recognition
 
 recognition
-time: 1.017196013 secs
+time: 1.043486166 secs
 more than one recognition
 
 recognition
-time: 1.026520002 secs
+time: 1.003555086 secs
 more than one recognition
 
 recognition
-time: 1.009760895 secs
+time: 1.018373937 secs
 more than one recognition
 
 recognition
-time: 1.017470953 secs
+time: 1.018648932 secs
 more than one recognition
 
 recognition
-time: 0.991123161 secs
+time: 1.007931003 secs
 more than one recognition
 
 recognition
-time: 0.99596401 secs
+time: 1.042045967 secs
 more than one recognition
 
 recognition
-time: 1.012051999 secs
+time: 1.029337997 secs
 more than one recognition
 
 recognition
-time: 1.000381976 secs
+time: 1.007931003 secs
 more than one recognition
 
 recognition
-time: 1.018015062 secs
+time: 1.021584907 secs
 more than one recognition
 
 recognition
-time: 1.000048056 secs
+time: 1.030487 secs
 more than one recognition
 
 recognition
-time: 1.003265062 secs
+time: 1.019982063 secs
 more than one recognition
 
 recognition
-time: 1.017196013 secs
+time: 1.034129021 secs
 more than one recognition
 
 recognition
-time: 0.992844941 secs
+time: 1.021296943 secs
 more than one recognition
 
 recognition
-time: 1.022483181 secs
+time: 1.009917876 secs
 more than one recognition
 
 recognition
-time: 1.009170149 secs
+time: 1.014674181 secs
 more than one recognition
 
 recognition
-time: 1.00294918 secs
+time: 0.997474028 secs
 more than one recognition
 
 recognition
-time: 1.024895048 secs
+time: 1.029514902 secs
 more than one recognition
 
 recognition
-time: 1.009170149 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 1.007143024 secs
+time: 1.007931003 secs
 more than one recognition
 
 recognition
-time: 0.995118061 secs
+time: 1.002655945 secs
 more than one recognition
 
 recognition
-time: 1.012117913 secs
+time: 1.02287599 secs
 more than one recognition
 
 recognition
-time: 1.009167871 secs
+time: 0.993504851 secs
 more than one recognition
 
 recognition
-time: 1.023292049 secs
+time: 1.009170004 secs
 more than one recognition
 
 recognition
-time: 1.023318925 secs
+time: 0.992090082 secs
 more than one recognition
 
 recognition
-time: 1.012563854 secs
+time: 1.00884202 secs
 more than one recognition
 
 recognition
-time: 1.01938686 secs
+time: 1.034662054 secs
 more than one recognition
 
 recognition
-time: 1.004109953 secs
+time: 0.988495013 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 0.988356226 secs
 more than one recognition
 
 recognition
-time: 1.028886929 secs
+time: 1.012357847 secs
 more than one recognition
 
 recognition
-time: 0.994363051 secs
+time: 1.002655945 secs
 more than one recognition
 
 recognition
-time: 1.017104849 secs
+time: 1.005397997 secs
 more than one recognition
 
 recognition
-time: 1.000048056 secs
+time: 1.019992143 secs
 more than one recognition
 
 recognition
-time: 1.004409042 secs
+time: 1.043486166 secs
 more than one recognition
 
 recognition
-time: 1.008104987 secs
+time: 1.008607037 secs
 more than one recognition
 
 recognition
-time: 1.01327598 secs
+time: 1.019992143 secs
 more than one recognition
 
 recognition
-time: 1.006564986 secs
+time: 1.007931003 secs
 more than one recognition
 
 recognition
-time: 1.022945021 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.008645976 secs
+time: 0.98385482 secs
 more than one recognition
 
 recognition
-time: 1.031991945 secs
+time: 1.018648932 secs
 more than one recognition
 
 recognition
-time: 1.025621982 secs
+time: 1.022359984 secs
 more than one recognition
 
 recognition
-time: 1.022362864 secs
+time: 0.996638894 secs
 more than one recognition
 
 recognition
-time: 1.029404045 secs
+time: 1.018185926 secs
 more than one recognition
 
 recognition
-time: 1.003265062 secs
+time: 1.04145195 secs
 more than one recognition
 
 recognition
-time: 1.027636132 secs
+time: 0.994795027 secs
 more than one recognition
 
 recognition
-time: 1.029404045 secs
+time: 1.000637081 secs
 more than one recognition
 
 recognition
-time: 1.009170149 secs
+time: 1.012274985 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.994125916 secs
 more than one recognition
 
 recognition
-time: 1.013558088 secs
+time: 1.022453918 secs
 more than one recognition
 
 recognition
-time: 0.998773213 secs
+time: 0.994092155 secs
 more than one recognition
 
 recognition
-time: 1.016785066 secs
+time: 0.994125916 secs
 more than one recognition
 
 recognition
-time: 0.988650008 secs
+time: 1.03258502 secs
 more than one recognition
 
 recognition
-time: 0.99335387 secs
+time: 1.034129021 secs
 more than one recognition
 
 recognition
-time: 1.008707974 secs
+time: 1.004240947 secs
 more than one recognition
 
 recognition
-time: 1.010461878 secs
+time: 1.026898846 secs
 more than one recognition
 
 recognition
-time: 1.017515099 secs
+time: 1.010169058 secs
 more than one recognition
 
 recognition
-time: 0.998773213 secs
+time: 0.992635973 secs
 more than one recognition
 
 recognition
-time: 1.022513183 secs
+time: 1.018185926 secs
 more than one recognition
 
 recognition
-time: 0.99705196 secs
+time: 1.035171884 secs
 more than one recognition
 
 recognition
-time: 1.012417921 secs
+time: 1.031796156 secs
 more than one recognition
 
 recognition
-time: 1.022513183 secs
+time: 1.04545607 secs
 more than one recognition
 
 recognition
-time: 1.025255208 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.009167871 secs
+time: 1.006230021 secs
 more than one recognition
 
 recognition
-time: 0.998330035 secs
+time: 1.016698953 secs
 more than one recognition
 
 recognition
-time: 1.010316078 secs
+time: 1.004376203 secs
 more than one recognition
 
 recognition
-time: 1.010993984 secs
+time: 1.003826132 secs
 more than one recognition
 
 recognition
-time: 0.99335387 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.050533928 secs
+time: 1.029308145 secs
 more than one recognition
 
 recognition
-time: 0.997639814 secs
+time: 1.029308145 secs
 more than one recognition
 
 recognition
-time: 1.028400881 secs
+time: 1.012559835 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.013558088 secs
+time: 1.020253015 secs
 more than one recognition
 
 recognition
-time: 1.016411981 secs
+time: 1.010435785 secs
 more than one recognition
 
 recognition
-time: 0.991301071 secs
+time: 1.041111819 secs
 more than one recognition
 
 recognition
-time: 0.996138782 secs
+time: 1.001237009 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.004390004 secs
 more than one recognition
 
 recognition
-time: 1.016615063 secs
+time: 1.010435785 secs
 more than one recognition
 
 recognition
-time: 1.016615063 secs
+time: 1.023271921 secs
 more than one recognition
 
 recognition
-time: 1.010316078 secs
+time: 1.012357847 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.993377061 secs
 more than one recognition
 
 recognition
-time: 1.035528816 secs
+time: 1.008600872 secs
 more than one recognition
 
 recognition
-time: 1.035524965 secs
+time: 1.005112999 secs
 more than one recognition
 
 recognition
-time: 1.007684864 secs
+time: 0.995549849 secs
 more than one recognition
 
 recognition
-time: 1.02482606 secs
+time: 1.027691052 secs
 more than one recognition
 
 recognition
-time: 1.039736054 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.035524965 secs
+time: 1.012792076 secs
 more than one recognition
 
 recognition
-time: 1.015551973 secs
+time: 1.00288691 secs
 more than one recognition
 
 recognition
-time: 1.031991945 secs
+time: 1.02648406 secs
 more than one recognition
 
 recognition
-time: 1.018394884 secs
+time: 1.013357862 secs
 more than one recognition
 
 recognition
-time: 0.999054025 secs
+time: 1.005112999 secs
 more than one recognition
 
 recognition
-time: 1.041518955 secs
+time: 1.008476041 secs
 more than one recognition
 
 recognition
-time: 1.03073391 secs
+time: 1.007100008 secs
 more than one recognition
 
 recognition
-time: 1.036060104 secs
+time: 1.026073071 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.027691052 secs
 more than one recognition
 
 recognition
-time: 1.044024111 secs
+time: 1.004390004 secs
 more than one recognition
 
 recognition
-time: 1.039554037 secs
+time: 1.022492159 secs
 more than one recognition
 
 recognition
-time: 0.990535114 secs
+time: 1.004760013 secs
 more than one recognition
 
 recognition
-time: 1.020009824 secs
+time: 1.003978992 secs
 more than one recognition
 
 recognition
-time: 1.041518955 secs
+time: 1.026276985 secs
 more than one recognition
 
 recognition
-time: 1.034952883 secs
+time: 1.047076946 secs
 more than one recognition
 
 recognition
-time: 1.009614996 secs
+time: 0.999303134 secs
 more than one recognition
 
 recognition
-time: 1.012593033 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.036060104 secs
+time: 1.012898941 secs
 more than one recognition
 
 recognition
-time: 1.039736054 secs
+time: 0.994873986 secs
 more than one recognition
 
 recognition
-time: 1.023845094 secs
+time: 1.009163866 secs
 more than one recognition
 
 recognition
-time: 1.016719 secs
+time: 0.988622875 secs
 more than one recognition
 
 recognition
-time: 1.033158069 secs
+time: 1.026654974 secs
 more than one recognition
 
 recognition
-time: 1.0472249 secs
+time: 0.997368101 secs
 more than one recognition
 
 recognition
-time: 1.013396006 secs
+time: 1.004760013 secs
 more than one recognition
 
 recognition
-time: 1.013396006 secs
+time: 1.026654974 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.023830963 secs
 more than one recognition
 
 recognition
-time: 1.038396835 secs
+time: 0.997782104 secs
 more than one recognition
 
 recognition
-time: 1.041221926 secs
+time: 1.009527929 secs
 more than one recognition
 
 recognition
-time: 1.035050963 secs
+time: 1.023479075 secs
 more than one recognition
 
 recognition
-time: 0.994588192 secs
+time: 0.994125916 secs
 more than one recognition
 
 recognition
-time: 0.998294994 secs
+time: 1.026654974 secs
 more than one recognition
 
 recognition
-time: 0.997597918 secs
+time: 1.01484993 secs
 more than one recognition
 
 recognition
-time: 0.995298021 secs
+time: 1.020283184 secs
 more than one recognition
 
 recognition
-time: 1.014668059 secs
+time: 1.031318997 secs
 more than one recognition
 
 recognition
-time: 1.018774079 secs
+time: 1.036027986 secs
 more than one recognition
 
 recognition
-time: 1.004730946 secs
+time: 1.053226998 secs
 more than one recognition
 
 recognition
-time: 1.019501845 secs
+time: 1.003747104 secs
 more than one recognition
 
 recognition
-time: 1.022513183 secs
+time: 0.994125916 secs
 more than one recognition
 
 recognition
-time: 0.995298021 secs
+time: 0.996286994 secs
 more than one recognition
 
 recognition
-time: 1.024236164 secs
+time: 0.990877964 secs
 more than one recognition
 
 recognition
-time: 1.00914696 secs
+time: 1.010653913 secs
 more than one recognition
 
 recognition
-time: 1.010758015 secs
+time: 1.029542996 secs
 more than one recognition
 
 recognition
-time: 1.001141998 secs
+time: 1.004760013 secs
 more than one recognition
 
 recognition
-time: 0.99991309 secs
+time: 1.022851086 secs
 more than one recognition
 
 recognition
-time: 1.005379967 secs
+time: 1.008740866 secs
 more than one recognition
 
 recognition
-time: 1.022513183 secs
+time: 1.014152044 secs
 more than one recognition
 
 recognition
-time: 0.996810152 secs
+time: 0.995549849 secs
 more than one recognition
 
 recognition
-time: 1.021191936 secs
+time: 1.001257818 secs
 more than one recognition
 
 recognition
-time: 0.990906178 secs
+time: 1.007931003 secs
 more than one recognition
 
 recognition
-time: 1.008410047 secs
+time: 1.008633039 secs
 more than one recognition
 
 recognition
-time: 1.016719 secs
+time: 1.021044903 secs
 more than one recognition
 
 recognition
-time: 0.989988182 secs
+time: 1.009759063 secs
 more than one recognition
 
 recognition
-time: 1.02217981 secs
+time: 0.998468048 secs
 more than one recognition
 
 recognition
-time: 1.00955401 secs
+time: 1.007404072 secs
 more than one recognition
 
 recognition
-time: 1.03073391 secs
+time: 1.024571882 secs
 more than one recognition
 
 recognition
-time: 1.01921299 secs
+time: 1.010340004 secs
 more than one recognition
 
 recognition
-time: 1.009170149 secs
+time: 1.033634041 secs
 more than one recognition
 
 recognition
-time: 1.03021517 secs
+time: 0.996773884 secs
 more than one recognition
 
 recognition
-time: 1.00921488 secs
+time: 0.998763132 secs
 more than one recognition
 
 recognition
-time: 1.029109122 secs
+time: 1.037297946 secs
 more than one recognition
 
 recognition
-time: 0.995817901 secs
+time: 1.007404072 secs
 more than one recognition
 
 recognition
-time: 1.02304204 secs
+time: 1.001257818 secs
 more than one recognition
 
 recognition
-time: 1.007188915 secs
+time: 1.016254169 secs
 more than one recognition
 
 recognition
-time: 1.036991845 secs
+time: 1.041696209 secs
 more than one recognition
 
 recognition
-time: 1.037429942 secs
+time: 1.033634041 secs
 more than one recognition
 
 recognition
-time: 1.038247955 secs
+time: 1.006529947 secs
 more than one recognition
 
 recognition
-time: 0.995817901 secs
+time: 1.025191011 secs
 more than one recognition
 
 recognition
-time: 1.01921299 secs
+time: 1.005844059 secs
 more than one recognition
 
 recognition
-time: 1.005533009 secs
+time: 1.010414972 secs
 more than one recognition
 
 recognition
-time: 0.985313902 secs
+time: 0.992537071 secs
 more than one recognition
 
 recognition
-time: 1.021191936 secs
+time: 1.014971068 secs
 more than one recognition
 
 recognition
-time: 1.015053154 secs
+time: 1.052215992 secs
 more than one recognition
 
 recognition
-time: 0.994570006 secs
+time: 1.034032058 secs
 more than one recognition
 
 recognition
-time: 1.016722945 secs
+time: 0.988330002 secs
 more than one recognition
 
 recognition
-time: 1.004192943 secs
+time: 1.03426284 secs
 more than one recognition
 
 recognition
-time: 1.011665072 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.01881589 secs
+time: 1.004726958 secs
 more than one recognition
 
 recognition
-time: 1.037578026 secs
+time: 0.987137965 secs
 more than one recognition
 
 recognition
-time: 1.031682186 secs
+time: 0.995784076 secs
 more than one recognition
 
 recognition
-time: 1.034130946 secs
+time: 1.037297946 secs
 more than one recognition
 
 recognition
-time: 0.988249937 secs
+time: 1.003908036 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.015053154 secs
+time: 0.994051918 secs
 more than one recognition
 
 recognition
-time: 1.03289511 secs
+time: 0.99632114 secs
 more than one recognition
 
 recognition
-time: 1.038247955 secs
+time: 1.010702139 secs
 more than one recognition
 
 recognition
-time: 1.012343001 secs
+time: 1.052215992 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.044801004 secs
 more than one recognition
 
 recognition
-time: 1.047993057 secs
+time: 1.006028897 secs
 more than one recognition
 
 recognition
-time: 0.99776104 secs
+time: 1.013954014 secs
 more than one recognition
 
 recognition
-time: 1.029391964 secs
+time: 1.033714031 secs
 more than one recognition
 
 recognition
-time: 1.012845928 secs
+time: 1.024018984 secs
 more than one recognition
 
 recognition
-time: 1.027624053 secs
+time: 1.019753913 secs
 more than one recognition
 
 recognition
-time: 1.034913023 secs
+time: 1.037684017 secs
 more than one recognition
 
 recognition
-time: 1.012845928 secs
+time: 1.022239954 secs
 more than one recognition
 
 recognition
-time: 1.006850064 secs
+time: 1.024753963 secs
 more than one recognition
 
 recognition
-time: 1.015779083 secs
+time: 1.036872133 secs
 more than one recognition
 
 recognition
-time: 1.017304009 secs
+time: 1.005634949 secs
 more than one recognition
 
 recognition
-time: 1.000647985 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.011665072 secs
+time: 1.007404072 secs
 more than one recognition
 
 recognition
-time: 0.991083822 secs
+time: 1.012766998 secs
 more than one recognition
 
 recognition
-time: 1.000607997 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.034833034 secs
+time: 1.047665844 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.002560149 secs
 more than one recognition
 
 recognition
-time: 0.995817901 secs
+time: 0.993708988 secs
 more than one recognition
 
 recognition
-time: 1.012682921 secs
+time: 1.028426109 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.018685023 secs
 more than one recognition
 
 recognition
-time: 1.012283007 secs
+time: 1.022576075 secs
 more than one recognition
 
 recognition
-time: 1.029953985 secs
+time: 0.993708988 secs
 more than one recognition
 
 recognition
-time: 0.989699826 secs
+time: 1.023830963 secs
 more than one recognition
 
 recognition
-time: 1.008736053 secs
+time: 1.047665844 secs
 more than one recognition
 
 recognition
-time: 1.014933806 secs
+time: 1.022576075 secs
 more than one recognition
 
 recognition
-time: 0.989699826 secs
+time: 1.022444991 secs
 more than one recognition
 
 recognition
-time: 1.014668059 secs
+time: 1.011772099 secs
 more than one recognition
 
 recognition
-time: 1.012283007 secs
+time: 1.027696917 secs
 more than one recognition
 
 recognition
-time: 1.014933806 secs
+time: 1.010248963 secs
 more than one recognition
 
 recognition
-time: 0.99473503 secs
+time: 1.014463993 secs
 more than one recognition
 
 recognition
-time: 1.013934967 secs
+time: 1.011772099 secs
 more than one recognition
 
 recognition
-time: 1.018158201 secs
+time: 1.020515015 secs
 more than one recognition
 
 recognition
-time: 1.00706887 secs
+time: 1.010001019 secs
 more than one recognition
 
 recognition
-time: 1.015430954 secs
+time: 1.021637926 secs
 more than one recognition
 
 recognition
-time: 1.013934967 secs
+time: 1.01715383 secs
 more than one recognition
 
 recognition
-time: 1.01907514 secs
+time: 1.021637926 secs
 more than one recognition
 
 recognition
-time: 1.00514699 secs
+time: 1.022290818 secs
 more than one recognition
 
 recognition
-time: 1.017168943 secs
+time: 1.010248963 secs
 more than one recognition
 
 recognition
-time: 1.015858913 secs
+time: 1.032766935 secs
 more than one recognition
 
 recognition
-time: 1.017168943 secs
+time: 1.022290818 secs
 more than one recognition
 
 recognition
-time: 1.01983814 secs
+time: 1.007404072 secs
 more than one recognition
 
 recognition
-time: 1.00706887 secs
+time: 1.03028001 secs
 more than one recognition
 
 recognition
-time: 1.002210018 secs
+time: 0.993009012 secs
 more than one recognition
 
 recognition
-time: 1.01983814 secs
+time: 1.002025891 secs
 more than one recognition
 
 recognition
-time: 1.027798019 secs
+time: 1.015619999 secs
 more than one recognition
 
 recognition
-time: 1.04179216 secs
+time: 1.013748844 secs
 more than one recognition
 
 recognition
-time: 1.018176998 secs
+time: 1.010536858 secs
 more than one recognition
 
 recognition
-time: 1.004742952 secs
+time: 1.020794986 secs
 more than one recognition
 
 recognition
-time: 1.030633976 secs
+time: 1.026414963 secs
 more than one recognition
 
 recognition
-time: 1.002899 secs
+time: 1.012980878 secs
 more than one recognition
 
 recognition
-time: 1.013934967 secs
+time: 1.033773904 secs
 more than one recognition
 
 recognition
-time: 1.013934967 secs
+time: 1.016471979 secs
 more than one recognition
 
 recognition
-time: 1.012016973 secs
+time: 1.010827959 secs
 more than one recognition
 
 recognition
-time: 1.028630956 secs
+time: 1.010827959 secs
 more than one recognition
 
 recognition
-time: 1.01457798 secs
+time: 1.011165949 secs
 more than one recognition
 
 recognition
-time: 1.000740991 secs
+time: 1.015531868 secs
 more than one recognition
 
 recognition
-time: 0.991461088 secs
+time: 1.020362141 secs
 more than one recognition
 
 recognition
-time: 0.991461088 secs
+time: 1.012980878 secs
 more than one recognition
 
 recognition
-time: 1.00673093 secs
+time: 1.020794986 secs
 more than one recognition
 
 recognition
-time: 1.031537125 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.000819967 secs
+time: 1.013748844 secs
 more than one recognition
 
 recognition
-time: 1.028630956 secs
+time: 1.020292179 secs
 more than one recognition
 
 recognition
-time: 1.030698868 secs
+time: 1.015531868 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.041574995 secs
 more than one recognition
 
 recognition
-time: 1.031654106 secs
+time: 1.009016951 secs
 more than one recognition
 
 recognition
-time: 1.017325819 secs
+time: 1.015531868 secs
 more than one recognition
 
 recognition
-time: 1.031537125 secs
+time: 0.997046972 secs
 more than one recognition
 
 recognition
-time: 0.998402029 secs
+time: 1.019753913 secs
 more than one recognition
 
 recognition
-time: 0.998016838 secs
+time: 1.007871113 secs
 more than one recognition
 
 recognition
-time: 1.031537125 secs
+time: 1.020292179 secs
 more than one recognition
 
 recognition
-time: 1.006600861 secs
+time: 1.01323488 secs
 more than one recognition
 
 recognition
-time: 1.017304009 secs
+time: 0.998260851 secs
 more than one recognition
 
 recognition
-time: 1.000494963 secs
+time: 1.00266292 secs
 more than one recognition
 
 recognition
-time: 1.017325819 secs
+time: 1.0049242 secs
 more than one recognition
 
 recognition
-time: 1.000613045 secs
+time: 1.000890824 secs
 more than one recognition
 
 recognition
-time: 1.015266035 secs
+time: 1.009720958 secs
 more than one recognition
 
 recognition
-time: 1.021743061 secs
+time: 1.041296942 secs
 more than one recognition
 
 recognition
-time: 1.008611013 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 0.988305033 secs
+time: 1.008698864 secs
 more than one recognition
 
 recognition
-time: 0.985674104 secs
+time: 1.002017948 secs
 more than one recognition
 
 recognition
-time: 0.988108012 secs
+time: 1.012962958 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 1.004726958 secs
 more than one recognition
 
 recognition
-time: 1.031297045 secs
+time: 0.992084076 secs
 more than one recognition
 
 recognition
-time: 1.035275043 secs
+time: 1.016731051 secs
 more than one recognition
 
 recognition
-time: 0.985000967 secs
+time: 0.997552014 secs
 more than one recognition
 
 recognition
-time: 1.015053154 secs
+time: 1.008711821 secs
 more than one recognition
 
 recognition
-time: 1.025465968 secs
+time: 1.026372872 secs
 more than one recognition
 
 recognition
-time: 1.009288967 secs
+time: 1.00266292 secs
 more than one recognition
 
 recognition
-time: 1.02924699 secs
+time: 0.993409918 secs
 more than one recognition
 
 recognition
-time: 1.026960055 secs
+time: 1.001822002 secs
 more than one recognition
 
 recognition
-time: 0.996626015 secs
+time: 0.996405215 secs
 more than one recognition
 
 recognition
-time: 1.021743061 secs
+time: 1.041296942 secs
 more than one recognition
 
 recognition
-time: 1.001845017 secs
+time: 1.016257936 secs
 more than one recognition
 
 recognition
-time: 1.01146183 secs
+time: 1.016257936 secs
 more than one recognition
 
 recognition
-time: 1.001311956 secs
+time: 1.004726958 secs
 more than one recognition
 
 recognition
-time: 0.988108012 secs
+time: 1.029175178 secs
 more than one recognition
 
 recognition
-time: 1.027408861 secs
+time: 1.004459125 secs
 more than one recognition
 
 recognition
-time: 1.027408861 secs
+time: 1.001159973 secs
 more than one recognition
 
 recognition
-time: 1.015053154 secs
+time: 1.04701301 secs
 more than one recognition
 
 recognition
-time: 1.046569132 secs
+time: 0.996296987 secs
 more than one recognition
 
 recognition
-time: 0.989598041 secs
+time: 0.997576002 secs
 more than one recognition
 
 recognition
-time: 0.987047047 secs
+time: 0.991660801 secs
 more than one recognition
 
 recognition
-time: 1.030399788 secs
+time: 1.016109056 secs
 more than one recognition
 
 recognition
-time: 1.018104004 secs
+time: 1.034174925 secs
 more than one recognition
 
 recognition
-time: 1.029529945 secs
+time: 1.016109056 secs
 more than one recognition
 
 recognition
-time: 1.044111909 secs
+time: 1.005453161 secs
 more than one recognition
 
 recognition
-time: 1.028898914 secs
+time: 1.018119129 secs
 more than one recognition
 
 recognition
-time: 1.014393055 secs
+time: 1.015834194 secs
 more than one recognition
 
 recognition
-time: 1.028898914 secs
+time: 1.026673971 secs
 more than one recognition
 
 recognition
-time: 1.048022968 secs
+time: 1.039030905 secs
 more than one recognition
 
 recognition
-time: 0.990025988 secs
+time: 1.045296045 secs
 more than one recognition
 
 recognition
-time: 1.007313891 secs
+time: 1.032708173 secs
 more than one recognition
 
 recognition
-time: 1.027378153 secs
+time: 1.0254899 secs
 more than one recognition
 
 recognition
-time: 1.000582935 secs
+time: 1.023575201 secs
 more than one recognition
 
 recognition
-time: 1.019935896 secs
+time: 1.005453161 secs
 more than one recognition
 
 recognition
-time: 1.001489126 secs
+time: 1.037170178 secs
 more than one recognition
 
 recognition
-time: 1.015799032 secs
+time: 1.000604096 secs
 more than one recognition
 
 recognition
-time: 1.016892937 secs
+time: 1.048806928 secs
 more than one recognition
 
 recognition
-time: 1.048022968 secs
+time: 0.997046972 secs
 more than one recognition
 
 recognition
-time: 1.001265013 secs
+time: 1.048806928 secs
 more than one recognition
 
 recognition
-time: 1.029806011 secs
+time: 1.022051947 secs
 more than one recognition
 
 recognition
-time: 1.010889937 secs
+time: 1.00269611 secs
 more than one recognition
 
 recognition
-time: 1.006600861 secs
+time: 1.016825924 secs
 more than one recognition
 
 recognition
-time: 1.000443138 secs
+time: 1.003945013 secs
 more than one recognition
 
 recognition
-time: 1.01490494 secs
+time: 1.018119129 secs
 more than one recognition
 
 recognition
-time: 1.037877976 secs
+time: 0.998005961 secs
 more than one recognition
 
 recognition
-time: 1.015448034 secs
+time: 1.024911192 secs
 more than one recognition
 
 recognition
-time: 1.032040841 secs
+time: 1.021489151 secs
 more than one recognition
 
 recognition
-time: 0.990025988 secs
+time: 1.00266292 secs
 more than one recognition
 
 recognition
-time: 1.072248116 secs
+time: 1.002399975 secs
 more than one recognition
 
 recognition
-time: 1.026440953 secs
+time: 1.039149982 secs
 more than one recognition
 
 recognition
-time: 0.987668995 secs
+time: 1.022630028 secs
 more than one recognition
 
 recognition
-time: 1.021743061 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.019010941 secs
+time: 1.008711821 secs
 more than one recognition
 
 recognition
-time: 1.03813313 secs
+time: 0.993434 secs
 more than one recognition
 
 recognition
-time: 1.029806011 secs
+time: 1.039789055 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.986456098 secs
 more than one recognition
 
 recognition
-time: 1.026960055 secs
+time: 0.996296987 secs
 more than one recognition
 
 recognition
-time: 1.009099945 secs
+time: 1.001568983 secs
 more than one recognition
 
 recognition
-time: 0.998615902 secs
+time: 1.005398146 secs
 more than one recognition
 
 recognition
-time: 1.007378935 secs
+time: 1.033499962 secs
 more than one recognition
 
 recognition
-time: 1.018104004 secs
+time: 1.018119129 secs
 more than one recognition
 
 recognition
-time: 0.987141974 secs
+time: 1.030343065 secs
 more than one recognition
 
 recognition
-time: 1.044284977 secs
+time: 1.039186957 secs
 more than one recognition
 
 recognition
-time: 1.029697058 secs
+time: 1.010032961 secs
 more than one recognition
 
 recognition
-time: 0.990025988 secs
+time: 0.985400879 secs
 more than one recognition
 
 recognition
-time: 1.028044995 secs
+time: 1.012794109 secs
 more than one recognition
 
 recognition
-time: 1.028943927 secs
+time: 1.002399975 secs
 more than one recognition
 
 recognition
-time: 1.009443095 secs
+time: 0.991456038 secs
 more than one recognition
 
 recognition
-time: 1.002050924 secs
+time: 1.028210058 secs
 more than one recognition
 
 recognition
-time: 1.011814905 secs
+time: 1.037170178 secs
 more than one recognition
 
 recognition
-time: 1.019010941 secs
+time: 1.009512869 secs
 more than one recognition
 
 recognition
-time: 1.02902391 secs
+time: 1.001009971 secs
 more than one recognition
 
 recognition
-time: 1.009589071 secs
+time: 1.001060882 secs
 more than one recognition
 
 recognition
-time: 1.001265013 secs
+time: 1.000290962 secs
 more than one recognition
 
 recognition
-time: 0.99400597 secs
+time: 1.008118181 secs
 more than one recognition
 
 recognition
-time: 0.996587939 secs
+time: 1.013538971 secs
 more than one recognition
 
 recognition
-time: 1.053094912 secs
+time: 0.99792906 secs
 more than one recognition
 
 recognition
-time: 1.003508034 secs
+time: 1.01294916 secs
 more than one recognition
 
 recognition
-time: 1.041323168 secs
+time: 1.012171116 secs
 more than one recognition
 
 recognition
-time: 1.022181973 secs
+time: 1.000290962 secs
 more than one recognition
 
 recognition
-time: 0.99414497 secs
+time: 0.997132979 secs
 more than one recognition
 
 recognition
-time: 1.007145117 secs
+time: 1.029512005 secs
 more than one recognition
 
 recognition
-time: 1.027336946 secs
+time: 1.039589149 secs
 more than one recognition
 
 recognition
-time: 1.024974135 secs
+time: 1.013538971 secs
 more than one recognition
 
 recognition
-time: 1.000527846 secs
+time: 0.996708998 secs
 more than one recognition
 
 recognition
-time: 1.014277012 secs
+time: 1.016245979 secs
 more than one recognition
 
 recognition
-time: 1.037361152 secs
+time: 0.996664101 secs
 more than one recognition
 
 recognition
-time: 1.022181973 secs
+time: 1.044717951 secs
 more than one recognition
 
 recognition
-time: 1.009913055 secs
+time: 1.004785092 secs
 more than one recognition
 
 recognition
-time: 1.00592306 secs
+time: 0.991242004 secs
 more than one recognition
 
 recognition
-time: 1.01451194 secs
+time: 1.018627172 secs
 more than one recognition
 
 recognition
-time: 0.997254964 secs
+time: 1.007647068 secs
 more than one recognition
 
 recognition
-time: 1.016435955 secs
+time: 1.028694007 secs
 more than one recognition
 
 recognition
-time: 1.019561974 secs
+time: 1.015335995 secs
 more than one recognition
 
 recognition
-time: 1.014670917 secs
+time: 1.003837852 secs
 more than one recognition
 
 recognition
-time: 1.039126018 secs
+time: 1.008118181 secs
 more than one recognition
 
 recognition
-time: 1.021249044 secs
+time: 1.028280935 secs
 more than one recognition
 
 recognition
-time: 0.985969158 secs
+time: 1.038440859 secs
 more than one recognition
 
 recognition
-time: 1.015217982 secs
+time: 1.022804852 secs
 more than one recognition
 
 recognition
-time: 1.041323168 secs
+time: 1.007647068 secs
 more than one recognition
 
 recognition
-time: 1.01235403 secs
+time: 0.991242004 secs
 more than one recognition
 
 recognition
-time: 1.053680036 secs
+time: 1.014028992 secs
 more than one recognition
 
 recognition
-time: 1.039126018 secs
+time: 0.988233028 secs
 more than one recognition
 
 recognition
-time: 1.019561974 secs
+time: 1.004149925 secs
 more than one recognition
 
 recognition
-time: 0.987963921 secs
+time: 1.044673147 secs
 more than one recognition
 
 recognition
-time: 1.020858137 secs
+time: 1.029600889 secs
 more than one recognition
 
 recognition
-time: 1.019347833 secs
+time: 1.050291027 secs
 more than one recognition
 
 recognition
-time: 1.036459125 secs
+time: 1.021320074 secs
 more than one recognition
 
 recognition
-time: 1.024657017 secs
+time: 0.995337013 secs
 more than one recognition
 
 recognition
-time: 1.001274012 secs
+time: 1.01985997 secs
 more than one recognition
 
 recognition
-time: 1.013672058 secs
+time: 0.993434 secs
 more than one recognition
 
 recognition
-time: 1.005988886 secs
+time: 1.002787143 secs
 more than one recognition
 
 recognition
-time: 0.984567932 secs
+time: 1.02723101 secs
 more than one recognition
 
 recognition
-time: 1.009099945 secs
+time: 1.007924935 secs
 more than one recognition
 
 recognition
-time: 1.014738117 secs
+time: 1.013381984 secs
 more than one recognition
 
 recognition
-time: 1.009615906 secs
+time: 1.024827786 secs
 more than one recognition
 
 recognition
-time: 1.027051021 secs
+time: 1.000743898 secs
 more than one recognition
 
 recognition
-time: 1.018696858 secs
+time: 1.051159088 secs
 more than one recognition
 
 recognition
-time: 0.990397154 secs
+time: 1.029600889 secs
 more than one recognition
 
 recognition
-time: 1.029379072 secs
+time: 1.013517038 secs
 more than one recognition
 
 recognition
-time: 1.048413912 secs
+time: 1.019772792 secs
 more than one recognition
 
 recognition
-time: 1.024657017 secs
+time: 1.006947134 secs
 more than one recognition
 
 recognition
-time: 1.009469143 secs
+time: 1.00785891 secs
 more than one recognition
 
 recognition
-time: 1.030806135 secs
+time: 1.025609045 secs
 more than one recognition
 
 recognition
-time: 1.043158058 secs
+time: 1.017200998 secs
 more than one recognition
 
 recognition
-time: 1.021387064 secs
+time: 1.008077944 secs
 more than one recognition
 
 recognition
-time: 1.009174963 secs
+time: 1.01985997 secs
 more than one recognition
 
 recognition
-time: 1.009174963 secs
+time: 1.013381984 secs
 more than one recognition
 
 recognition
-time: 1.000946993 secs
+time: 1.003837852 secs
 more than one recognition
 
 recognition
-time: 1.015669828 secs
+time: 1.024072203 secs
 more than one recognition
 
 recognition
-time: 1.018696858 secs
+time: 1.029600889 secs
 more than one recognition
 
 recognition
-time: 0.991870886 secs
+time: 0.997986956 secs
 more than one recognition
 
 recognition
-time: 1.008664073 secs
+time: 1.012604116 secs
 more than one recognition
 
 recognition
-time: 1.024657017 secs
+time: 1.004801086 secs
 more than one recognition
 
 recognition
-time: 1.02186919 secs
+time: 1.004445883 secs
 more than one recognition
 
 recognition
-time: 1.027336946 secs
+time: 0.991959993 secs
 more than one recognition
 
 recognition
-time: 1.01772298 secs
+time: 1.028704127 secs
 more than one recognition
 
 recognition
-time: 1.049693934 secs
+time: 1.014283966 secs
 more than one recognition
 
 recognition
-time: 1.036309206 secs
+time: 1.051159088 secs
 more than one recognition
 
 recognition
-time: 1.019553841 secs
+time: 1.01482704 secs
 more than one recognition
 
 recognition
-time: 1.000191979 secs
+time: 1.013381984 secs
 more than one recognition
 
 recognition
-time: 1.048413912 secs
+time: 1.048991036 secs
 more than one recognition
 
 recognition
-time: 1.027454183 secs
+time: 1.024198063 secs
 more than one recognition
 
 recognition
-time: 1.018696858 secs
+time: 1.019294039 secs
 more than one recognition
 
 recognition
-time: 1.020171933 secs
+time: 1.010336102 secs
 more than one recognition
 
 recognition
-time: 1.020503851 secs
+time: 1.029600889 secs
 more than one recognition
 
 recognition
-time: 1.001137014 secs
+time: 1.011440834 secs
 more than one recognition
 
 recognition
-time: 1.039156158 secs
+time: 1.042821909 secs
 more than one recognition
 
 recognition
-time: 1.024657017 secs
+time: 1.034874967 secs
 more than one recognition
 
 recognition
-time: 1.022394106 secs
+time: 0.995425964 secs
 more than one recognition
 
 recognition
-time: 1.039156158 secs
+time: 1.004504967 secs
 more than one recognition
 
 recognition
-time: 1.036464827 secs
+time: 1.016587991 secs
 more than one recognition
 
 recognition
-time: 1.030308053 secs
+time: 1.034305061 secs
 more than one recognition
 
 recognition
-time: 1.029917068 secs
+time: 1.033685905 secs
 more than one recognition
 
 recognition
-time: 1.009727819 secs
+time: 1.019772792 secs
 more than one recognition
 
 recognition
-time: 1.032602837 secs
+time: 1.024421091 secs
 more than one recognition
 
 recognition
-time: 1.012557947 secs
+time: 1.019772792 secs
 more than one recognition
 
 recognition
-time: 1.030806135 secs
+time: 1.022512034 secs
 more than one recognition
 
 recognition
-time: 1.028063025 secs
+time: 1.028116989 secs
 more than one recognition
 
 recognition
-time: 1.030806135 secs
+time: 1.00099794 secs
 more than one recognition
 
 recognition
-time: 0.993800972 secs
+time: 1.034305061 secs
 more than one recognition
 
 recognition
-time: 1.009312052 secs
+time: 1.020965931 secs
 more than one recognition
 
 recognition
-time: 1.037704992 secs
+time: 1.010567934 secs
 more than one recognition
 
 recognition
-time: 1.032602837 secs
+time: 1.048612795 secs
 more than one recognition
 
 recognition
-time: 1.032295059 secs
+time: 1.002877979 secs
 more than one recognition
 
 recognition
-time: 1.009717926 secs
+time: 1.002772076 secs
 more than one recognition
 
 recognition
-time: 1.02175384 secs
+time: 0.99731618 secs
 more than one recognition
 
 recognition
-time: 1.018905081 secs
+time: 1.002772076 secs
 more than one recognition
 
 recognition
-time: 1.018567911 secs
+time: 1.007876905 secs
 more than one recognition
 
 recognition
-time: 1.030777948 secs
+time: 1.025174974 secs
 more than one recognition
 
 recognition
-time: 1.023523075 secs
+time: 1.02858999 secs
 more than one recognition
 
 recognition
-time: 0.999113005 secs
+time: 1.010579029 secs
 more than one recognition
 
 recognition
-time: 1.01636482 secs
+time: 1.005732933 secs
 more than one recognition
 
 recognition
-time: 0.992121033 secs
+time: 0.992892921 secs
 more than one recognition
 
 recognition
-time: 1.006372093 secs
+time: 1.053162973 secs
 more than one recognition
 
 recognition
-time: 1.006372093 secs
+time: 1.030168883 secs
 more than one recognition
 
 recognition
-time: 1.046993026 secs
+time: 1.003119993 secs
 more than one recognition
 
 recognition
-time: 1.044171093 secs
+time: 1.018146047 secs
 more than one recognition
 
 recognition
-time: 1.030806135 secs
+time: 0.985580912 secs
 more than one recognition
 
 recognition
-time: 1.027953895 secs
+time: 1.006690862 secs
 more than one recognition
 
 recognition
-time: 1.033535906 secs
+time: 1.010935875 secs
 more than one recognition
 
 recognition
-time: 1.009374931 secs
+time: 0.996275843 secs
 more than one recognition
 
 recognition
-time: 0.990951002 secs
+time: 1.014214023 secs
 more than one recognition
 
 recognition
-time: 1.01343795 secs
+time: 1.000127779 secs
 more than one recognition
 
 recognition
-time: 0.995829893 secs
+time: 1.013134895 secs
 more than one recognition
 
 recognition
-time: 1.033535906 secs
+time: 0.997711059 secs
 more than one recognition
 
 recognition
-time: 1.00501009 secs
+time: 1.028116989 secs
 more than one recognition
 
 recognition
-time: 0.999296907 secs
+time: 1.02408789 secs
 more than one recognition
 
 recognition
-time: 1.009312052 secs
+time: 1.000733829 secs
 more than one recognition
 
 recognition
-time: 1.012853971 secs
+time: 0.98530896 secs
 more than one recognition
 
 recognition
-time: 1.027953895 secs
+time: 1.008975979 secs
 more than one recognition
 
 recognition
-time: 1.000735857 secs
+time: 1.03113288 secs
 more than one recognition
 
 recognition
-time: 1.031885166 secs
+time: 1.004149897 secs
 more than one recognition
 
 recognition
-time: 1.002541979 secs
+time: 1.013134895 secs
 more than one recognition
 
 recognition
-time: 1.013370997 secs
+time: 1.02408789 secs
 more than one recognition
 
 recognition
-time: 1.016239017 secs
+time: 1.031096071 secs
 more than one recognition
 
 recognition
-time: 1.012853971 secs
+time: 1.005953921 secs
 more than one recognition
 
 recognition
-time: 1.029576891 secs
+time: 1.012883969 secs
 more than one recognition
 
 recognition
-time: 1.003245985 secs
+time: 1.014901188 secs
 more than one recognition
 
 recognition
-time: 1.016239017 secs
+time: 1.004617136 secs
 more than one recognition
 
 recognition
-time: 1.002230932 secs
+time: 1.035098034 secs
 more than one recognition
 
 recognition
-time: 1.008751988 secs
+time: 1.031096071 secs
 more than one recognition
 
 recognition
-time: 1.02323101 secs
+time: 1.010556855 secs
 more than one recognition
 
 recognition
-time: 1.029576891 secs
+time: 1.027135916 secs
 more than one recognition
 
 recognition
-time: 1.014924944 secs
+time: 1.041814009 secs
 more than one recognition
 
 recognition
-time: 1.011968941 secs
+time: 1.030047054 secs
 more than one recognition
 
 recognition
-time: 0.99759508 secs
+time: 1.015939003 secs
 more than one recognition
 
 recognition
-time: 1.051760984 secs
+time: 1.008738004 secs
 more than one recognition
 
 recognition
-time: 1.010628967 secs
+time: 1.030225978 secs
 more than one recognition
 
 recognition
-time: 1.017815989 secs
+time: 1.024198063 secs
 more than one recognition
 
 recognition
-time: 1.051760984 secs
+time: 1.043708069 secs
 more than one recognition
 
 recognition
-time: 1.020503851 secs
+time: 1.026232921 secs
 more than one recognition
 
 recognition
-time: 0.998046165 secs
+time: 1.021759117 secs
 more than one recognition
 
 recognition
-time: 1.00685994 secs
+time: 1.018136007 secs
 more than one recognition
 
 recognition
-time: 0.99979892 secs
+time: 1.007127793 secs
 more than one recognition
 
 recognition
-time: 0.993660868 secs
+time: 1.020136028 secs
 more than one recognition
 
 recognition
-time: 1.00555913 secs
+time: 1.026170972 secs
 more than one recognition
 
 recognition
-time: 1.024518841 secs
+time: 1.025174974 secs
 more than one recognition
 
 recognition
-time: 1.004811964 secs
+time: 0.990351959 secs
 more than one recognition
 
 recognition
-time: 1.01636482 secs
+time: 1.011176094 secs
 more than one recognition
 
 recognition
-time: 1.031863974 secs
+time: 1.017053088 secs
 more than one recognition
 
 recognition
-time: 1.023251108 secs
+time: 1.007876905 secs
 more than one recognition
 
 recognition
-time: 1.023579055 secs
+time: 1.017053088 secs
 more than one recognition
 
 recognition
-time: 0.999113005 secs
+time: 1.015047907 secs
 more than one recognition
 
 recognition
-time: 1.023579055 secs
+time: 1.020978956 secs
 more than one recognition
 
 recognition
-time: 1.019433142 secs
+time: 1.005149915 secs
 more than one recognition
 
 recognition
-time: 1.016158953 secs
+time: 1.006508074 secs
 more than one recognition
 
 recognition
-time: 1.006487072 secs
+time: 1.038606819 secs
 more than one recognition
 
 recognition
-time: 1.012914963 secs
+time: 1.00069415 secs
 more than one recognition
 
 recognition
-time: 1.031046982 secs
+time: 0.986286064 secs
 more than one recognition
 
 recognition
-time: 1.016605993 secs
+time: 1.016608113 secs
 more than one recognition
 
 recognition
-time: 1.019056021 secs
+time: 1.033253939 secs
 more than one recognition
 
 recognition
-time: 0.998992126 secs
+time: 1.041814009 secs
 more than one recognition
 
 recognition
-time: 0.99759508 secs
+time: 1.028792953 secs
 more than one recognition
 
 recognition
-time: 0.998927103 secs
+time: 1.015338863 secs
 more than one recognition
 
 recognition
-time: 1.016112835 secs
+time: 1.027059175 secs
 more than one recognition
 
 recognition
-time: 1.011248815 secs
+time: 0.994044025 secs
 more than one recognition
 
 recognition
-time: 1.029196119 secs
+time: 1.018136007 secs
 more than one recognition
 
 recognition
-time: 0.993660868 secs
+time: 1.02085405 secs
 more than one recognition
 
 recognition
-time: 1.006337826 secs
+time: 1.02282802 secs
 more than one recognition
 
 recognition
-time: 1.011745977 secs
+time: 0.987869032 secs
 more than one recognition
 
 recognition
-time: 1.040478063 secs
+time: 1.018136007 secs
 more than one recognition
 
 recognition
-time: 1.033110974 secs
+time: 0.987869032 secs
 more than one recognition
 
 recognition
-time: 1.040478063 secs
+time: 0.980597938 secs
 more than one recognition
 
 recognition
-time: 1.02818594 secs
+time: 1.020436876 secs
 more than one recognition
 
 recognition
-time: 1.039595911 secs
+time: 1.007803924 secs
 more than one recognition
 
 recognition
-time: 1.046941179 secs
+time: 0.987869032 secs
 more than one recognition
 
 recognition
-time: 1.040478063 secs
+time: 1.002160075 secs
 more than one recognition
 
 recognition
-time: 0.992007929 secs
+time: 0.987568016 secs
 more than one recognition
 
 recognition
-time: 1.007488018 secs
+time: 0.990067854 secs
 more than one recognition
 
 recognition
-time: 1.009336019 secs
+time: 1.011164999 secs
 more than one recognition
 
 recognition
-time: 1.020652042 secs
+time: 1.026170972 secs
 more than one recognition
 
 recognition
-time: 1.004811964 secs
+time: 0.999629025 secs
 more than one recognition
 
 recognition
-time: 1.009336019 secs
+time: 1.02085405 secs
 more than one recognition
 
 recognition
-time: 1.006337826 secs
+time: 1.002336914 secs
 more than one recognition
 
 recognition
-time: 0.999579907 secs
+time: 1.000717038 secs
 more than one recognition
 
 recognition
-time: 1.035066956 secs
+time: 1.004070179 secs
 more than one recognition
 
 recognition
-time: 1.001051864 secs
+time: 1.001904968 secs
 more than one recognition
 
 recognition
-time: 1.00133712 secs
+time: 0.995475966 secs
 more than one recognition
 
 recognition
-time: 1.034175115 secs
+time: 1.01520888 secs
 more than one recognition
 
 recognition
-time: 1.05125014 secs
+time: 1.013986895 secs
 more than one recognition
 
 recognition
-time: 1.021707906 secs
+time: 0.995813961 secs
 more than one recognition
 
 recognition
-time: 1.005710781 secs
+time: 1.058287994 secs
 more than one recognition
 
 recognition
-time: 1.009049031 secs
+time: 1.023274023 secs
 more than one recognition
 
 recognition
-time: 1.046941179 secs
+time: 1.024616051 secs
 more than one recognition
 
 recognition
-time: 0.998468165 secs
+time: 1.008387833 secs
 more than one recognition
 
 recognition
-time: 1.047813986 secs
+time: 1.014474961 secs
 more than one recognition
 
 recognition
-time: 1.019160969 secs
+time: 1.002431972 secs
 more than one recognition
 
 recognition
-time: 1.028695036 secs
+time: 1.051909867 secs
 more than one recognition
 
 recognition
-time: 0.984913074 secs
+time: 1.004444065 secs
 more than one recognition
 
 recognition
-time: 1.001532151 secs
+time: 1.019844969 secs
 more than one recognition
 
 recognition
-time: 1.001369804 secs
+time: 1.042761072 secs
 more than one recognition
 
 recognition
-time: 1.016013022 secs
+time: 1.005917969 secs
 more than one recognition
 
 recognition
-time: 1.002161988 secs
+time: 0.995813961 secs
 more than one recognition
 
 recognition
-time: 1.05125014 secs
+time: 1.01520888 secs
 more than one recognition
 
 recognition
-time: 1.033110974 secs
+time: 1.008535869 secs
 more than one recognition
 
 recognition
-time: 1.027629933 secs
+time: 1.021438026 secs
 more than one recognition
 
 recognition
-time: 0.995992014 secs
+time: 0.986575973 secs
 more than one recognition
 
 recognition
-time: 0.998628856 secs
+time: 1.034754109 secs
 more than one recognition
 
 recognition
-time: 0.998468165 secs
+time: 1.003634132 secs
 more than one recognition
 
 recognition
-time: 1.027629933 secs
+time: 1.021438026 secs
 more than one recognition
 
 recognition
-time: 1.005710781 secs
+time: 0.995813961 secs
 more than one recognition
 
 recognition
-time: 1.031651027 secs
+time: 1.00123794 secs
 more than one recognition
 
 recognition
-time: 1.017762909 secs
+time: 1.018151052 secs
 more than one recognition
 
 recognition
-time: 1.031651027 secs
+time: 1.00123794 secs
 more than one recognition
 
 recognition
-time: 1.022953928 secs
+time: 1.013494089 secs
 more than one recognition
 
 recognition
-time: 1.021446949 secs
+time: 1.025889877 secs
 more than one recognition
 
 recognition
-time: 1.041363991 secs
+time: 1.012907207 secs
 more than one recognition
 
 recognition
-time: 0.993762862 secs
+time: 0.992365147 secs
 more than one recognition
 
 recognition
-time: 1.014719145 secs
+time: 1.018150225 secs
 more than one recognition
 
 recognition
-time: 1.021446949 secs
+time: 1.025889877 secs
 more than one recognition
 
 recognition
-time: 1.007142984 secs
+time: 1.026507989 secs
 more than one recognition
 
 recognition
-time: 0.999579907 secs
+time: 0.993289955 secs
 more than one recognition
 
 recognition
-time: 1.017762909 secs
+time: 1.018151052 secs
 more than one recognition
 
 recognition
-time: 1.013573002 secs
+time: 1.018282959 secs
 more than one recognition
 
 recognition
-time: 1.041005052 secs
+time: 0.996263859 secs
 more than one recognition
 
 recognition
-time: 1.028135003 secs
+time: 1.034119068 secs
 more than one recognition
 
 recognition
-time: 1.013618038 secs
+time: 1.017724867 secs
 more than one recognition
 
 recognition
-time: 1.013573002 secs
+time: 1.032004887 secs
 more than one recognition
 
 recognition
-time: 1.031651027 secs
+time: 1.02083012 secs
 more than one recognition
 
 recognition
-time: 1.034557954 secs
+time: 1.021865025 secs
 more than one recognition
 
 recognition
-time: 1.021523854 secs
+time: 1.041932893 secs
 more than one recognition
 
 recognition
-time: 1.005710781 secs
+time: 0.995813961 secs
 more than one recognition
 
 recognition
-time: 1.020227091 secs
+time: 1.021865025 secs
 more than one recognition
 
 recognition
-time: 1.019317114 secs
+time: 1.01274415 secs
 more than one recognition
 
 recognition
-time: 1.019716011 secs
+time: 1.024507984 secs
 more than one recognition
 
 recognition
-time: 0.998789097 secs
+time: 1.007161949 secs
 more than one recognition
 
 recognition
-time: 1.027687008 secs
+time: 1.018295937 secs
 more than one recognition
 
 recognition
-time: 1.026586863 secs
+time: 1.018690915 secs
 more than one recognition
 
 recognition
-time: 0.996924928 secs
+time: 0.999617149 secs
 more than one recognition
 
 recognition
-time: 1.040666937 secs
+time: 1.008165915 secs
 more than one recognition
 
 recognition
-time: 1.038625989 secs
+time: 1.023029902 secs
 more than one recognition
 
 recognition
-time: 1.013573002 secs
+time: 1.018282959 secs
 more than one recognition
 
 recognition
-time: 1.031586045 secs
+time: 1.033102043 secs
 more than one recognition
 
 recognition
-time: 1.020530968 secs
+time: 1.042553159 secs
 more than one recognition
 
 recognition
-time: 1.018828047 secs
+time: 0.989342884 secs
 more than one recognition
 
 recognition
-time: 1.007142984 secs
+time: 1.026507989 secs
 more than one recognition
 
 recognition
-time: 1.040422859 secs
+time: 1.016452079 secs
 more than one recognition
 
 recognition
-time: 1.018828047 secs
+time: 1.042270965 secs
 more than one recognition
 
 recognition
-time: 0.997223839 secs
+time: 1.014729959 secs
 more than one recognition
 
 recognition
-time: 1.01636482 secs
+time: 1.025174974 secs
 more than one recognition
 
 recognition
-time: 1.036072085 secs
+time: 1.000015932 secs
 more than one recognition
 
 recognition
-time: 1.014751074 secs
+time: 1.026266039 secs
 more than one recognition
 
 recognition
-time: 0.998789097 secs
+time: 1.007161949 secs
 more than one recognition
 
 recognition
-time: 1.013618038 secs
+time: 1.017724867 secs
 more than one recognition
 
 recognition
-time: 1.007667891 secs
+time: 1.006115914 secs
 more than one recognition
 
 recognition
-time: 1.026216146 secs
+time: 1.010629795 secs
 more than one recognition
 
 recognition
-time: 0.994758158 secs
+time: 1.029577997 secs
 more than one recognition
 
 recognition
-time: 1.027125992 secs
+time: 1.030383091 secs
 more than one recognition
 
 recognition
-time: 1.033798048 secs
+time: 1.022444992 secs
 more than one recognition
 
 recognition
-time: 1.038625989 secs
+time: 1.012454975 secs
 more than one recognition
 
 recognition
-time: 1.031979934 secs
+time: 1.019229914 secs
 more than one recognition
 
 recognition
-time: 1.05006611 secs
+time: 1.045199877 secs
 more than one recognition
 
 recognition
-time: 1.02213691 secs
+time: 1.055053995 secs
 more than one recognition
 
 recognition
-time: 1.022564162 secs
+time: 1.037435886 secs
 more than one recognition
 
 recognition
-time: 1.018069899 secs
+time: 1.024106921 secs
 more than one recognition
 
 recognition
-time: 1.045701165 secs
+time: 1.024688097 secs
 more than one recognition
 
 recognition
-time: 0.999690045 secs
+time: 1.017655083 secs
 more than one recognition
 
 recognition
-time: 1.023810177 secs
+time: 1.025859989 secs
 more than one recognition
 
 recognition
-time: 0.993599072 secs
+time: 1.038666992 secs
 more than one recognition
 
 recognition
-time: 1.016656101 secs
+time: 1.040009026 secs
 more than one recognition
 
 recognition
-time: 1.02214003 secs
+time: 1.009005917 secs
 more than one recognition
 
 recognition
-time: 1.005129997 secs
+time: 1.030682095 secs
 more than one recognition
 
 recognition
-time: 1.02394404 secs
+time: 1.003321097 secs
 more than one recognition
 
 recognition
-time: 1.014751074 secs
+time: 1.026266039 secs
 more than one recognition
 
 recognition
-time: 1.029701153 secs
+time: 1.016665983 secs
 more than one recognition
 
 recognition
-time: 0.995187851 secs
+time: 1.003208927 secs
 more than one recognition
 
 recognition
-time: 1.012498926 secs
+time: 1.014729959 secs
 more than one recognition
 
 recognition
-time: 0.994833065 secs
+time: 1.014881031 secs
 more than one recognition
 
 recognition
-time: 1.012037889 secs
+time: 1.02083012 secs
 more than one recognition
 
 recognition
-time: 1.038102089 secs
+time: 1.034976923 secs
 more than one recognition
 
 recognition
-time: 1.015935959 secs
+time: 1.027821968 secs
 more than one recognition
 
 recognition
-time: 0.988578004 secs
+time: 1.01926308 secs
 more than one recognition
 
 recognition
-time: 1.032782 secs
+time: 1.029010887 secs
 more than one recognition
 
 recognition
-time: 1.01636482 secs
+time: 1.025174974 secs
 more than one recognition
 
 recognition
-time: 0.996665823 secs
+time: 1.032071007 secs
 more than one recognition
 
 recognition
-time: 0.993762862 secs
+time: 0.992365147 secs
 more than one recognition
