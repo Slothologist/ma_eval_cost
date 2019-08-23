@@ -1,0 +1,9 @@
+processes:
+  - esiaf_pocketsphinx
+  - wav_player
+  - orchestrator
+  - audio_segmenter
+  - elongater
+ignore:
+  - tee
+save_dir: saved_cpu/
