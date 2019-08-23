@@ -1,5 +1,2 @@
 Runtime on CPU
-24.68
-Percentage
-0.2
-
+173.88
