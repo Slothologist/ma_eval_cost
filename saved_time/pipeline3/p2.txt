@@ -1,0 +1,6891 @@
+
+recognition
+time: 1.083016142 secs
+
+recognition
+time: 1.091449013 secs
+more than one recognition
+
+recognition
+time: 1.078133873 secs
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.084393875 secs
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.084925817 secs
+more than one recognition
+
+recognition
+time: 1.051805954 secs
+more than one recognition
+
+recognition
+time: 1.103020952 secs
+more than one recognition
+
+recognition
+time: 1.05654806 secs
+more than one recognition
+
+recognition
+time: 1.08627999 secs
+more than one recognition
+
+recognition
+time: 1.056258016 secs
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.004005046 secs
+more than one recognition
+
+recognition
+time: 1.046309019 secs
+more than one recognition
+
+recognition
+time: 1.066809965 secs
+more than one recognition
+
+recognition
+time: 1.092163097 secs
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.073893989 secs
+more than one recognition
+
+recognition
+time: 1.044438868 secs
+more than one recognition
+
+recognition
+time: 1.055701176 secs
+more than one recognition
+
+recognition
+time: 1.07642598 secs
+more than one recognition
+
+recognition
+time: 1.056647869 secs
+more than one recognition
+
+recognition
+time: 1.062197866 secs
+more than one recognition
+
+recognition
+time: 1.059879118 secs
+more than one recognition
+
+recognition
+time: 1.092490958 secs
+more than one recognition
+
+recognition
+time: 1.082832979 secs
+more than one recognition
+
+recognition
+time: 1.052859993 secs
+more than one recognition
+
+recognition
+time: 1.082185121 secs
+more than one recognition
+
+recognition
+time: 1.106830084 secs
+more than one recognition
+
+recognition
+time: 1.075040973 secs
+more than one recognition
+
+recognition
+time: 1.065507961 secs
+more than one recognition
+
+recognition
+time: 1.016738984 secs
+more than one recognition
+
+no recognition
+time: 
+more than one recognition
+
+recognition
+time: 1.052839916 secs
+more than one recognition
+
+recognition
+time: 1.089530018 secs
+more than one recognition
+
+recognition
+time: 1.036491098 secs
+more than one recognition
+
+recognition
+time: 1.081869972 secs
+more than one recognition
+
+recognition
+time: 1.058919069 secs
+more than one recognition
+
+recognition
+time: 1.070253033 secs
+more than one recognition
+
+recognition
+time: 1.078133873 secs
+more than one recognition
+
+recognition
+time: 1.081644003 secs
+more than one recognition
+
+recognition
+time: 1.075115926 secs
+more than one recognition
+
+recognition
+time: 1.066809965 secs
+more than one recognition
+
+recognition
+time: 1.090773041 secs
+more than one recognition
+
+recognition
+time: 1.04762212 secs
+more than one recognition
+
+recognition
+time: 1.071188046 secs
+more than one recognition
+
+recognition
+time: 1.054112091 secs
+more than one recognition
+
+recognition
+time: 1.069744166 secs
+more than one recognition
+
+recognition
+time: 1.065136893 secs
+more than one recognition
+
+recognition
+time: 1.07548315 secs
+more than one recognition
+
+recognition
+time: 1.034512896 secs
+more than one recognition
+
+recognition
+time: 1.059879118 secs
+more than one recognition
+
+recognition
+time: 1.044438868 secs
+more than one recognition
+
+recognition
+time: 1.049438921 secs
+more than one recognition
+
+recognition
+time: 1.080525966 secs
+more than one recognition
+
+recognition
+time: 1.081644003 secs
+more than one recognition
+
+recognition
+time: 1.104712015 secs
+more than one recognition
+
+recognition
+time: 1.066941193 secs
+more than one recognition
+
+recognition
+time: 1.068347136 secs
+more than one recognition
+
+recognition
+time: 1.07197477 secs
+more than one recognition
+
+recognition
+time: 1.074966043 secs
+more than one recognition
+
+recognition
+time: 1.077240019 secs
+more than one recognition
+
+recognition
+time: 1.068347136 secs
+more than one recognition
+
+recognition
+time: 1.006652943 secs
+more than one recognition
+
+recognition
+time: 1.097136874 secs
+more than one recognition
+
+recognition
+time: 1.099287967 secs
+more than one recognition
+
+recognition
+time: 1.097136874 secs
+more than one recognition
+
+recognition
+time: 1.092786838 secs
+more than one recognition
+
+recognition
+time: 1.045618845 secs
+more than one recognition
+
+recognition
+time: 1.058509857 secs
+more than one recognition
+
+recognition
+time: 1.0690918 secs
+more than one recognition
+
+recognition
+time: 1.037665958 secs
+more than one recognition
+
+recognition
+time: 1.083356932 secs
+more than one recognition
+
+recognition
+time: 1.049760067 secs
+more than one recognition
+
+recognition
+time: 1.061734077 secs
+more than one recognition
+
+recognition
+time: 1.077240019 secs
+more than one recognition
+
+recognition
+time: 1.092786838 secs
+more than one recognition
+
+recognition
+time: 1.071351038 secs
+more than one recognition
+
+recognition
+time: 1.081571177 secs
+more than one recognition
+
+recognition
+time: 1.05936894 secs
+more than one recognition
+
+recognition
+time: 1.065136893 secs
+more than one recognition
+
+recognition
+time: 1.088275002 secs
+more than one recognition
+
+recognition
+time: 1.092786838 secs
+more than one recognition
+
+recognition
+time: 1.122583048 secs
+more than one recognition
+
+recognition
+time: 1.061772074 secs
+more than one recognition
+
+recognition
+time: 1.091944069 secs
+more than one recognition
+
+recognition
+time: 1.083356932 secs
+more than one recognition
+
+recognition
+time: 1.07400999 secs
+more than one recognition
+
+recognition
+time: 1.068584084 secs
+more than one recognition
+
+recognition
+time: 1.086435171 secs
+more than one recognition
+
+recognition
+time: 1.050469147 secs
+more than one recognition
+
+recognition
+time: 1.084451924 secs
+more than one recognition
+
+recognition
+time: 1.105169107 secs
+more than one recognition
+
+recognition
+time: 1.106800148 secs
+more than one recognition
+
+recognition
+time: 1.074046967 secs
+more than one recognition
+
+recognition
+time: 1.04956003 secs
+more than one recognition
+
+recognition
+time: 1.075220916 secs
+more than one recognition
+
+recognition
+time: 1.053758864 secs
+more than one recognition
+
+recognition
+time: 1.028990948 secs
+more than one recognition
+
+recognition
+time: 1.053758864 secs
+more than one recognition
+
+recognition
+time: 1.093104021 secs
+more than one recognition
+
+recognition
+time: 1.102151835 secs
+more than one recognition
+
+recognition
+time: 1.075717846 secs
+more than one recognition
+
+recognition
+time: 1.106800148 secs
+more than one recognition
+
+recognition
+time: 1.074046967 secs
+more than one recognition
+
+recognition
+time: 1.037617992 secs
+more than one recognition
+
+recognition
+time: 1.071900006 secs
+more than one recognition
+
+recognition
+time: 1.097194931 secs
+more than one recognition
+
+recognition
+time: 1.071900006 secs
+more than one recognition
+
+recognition
+time: 1.066941193 secs
+more than one recognition
+
+recognition
+time: 1.05296298 secs
+more than one recognition
+
+recognition
+time: 1.106231174 secs
+more than one recognition
+
+recognition
+time: 1.044238165 secs
+more than one recognition
+
+recognition
+time: 1.062144972 secs
+more than one recognition
+
+recognition
+time: 1.092786838 secs
+more than one recognition
+
+recognition
+time: 1.063168036 secs
+more than one recognition
+
+recognition
+time: 1.068589871 secs
+more than one recognition
+
+recognition
+time: 1.074099003 secs
+more than one recognition
+
+recognition
+time: 1.087054996 secs
+more than one recognition
+
+recognition
+time: 1.075220916 secs
+more than one recognition
+
+recognition
+time: 1.095816969 secs
+more than one recognition
+
+recognition
+time: 1.062144972 secs
+more than one recognition
+
+recognition
+time: 1.106231174 secs
+more than one recognition
+
+recognition
+time: 1.075220916 secs
+more than one recognition
+
+recognition
+time: 1.059719073 secs
+more than one recognition
+
+recognition
+time: 1.037107147 secs
+more than one recognition
+
+recognition
+time: 1.097550917 secs
+more than one recognition
+
+recognition
+time: 1.055505106 secs
+more than one recognition
+
+recognition
+time: 1.090570022 secs
+more than one recognition
+
+recognition
+time: 1.079023951 secs
+more than one recognition
+
+recognition
+time: 1.039432987 secs
+more than one recognition
+
+recognition
+time: 1.096539067 secs
+more than one recognition
+
+recognition
+time: 1.037617992 secs
+more than one recognition
+
+recognition
+time: 1.072277098 secs
+more than one recognition
+
+recognition
+time: 1.048074015 secs
+more than one recognition
+
+recognition
+time: 1.090828058 secs
+more than one recognition
+
+recognition
+time: 1.090828058 secs
+more than one recognition
+
+recognition
+time: 1.079087183 secs
+more than one recognition
+
+recognition
+time: 1.069615867 secs
+more than one recognition
+
+recognition
+time: 1.087186947 secs
+more than one recognition
+
+recognition
+time: 1.037617992 secs
+more than one recognition
+
+recognition
+time: 1.083356932 secs
+more than one recognition
+
+recognition
+time: 1.039343066 secs
+more than one recognition
+
+recognition
+time: 1.052847889 secs
+more than one recognition
+
+recognition
+time: 1.039432987 secs
+more than one recognition
+
+recognition
+time: 1.046083071 secs
+more than one recognition
+
+recognition
+time: 1.046083071 secs
+more than one recognition
+
+recognition
+time: 1.025219143 secs
+more than one recognition
+
+recognition
+time: 1.101448172 secs
+more than one recognition
+
+recognition
+time: 1.082233019 secs
+more than one recognition
+
+recognition
+time: 1.043709913 secs
+more than one recognition
+
+recognition
+time: 1.042253978 secs
+more than one recognition
+
+recognition
+time: 1.083356932 secs
+more than one recognition
+
+recognition
+time: 1.066215194 secs
+more than one recognition
+
+recognition
+time: 1.100318092 secs
+more than one recognition
+
+recognition
+time: 1.025219143 secs
+more than one recognition
+
+recognition
+time: 1.042253978 secs
+more than one recognition
+
+recognition
+time: 1.08797293 secs
+more than one recognition
+
+recognition
+time: 1.049207867 secs
+more than one recognition
+
+recognition
+time: 1.034919178 secs
+more than one recognition
+
+recognition
+time: 1.069615867 secs
+more than one recognition
+
+recognition
+time: 1.053958099 secs
+more than one recognition
+
+recognition
+time: 1.082225918 secs
+more than one recognition
+
+recognition
+time: 1.088100046 secs
+more than one recognition
+
+recognition
+time: 1.054346005 secs
+more than one recognition
+
+recognition
+time: 1.062263059 secs
+more than one recognition
+
+recognition
+time: 1.08319799 secs
+more than one recognition
+
+recognition
+time: 1.080594078 secs
+more than one recognition
+
+recognition
+time: 1.106800148 secs
+more than one recognition
+
+recognition
+time: 1.088100046 secs
+more than one recognition
+
+recognition
+time: 1.093782002 secs
+more than one recognition
+
+recognition
+time: 1.074545025 secs
+more than one recognition
+
+recognition
+time: 1.042132793 secs
+more than one recognition
+
+recognition
+time: 1.095096964 secs
+more than one recognition
+
+recognition
+time: 1.081808967 secs
+more than one recognition
+
+recognition
+time: 1.051263901 secs
+more than one recognition
+
+recognition
+time: 1.092179147 secs
+more than one recognition
+
+recognition
+time: 1.086159149 secs
+more than one recognition
+
+recognition
+time: 1.110029942 secs
+more than one recognition
+
+recognition
+time: 1.086159149 secs
+more than one recognition
+
+recognition
+time: 1.052002869 secs
+more than one recognition
+
+recognition
+time: 1.064343979 secs
+more than one recognition
+
+recognition
+time: 1.070915079 secs
+more than one recognition
+
+recognition
+time: 1.075364138 secs
+more than one recognition
+
+recognition
+time: 1.070227959 secs
+more than one recognition
+
+recognition
+time: 1.037617992 secs
+more than one recognition
+
+recognition
+time: 1.062737083 secs
+more than one recognition
+
+recognition
+time: 1.08055003 secs
+more than one recognition
+
+recognition
+time: 1.094654024 secs
+more than one recognition
+
+recognition
+time: 1.074686837 secs
+more than one recognition
+
+recognition
+time: 1.074686837 secs
+more than one recognition
+
+recognition
+time: 1.039440832 secs
+more than one recognition
+
+recognition
+time: 1.035131005 secs
+more than one recognition
+
+recognition
+time: 1.075681002 secs
+more than one recognition
+
+recognition
+time: 1.058616967 secs
+more than one recognition
+
+recognition
+time: 1.077354936 secs
+more than one recognition
+
+recognition
+time: 1.068284864 secs
+more than one recognition
+
+recognition
+time: 1.061471029 secs
+more than one recognition
+
+recognition
+time: 1.06646809 secs
+more than one recognition
+
+recognition
+time: 1.080473995 secs
+more than one recognition
+
+recognition
+time: 1.062760937 secs
+more than one recognition
+
+recognition
+time: 1.05344903 secs
+more than one recognition
+
+recognition
+time: 1.075786009 secs
+more than one recognition
+
+recognition
+time: 1.045847965 secs
+more than one recognition
+
+recognition
+time: 1.080473995 secs
+more than one recognition
+
+recognition
+time: 1.092846813 secs
+more than one recognition
+
+recognition
+time: 1.083821955 secs
+more than one recognition
+
+recognition
+time: 1.087186947 secs
+more than one recognition
+
+recognition
+time: 1.05344903 secs
+more than one recognition
+
+recognition
+time: 1.070800982 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.083821955 secs
+more than one recognition
+
+recognition
+time: 1.083821955 secs
+more than one recognition
+
+recognition
+time: 1.049853897 secs
+more than one recognition
+
+recognition
+time: 1.092846813 secs
+more than one recognition
+
+recognition
+time: 1.06890304 secs
+more than one recognition
+
+recognition
+time: 1.058616967 secs
+more than one recognition
+
+recognition
+time: 1.072242027 secs
+more than one recognition
+
+recognition
+time: 1.082650821 secs
+more than one recognition
+
+recognition
+time: 1.077354936 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.078047886 secs
+more than one recognition
+
+recognition
+time: 1.098027943 secs
+more than one recognition
+
+recognition
+time: 1.058616967 secs
+more than one recognition
+
+recognition
+time: 1.024746857 secs
+more than one recognition
+
+recognition
+time: 1.106018097 secs
+more than one recognition
+
+recognition
+time: 1.079327913 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.107666956 secs
+more than one recognition
+
+recognition
+time: 1.078047886 secs
+more than one recognition
+
+recognition
+time: 1.096838066 secs
+more than one recognition
+
+recognition
+time: 1.093782002 secs
+more than one recognition
+
+recognition
+time: 1.057394833 secs
+more than one recognition
+
+recognition
+time: 1.090030028 secs
+more than one recognition
+
+recognition
+time: 1.069375177 secs
+more than one recognition
+
+recognition
+time: 1.08662888 secs
+more than one recognition
+
+recognition
+time: 1.082650821 secs
+more than one recognition
+
+recognition
+time: 1.09124 secs
+more than one recognition
+
+recognition
+time: 1.056760018 secs
+more than one recognition
+
+recognition
+time: 1.070672064 secs
+more than one recognition
+
+recognition
+time: 1.095065899 secs
+more than one recognition
+
+recognition
+time: 1.040711019 secs
+more than one recognition
+
+recognition
+time: 1.081264895 secs
+more than one recognition
+
+recognition
+time: 1.08721805 secs
+more than one recognition
+
+recognition
+time: 1.084585104 secs
+more than one recognition
+
+recognition
+time: 1.024746857 secs
+more than one recognition
+
+recognition
+time: 1.0773421 secs
+more than one recognition
+
+recognition
+time: 1.024746857 secs
+more than one recognition
+
+recognition
+time: 1.0773421 secs
+more than one recognition
+
+recognition
+time: 1.048170941 secs
+more than one recognition
+
+recognition
+time: 1.081264895 secs
+more than one recognition
+
+recognition
+time: 1.071472196 secs
+more than one recognition
+
+recognition
+time: 1.065108976 secs
+more than one recognition
+
+recognition
+time: 1.11635306 secs
+more than one recognition
+
+recognition
+time: 1.070715092 secs
+more than one recognition
+
+recognition
+time: 1.067665148 secs
+more than one recognition
+
+recognition
+time: 1.079623054 secs
+more than one recognition
+
+recognition
+time: 1.069325149 secs
+more than one recognition
+
+recognition
+time: 1.06630805 secs
+more than one recognition
+
+recognition
+time: 1.037545927 secs
+more than one recognition
+
+recognition
+time: 1.106768178 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.078705965 secs
+more than one recognition
+
+recognition
+time: 1.075822882 secs
+more than one recognition
+
+recognition
+time: 1.075282898 secs
+more than one recognition
+
+recognition
+time: 1.071472196 secs
+more than one recognition
+
+recognition
+time: 1.090030028 secs
+more than one recognition
+
+recognition
+time: 1.062809906 secs
+more than one recognition
+
+recognition
+time: 1.081583967 secs
+more than one recognition
+
+recognition
+time: 1.091097879 secs
+more than one recognition
+
+recognition
+time: 1.101598959 secs
+more than one recognition
+
+recognition
+time: 1.057507044 secs
+more than one recognition
+
+recognition
+time: 1.057520027 secs
+more than one recognition
+
+recognition
+time: 1.100745855 secs
+more than one recognition
+
+recognition
+time: 1.097222839 secs
+more than one recognition
+
+recognition
+time: 1.065612799 secs
+more than one recognition
+
+recognition
+time: 1.078047886 secs
+more than one recognition
+
+recognition
+time: 1.037545927 secs
+more than one recognition
+
+recognition
+time: 1.084876941 secs
+more than one recognition
+
+recognition
+time: 1.071259191 secs
+more than one recognition
+
+recognition
+time: 1.044667129 secs
+more than one recognition
+
+recognition
+time: 1.086475096 secs
+more than one recognition
+
+recognition
+time: 1.080522936 secs
+more than one recognition
+
+recognition
+time: 1.075822882 secs
+more than one recognition
+
+recognition
+time: 1.106504839 secs
+more than one recognition
+
+recognition
+time: 1.076040799 secs
+more than one recognition
+
+recognition
+time: 1.084891924 secs
+more than one recognition
+
+recognition
+time: 1.106504839 secs
+more than one recognition
+
+recognition
+time: 1.082869101 secs
+more than one recognition
+
+recognition
+time: 1.056760018 secs
+more than one recognition
+
+recognition
+time: 1.06415714 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.069089983 secs
+more than one recognition
+
+recognition
+time: 1.049221952 secs
+more than one recognition
+
+recognition
+time: 1.106504839 secs
+more than one recognition
+
+recognition
+time: 1.085733002 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.086111159 secs
+more than one recognition
+
+recognition
+time: 1.082404238 secs
+more than one recognition
+
+recognition
+time: 1.084876941 secs
+more than one recognition
+
+recognition
+time: 1.098257875 secs
+more than one recognition
+
+recognition
+time: 1.055685091 secs
+more than one recognition
+
+recognition
+time: 1.068905859 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.084876941 secs
+more than one recognition
+
+recognition
+time: 1.06080914 secs
+more than one recognition
+
+recognition
+time: 1.073255091 secs
+more than one recognition
+
+recognition
+time: 1.06080914 secs
+more than one recognition
+
+recognition
+time: 1.083796131 secs
+more than one recognition
+
+recognition
+time: 1.06415714 secs
+more than one recognition
+
+recognition
+time: 1.084891924 secs
+more than one recognition
+
+recognition
+time: 1.09618396 secs
+more than one recognition
+
+recognition
+time: 1.084824204 secs
+more than one recognition
+
+recognition
+time: 1.047460128 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.065108976 secs
+more than one recognition
+
+recognition
+time: 1.063544952 secs
+more than one recognition
+
+recognition
+time: 1.072041016 secs
+more than one recognition
+
+recognition
+time: 1.065108976 secs
+more than one recognition
+
+recognition
+time: 1.046273009 secs
+more than one recognition
+
+recognition
+time: 1.058123853 secs
+more than one recognition
+
+recognition
+time: 1.083228772 secs
+more than one recognition
+
+recognition
+time: 1.103801821 secs
+more than one recognition
+
+recognition
+time: 1.102702927 secs
+more than one recognition
+
+recognition
+time: 1.099123985 secs
+more than one recognition
+
+recognition
+time: 1.07240998 secs
+more than one recognition
+
+recognition
+time: 1.076306022 secs
+more than one recognition
+
+recognition
+time: 1.091376005 secs
+more than one recognition
+
+recognition
+time: 1.098052981 secs
+more than one recognition
+
+recognition
+time: 1.057265049 secs
+more than one recognition
+
+recognition
+time: 1.078642006 secs
+more than one recognition
+
+recognition
+time: 1.070721891 secs
+more than one recognition
+
+recognition
+time: 1.077724056 secs
+more than one recognition
+
+recognition
+time: 1.072041016 secs
+more than one recognition
+
+recognition
+time: 1.103956943 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.082698877 secs
+more than one recognition
+
+recognition
+time: 1.096118981 secs
+more than one recognition
+
+recognition
+time: 1.087738089 secs
+more than one recognition
+
+recognition
+time: 1.077188029 secs
+more than one recognition
+
+recognition
+time: 1.057413178 secs
+more than one recognition
+
+recognition
+time: 1.079235036 secs
+more than one recognition
+
+recognition
+time: 1.076505026 secs
+more than one recognition
+
+recognition
+time: 1.087702049 secs
+more than one recognition
+
+recognition
+time: 1.103236118 secs
+more than one recognition
+
+recognition
+time: 1.099073937 secs
+more than one recognition
+
+recognition
+time: 1.066158953 secs
+more than one recognition
+
+recognition
+time: 1.085665125 secs
+more than one recognition
+
+recognition
+time: 1.104906124 secs
+more than one recognition
+
+recognition
+time: 1.045821045 secs
+more than one recognition
+
+recognition
+time: 1.057265049 secs
+more than one recognition
+
+recognition
+time: 1.086143974 secs
+more than one recognition
+
+recognition
+time: 1.085071956 secs
+more than one recognition
+
+recognition
+time: 1.082920103 secs
+more than one recognition
+
+recognition
+time: 1.094366093 secs
+more than one recognition
+
+recognition
+time: 1.079198017 secs
+more than one recognition
+
+recognition
+time: 1.085827164 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.109072954 secs
+more than one recognition
+
+recognition
+time: 1.04802208 secs
+more than one recognition
+
+recognition
+time: 1.078986002 secs
+more than one recognition
+
+recognition
+time: 1.088179005 secs
+more than one recognition
+
+recognition
+time: 1.075648867 secs
+more than one recognition
+
+recognition
+time: 1.100041897 secs
+more than one recognition
+
+recognition
+time: 1.064719145 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.094995938 secs
+more than one recognition
+
+recognition
+time: 1.078979021 secs
+more than one recognition
+
+recognition
+time: 1.069777048 secs
+more than one recognition
+
+recognition
+time: 1.077301073 secs
+more than one recognition
+
+recognition
+time: 1.066414037 secs
+more than one recognition
+
+recognition
+time: 1.075550039 secs
+more than one recognition
+
+recognition
+time: 1.088819012 secs
+more than one recognition
+
+recognition
+time: 1.094420046 secs
+more than one recognition
+
+recognition
+time: 1.085846956 secs
+more than one recognition
+
+recognition
+time: 1.099123985 secs
+more than one recognition
+
+recognition
+time: 1.094263071 secs
+more than one recognition
+
+recognition
+time: 1.103236118 secs
+more than one recognition
+
+recognition
+time: 1.088819012 secs
+more than one recognition
+
+recognition
+time: 1.126085076 secs
+more than one recognition
+
+recognition
+time: 1.077846159 secs
+more than one recognition
+
+recognition
+time: 1.098169073 secs
+more than one recognition
+
+recognition
+time: 1.101144192 secs
+more than one recognition
+
+recognition
+time: 1.064788086 secs
+more than one recognition
+
+recognition
+time: 1.102702927 secs
+more than one recognition
+
+recognition
+time: 1.083399193 secs
+more than one recognition
+
+recognition
+time: 1.103236118 secs
+more than one recognition
+
+recognition
+time: 1.038088015 secs
+more than one recognition
+
+recognition
+time: 1.057977816 secs
+more than one recognition
+
+recognition
+time: 1.040731112 secs
+more than one recognition
+
+recognition
+time: 1.057977816 secs
+more than one recognition
+
+recognition
+time: 1.050848983 secs
+more than one recognition
+
+recognition
+time: 1.10140391 secs
+more than one recognition
+
+recognition
+time: 1.085707985 secs
+more than one recognition
+
+recognition
+time: 1.096062122 secs
+more than one recognition
+
+recognition
+time: 1.076306022 secs
+more than one recognition
+
+recognition
+time: 1.030195978 secs
+more than one recognition
+
+recognition
+time: 1.065639981 secs
+more than one recognition
+
+recognition
+time: 1.057712082 secs
+more than one recognition
+
+recognition
+time: 1.036256966 secs
+more than one recognition
+
+recognition
+time: 1.10669995 secs
+more than one recognition
+
+recognition
+time: 1.087633091 secs
+more than one recognition
+
+recognition
+time: 1.096221104 secs
+more than one recognition
+
+recognition
+time: 1.068110018 secs
+more than one recognition
+
+recognition
+time: 1.110988058 secs
+more than one recognition
+
+recognition
+time: 1.088687816 secs
+more than one recognition
+
+recognition
+time: 1.129164938 secs
+more than one recognition
+
+recognition
+time: 1.094263071 secs
+more than one recognition
+
+recognition
+time: 1.114214054 secs
+more than one recognition
+
+recognition
+time: 1.04700611 secs
+more than one recognition
+
+recognition
+time: 1.057712082 secs
+more than one recognition
+
+recognition
+time: 1.139709087 secs
+more than one recognition
+
+recognition
+time: 1.030195978 secs
+more than one recognition
+
+recognition
+time: 1.057977816 secs
+more than one recognition
+
+recognition
+time: 1.057712082 secs
+more than one recognition
+
+recognition
+time: 1.094263071 secs
+more than one recognition
+
+recognition
+time: 1.106021908 secs
+more than one recognition
+
+recognition
+time: 1.036549965 secs
+more than one recognition
+
+recognition
+time: 1.119323171 secs
+more than one recognition
+
+recognition
+time: 1.007852064 secs
+more than one recognition
+
+recognition
+time: 1.053135037 secs
+more than one recognition
+
+recognition
+time: 1.070422154 secs
+more than one recognition
+
+recognition
+time: 1.099364055 secs
+more than one recognition
+
+recognition
+time: 1.091106959 secs
+more than one recognition
+
+recognition
+time: 1.080562059 secs
+more than one recognition
+
+recognition
+time: 1.068689985 secs
+more than one recognition
+
+recognition
+time: 1.076870945 secs
+more than one recognition
+
+recognition
+time: 1.07880092 secs
+more than one recognition
+
+recognition
+time: 1.08820103 secs
+more than one recognition
+
+recognition
+time: 1.124728981 secs
+more than one recognition
+
+recognition
+time: 1.045924153 secs
+more than one recognition
+
+recognition
+time: 1.076405901 secs
+more than one recognition
+
+recognition
+time: 1.094127097 secs
+more than one recognition
+
+recognition
+time: 1.093637821 secs
+more than one recognition
+
+recognition
+time: 1.093637821 secs
+more than one recognition
+
+recognition
+time: 1.08153207 secs
+more than one recognition
+
+recognition
+time: 1.053427118 secs
+more than one recognition
+
+recognition
+time: 1.126598931 secs
+more than one recognition
+
+recognition
+time: 1.079302055 secs
+more than one recognition
+
+recognition
+time: 1.100041897 secs
+more than one recognition
+
+recognition
+time: 1.129164938 secs
+more than one recognition
+
+recognition
+time: 1.093637821 secs
+more than one recognition
+
+recognition
+time: 1.088764153 secs
+more than one recognition
+
+recognition
+time: 1.063148804 secs
+more than one recognition
+
+recognition
+time: 1.079298979 secs
+more than one recognition
+
+recognition
+time: 1.085598926 secs
+more than one recognition
+
+recognition
+time: 1.056692957 secs
+more than one recognition
+
+recognition
+time: 1.062609047 secs
+more than one recognition
+
+recognition
+time: 1.063546078 secs
+more than one recognition
+
+recognition
+time: 1.077176967 secs
+more than one recognition
+
+recognition
+time: 1.085598926 secs
+more than one recognition
+
+recognition
+time: 1.106008123 secs
+more than one recognition
+
+recognition
+time: 1.109715998 secs
+more than one recognition
+
+recognition
+time: 1.0938038 secs
+more than one recognition
+
+recognition
+time: 1.076590132 secs
+more than one recognition
+
+recognition
+time: 1.077212925 secs
+more than one recognition
+
+recognition
+time: 1.066401122 secs
+more than one recognition
+
+recognition
+time: 1.044029156 secs
+more than one recognition
+
+recognition
+time: 1.065338877 secs
+more than one recognition
+
+recognition
+time: 1.066401122 secs
+more than one recognition
+
+recognition
+time: 1.097991013 secs
+more than one recognition
+
+recognition
+time: 1.085610998 secs
+more than one recognition
+
+recognition
+time: 1.076462015 secs
+more than one recognition
+
+recognition
+time: 1.083183034 secs
+more than one recognition
+
+recognition
+time: 1.08820103 secs
+more than one recognition
+
+recognition
+time: 1.090507885 secs
+more than one recognition
+
+recognition
+time: 1.085610998 secs
+more than one recognition
+
+recognition
+time: 1.073674133 secs
+more than one recognition
+
+recognition
+time: 1.094757149 secs
+more than one recognition
+
+recognition
+time: 1.069991923 secs
+more than one recognition
+
+recognition
+time: 1.086457211 secs
+more than one recognition
+
+recognition
+time: 1.086457211 secs
+more than one recognition
+
+recognition
+time: 1.050104824 secs
+more than one recognition
+
+recognition
+time: 1.086327909 secs
+more than one recognition
+
+recognition
+time: 1.086049858 secs
+more than one recognition
+
+recognition
+time: 1.097991013 secs
+more than one recognition
+
+recognition
+time: 1.111065027 secs
+more than one recognition
+
+recognition
+time: 1.071719868 secs
+more than one recognition
+
+recognition
+time: 1.048585945 secs
+more than one recognition
+
+recognition
+time: 1.088038086 secs
+more than one recognition
+
+recognition
+time: 1.06790892 secs
+more than one recognition
+
+recognition
+time: 1.057084907 secs
+more than one recognition
+
+recognition
+time: 1.050104824 secs
+more than one recognition
+
+recognition
+time: 1.063105913 secs
+more than one recognition
+
+recognition
+time: 1.113766808 secs
+more than one recognition
+
+recognition
+time: 1.03045419 secs
+more than one recognition
+
+recognition
+time: 1.079093086 secs
+more than one recognition
+
+recognition
+time: 1.080091051 secs
+more than one recognition
+
+recognition
+time: 1.063105913 secs
+more than one recognition
+
+recognition
+time: 1.11853212 secs
+more than one recognition
+
+recognition
+time: 1.087951906 secs
+more than one recognition
+
+recognition
+time: 1.085650061 secs
+more than one recognition
+
+recognition
+time: 1.058044012 secs
+more than one recognition
+
+recognition
+time: 1.07880092 secs
+more than one recognition
+
+recognition
+time: 1.038193886 secs
+more than one recognition
+
+recognition
+time: 1.12462511 secs
+more than one recognition
+
+recognition
+time: 1.085335953 secs
+more than one recognition
+
+recognition
+time: 1.113766808 secs
+more than one recognition
+
+recognition
+time: 1.090881958 secs
+more than one recognition
+
+recognition
+time: 1.097120055 secs
+more than one recognition
+
+recognition
+time: 1.086049858 secs
+more than one recognition
+
+recognition
+time: 1.108107025 secs
+more than one recognition
+
+recognition
+time: 1.116800969 secs
+more than one recognition
+
+recognition
+time: 1.091865954 secs
+more than one recognition
+
+recognition
+time: 1.07880092 secs
+more than one recognition
+
+recognition
+time: 1.078305866 secs
+more than one recognition
+
+recognition
+time: 1.016647972 secs
+more than one recognition
+
+recognition
+time: 1.067500036 secs
+more than one recognition
+
+recognition
+time: 1.10669995 secs
+more than one recognition
+
+recognition
+time: 1.07880092 secs
+more than one recognition
+
+recognition
+time: 1.105455084 secs
+more than one recognition
+
+recognition
+time: 1.094066908 secs
+more than one recognition
+
+recognition
+time: 1.060803903 secs
+more than one recognition
+
+recognition
+time: 1.126845129 secs
+more than one recognition
+
+recognition
+time: 1.077161882 secs
+more than one recognition
+
+recognition
+time: 1.077161882 secs
+more than one recognition
+
+recognition
+time: 1.126726111 secs
+more than one recognition
+
+recognition
+time: 1.06266695 secs
+more than one recognition
+
+recognition
+time: 1.06266695 secs
+more than one recognition
+
+recognition
+time: 1.060803903 secs
+more than one recognition
+
+recognition
+time: 1.092616997 secs
+more than one recognition
+
+recognition
+time: 1.100568148 secs
+more than one recognition
+
+recognition
+time: 1.016647972 secs
+more than one recognition
+
+recognition
+time: 1.082691174 secs
+more than one recognition
+
+recognition
+time: 1.071315859 secs
+more than one recognition
+
+recognition
+time: 1.07880092 secs
+more than one recognition
+
+recognition
+time: 1.092683998 secs
+more than one recognition
+
+recognition
+time: 1.050104824 secs
+more than one recognition
+
+recognition
+time: 1.095789896 secs
+more than one recognition
+
+recognition
+time: 1.050487997 secs
+more than one recognition
+
+recognition
+time: 1.113766808 secs
+more than one recognition
+
+recognition
+time: 1.143947932 secs
+more than one recognition
+
+recognition
+time: 1.086310783 secs
+more than one recognition
+
+recognition
+time: 1.108107025 secs
+more than one recognition
+
+recognition
+time: 1.099283012 secs
+more than one recognition
+
+recognition
+time: 1.050104824 secs
+more than one recognition
+
+recognition
+time: 1.085515074 secs
+more than one recognition
+
+recognition
+time: 1.079762951 secs
+more than one recognition
+
+recognition
+time: 1.055625939 secs
+more than one recognition
+
+recognition
+time: 1.085515074 secs
+more than one recognition
+
+recognition
+time: 1.106821001 secs
+more than one recognition
+
+recognition
+time: 1.071315859 secs
+more than one recognition
+
+recognition
+time: 1.085241079 secs
+more than one recognition
+
+recognition
+time: 1.079443987 secs
+more than one recognition
+
+recognition
+time: 1.106721049 secs
+more than one recognition
+
+recognition
+time: 1.082462019 secs
+more than one recognition
+
+recognition
+time: 1.083929869 secs
+more than one recognition
+
+recognition
+time: 1.090881958 secs
+more than one recognition
+
+recognition
+time: 1.107109139 secs
+more than one recognition
+
+recognition
+time: 1.107084024 secs
+more than one recognition
+
+recognition
+time: 1.063712984 secs
+more than one recognition
+
+recognition
+time: 1.058721998 secs
+more than one recognition
+
+recognition
+time: 1.100871158 secs
+more than one recognition
+
+recognition
+time: 1.079126084 secs
+more than one recognition
+
+recognition
+time: 1.093845926 secs
+more than one recognition
+
+recognition
+time: 1.102450054 secs
+more than one recognition
+
+recognition
+time: 1.12211704 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.050487997 secs
+more than one recognition
+
+recognition
+time: 1.082763048 secs
+more than one recognition
+
+recognition
+time: 1.088894076 secs
+more than one recognition
+
+recognition
+time: 1.106039989 secs
+more than one recognition
+
+recognition
+time: 1.080748026 secs
+more than one recognition
+
+recognition
+time: 1.06133621 secs
+more than one recognition
+
+recognition
+time: 1.079795196 secs
+more than one recognition
+
+recognition
+time: 1.072918987 secs
+more than one recognition
+
+recognition
+time: 1.101766157 secs
+more than one recognition
+
+recognition
+time: 1.12211704 secs
+more than one recognition
+
+recognition
+time: 1.077158045 secs
+more than one recognition
+
+recognition
+time: 1.106039989 secs
+more than one recognition
+
+recognition
+time: 1.058189785 secs
+more than one recognition
+
+recognition
+time: 1.101446966 secs
+more than one recognition
+
+recognition
+time: 1.077158045 secs
+more than one recognition
+
+recognition
+time: 1.088894076 secs
+more than one recognition
+
+recognition
+time: 1.064037848 secs
+more than one recognition
+
+recognition
+time: 1.088894076 secs
+more than one recognition
+
+recognition
+time: 1.105483061 secs
+more than one recognition
+
+recognition
+time: 1.132501991 secs
+more than one recognition
+
+recognition
+time: 1.09772401 secs
+more than one recognition
+
+recognition
+time: 1.10986689 secs
+more than one recognition
+
+recognition
+time: 1.045000194 secs
+more than one recognition
+
+recognition
+time: 1.094110016 secs
+more than one recognition
+
+recognition
+time: 1.09647017 secs
+more than one recognition
+
+recognition
+time: 1.129240882 secs
+more than one recognition
+
+recognition
+time: 1.084153984 secs
+more than one recognition
+
+recognition
+time: 1.06133621 secs
+more than one recognition
+
+recognition
+time: 1.060342079 secs
+more than one recognition
+
+recognition
+time: 1.073045861 secs
+more than one recognition
+
+recognition
+time: 1.088894076 secs
+more than one recognition
+
+recognition
+time: 1.077439031 secs
+more than one recognition
+
+recognition
+time: 1.063947031 secs
+more than one recognition
+
+recognition
+time: 1.082461128 secs
+more than one recognition
+
+recognition
+time: 1.084793963 secs
+more than one recognition
+
+recognition
+time: 1.118216864 secs
+more than one recognition
+
+recognition
+time: 1.104767995 secs
+more than one recognition
+
+recognition
+time: 1.055242002 secs
+more than one recognition
+
+recognition
+time: 1.062443997 secs
+more than one recognition
+
+recognition
+time: 1.045000194 secs
+more than one recognition
+
+recognition
+time: 1.062650906 secs
+more than one recognition
+
+recognition
+time: 1.083219013 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.104767995 secs
+more than one recognition
+
+recognition
+time: 1.062650906 secs
+more than one recognition
+
+recognition
+time: 1.099534927 secs
+more than one recognition
+
+recognition
+time: 1.10442219 secs
+more than one recognition
+
+recognition
+time: 1.088345964 secs
+more than one recognition
+
+recognition
+time: 1.088858017 secs
+more than one recognition
+
+recognition
+time: 1.095133181 secs
+more than one recognition
+
+recognition
+time: 1.067527172 secs
+more than one recognition
+
+recognition
+time: 1.075511959 secs
+more than one recognition
+
+recognition
+time: 1.08222806 secs
+more than one recognition
+
+recognition
+time: 1.086684952 secs
+more than one recognition
+
+recognition
+time: 1.114618999 secs
+more than one recognition
+
+recognition
+time: 1.073254049 secs
+more than one recognition
+
+recognition
+time: 1.079852911 secs
+more than one recognition
+
+recognition
+time: 1.078302927 secs
+more than one recognition
+
+recognition
+time: 1.088345964 secs
+more than one recognition
+
+recognition
+time: 1.142565901 secs
+more than one recognition
+
+recognition
+time: 1.067515122 secs
+more than one recognition
+
+recognition
+time: 1.074906916 secs
+more than one recognition
+
+recognition
+time: 1.10971096 secs
+more than one recognition
+
+recognition
+time: 1.062601137 secs
+more than one recognition
+
+recognition
+time: 1.090868826 secs
+more than one recognition
+
+recognition
+time: 1.053675919 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.077289891 secs
+more than one recognition
+
+recognition
+time: 1.142717011 secs
+more than one recognition
+
+recognition
+time: 1.096014854 secs
+more than one recognition
+
+recognition
+time: 1.068166023 secs
+more than one recognition
+
+recognition
+time: 1.066699967 secs
+more than one recognition
+
+recognition
+time: 1.05495497 secs
+more than one recognition
+
+recognition
+time: 1.10971096 secs
+more than one recognition
+
+recognition
+time: 1.074132103 secs
+more than one recognition
+
+recognition
+time: 1.058189785 secs
+more than one recognition
+
+recognition
+time: 1.095499852 secs
+more than one recognition
+
+recognition
+time: 1.067515122 secs
+more than one recognition
+
+recognition
+time: 1.080365103 secs
+more than one recognition
+
+recognition
+time: 1.120973921 secs
+more than one recognition
+
+recognition
+time: 1.098635008 secs
+more than one recognition
+
+recognition
+time: 1.064656874 secs
+more than one recognition
+
+recognition
+time: 1.105421114 secs
+more than one recognition
+
+recognition
+time: 1.067527172 secs
+more than one recognition
+
+recognition
+time: 1.108286906 secs
+more than one recognition
+
+recognition
+time: 1.09005783 secs
+more than one recognition
+
+recognition
+time: 1.081476067 secs
+more than one recognition
+
+recognition
+time: 1.094901924 secs
+more than one recognition
+
+recognition
+time: 1.08222806 secs
+more than one recognition
+
+recognition
+time: 1.132938961 secs
+more than one recognition
+
+recognition
+time: 1.073991933 secs
+more than one recognition
+
+recognition
+time: 1.100290045 secs
+more than one recognition
+
+recognition
+time: 1.099371067 secs
+more than one recognition
+
+recognition
+time: 1.098635008 secs
+more than one recognition
+
+recognition
+time: 1.101380115 secs
+more than one recognition
+
+recognition
+time: 1.077405941 secs
+more than one recognition
+
+recognition
+time: 1.101818983 secs
+more than one recognition
+
+recognition
+time: 1.102961956 secs
+more than one recognition
+
+recognition
+time: 1.073991933 secs
+more than one recognition
+
+recognition
+time: 1.089031138 secs
+more than one recognition
+
+recognition
+time: 1.097935944 secs
+more than one recognition
+
+recognition
+time: 1.099371067 secs
+more than one recognition
+
+recognition
+time: 1.082855946 secs
+more than one recognition
+
+recognition
+time: 1.0720319 secs
+more than one recognition
+
+recognition
+time: 1.083976192 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.117688078 secs
+more than one recognition
+
+recognition
+time: 1.117688078 secs
+more than one recognition
+
+recognition
+time: 1.066699967 secs
+more than one recognition
+
+recognition
+time: 1.092088986 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.112996841 secs
+more than one recognition
+
+recognition
+time: 1.083011091 secs
+more than one recognition
+
+recognition
+time: 1.081114902 secs
+more than one recognition
+
+recognition
+time: 1.082204998 secs
+more than one recognition
+
+recognition
+time: 1.086995825 secs
+more than one recognition
+
+recognition
+time: 1.112996841 secs
+more than one recognition
+
+recognition
+time: 1.083041063 secs
+more than one recognition
+
+recognition
+time: 1.110088029 secs
+more than one recognition
+
+recognition
+time: 1.058347013 secs
+more than one recognition
+
+recognition
+time: 1.094192057 secs
+more than one recognition
+
+recognition
+time: 1.0909522 secs
+more than one recognition
+
+recognition
+time: 1.083011091 secs
+more than one recognition
+
+recognition
+time: 1.079590955 secs
+more than one recognition
+
+recognition
+time: 1.079590955 secs
+more than one recognition
+
+recognition
+time: 1.071741026 secs
+more than one recognition
+
+recognition
+time: 1.071015096 secs
+more than one recognition
+
+recognition
+time: 1.094970081 secs
+more than one recognition
+
+recognition
+time: 1.094192057 secs
+more than one recognition
+
+recognition
+time: 1.038574077 secs
+more than one recognition
+
+recognition
+time: 1.046134022 secs
+more than one recognition
+
+recognition
+time: 1.077042917 secs
+more than one recognition
+
+recognition
+time: 1.113133045 secs
+more than one recognition
+
+recognition
+time: 1.058347013 secs
+more than one recognition
+
+recognition
+time: 1.071741026 secs
+more than one recognition
+
+recognition
+time: 1.098166102 secs
+more than one recognition
+
+recognition
+time: 1.055317951 secs
+more than one recognition
+
+recognition
+time: 1.071831968 secs
+more than one recognition
+
+recognition
+time: 1.095834955 secs
+more than one recognition
+
+recognition
+time: 1.094409063 secs
+more than one recognition
+
+recognition
+time: 1.058347013 secs
+more than one recognition
+
+recognition
+time: 1.095834955 secs
+more than one recognition
+
+recognition
+time: 1.066336008 secs
+more than one recognition
+
+recognition
+time: 1.083976192 secs
+more than one recognition
+
+recognition
+time: 1.066389912 secs
+more than one recognition
+
+recognition
+time: 1.08420091 secs
+more than one recognition
+
+recognition
+time: 1.113192851 secs
+more than one recognition
+
+recognition
+time: 1.092088986 secs
+more than one recognition
+
+recognition
+time: 1.06176087 secs
+more than one recognition
+
+recognition
+time: 1.134522061 secs
+more than one recognition
+
+recognition
+time: 1.071684956 secs
+more than one recognition
+
+recognition
+time: 1.110088029 secs
+more than one recognition
+
+recognition
+time: 1.084276119 secs
+more than one recognition
+
+recognition
+time: 1.099864924 secs
+more than one recognition
+
+recognition
+time: 1.066389912 secs
+more than one recognition
+
+recognition
+time: 1.038519104 secs
+more than one recognition
+
+recognition
+time: 1.043714811 secs
+more than one recognition
+
+recognition
+time: 1.10840306 secs
+more than one recognition
+
+recognition
+time: 1.134930903 secs
+more than one recognition
+
+recognition
+time: 1.048087845 secs
+more than one recognition
+
+recognition
+time: 1.079232935 secs
+more than one recognition
+
+recognition
+time: 1.101688046 secs
+more than one recognition
+
+recognition
+time: 1.062877058 secs
+more than one recognition
+
+recognition
+time: 1.099864924 secs
+more than one recognition
+
+recognition
+time: 1.066389912 secs
+more than one recognition
+
+recognition
+time: 1.104005955 secs
+more than one recognition
+
+recognition
+time: 1.091533882 secs
+more than one recognition
+
+recognition
+time: 1.095162809 secs
+more than one recognition
+
+recognition
+time: 1.07705286 secs
+more than one recognition
+
+recognition
+time: 1.07705286 secs
+more than one recognition
+
+recognition
+time: 1.088366844 secs
+more than one recognition
+
+recognition
+time: 1.107720834 secs
+more than one recognition
+
+recognition
+time: 1.082338924 secs
+more than one recognition
+
+recognition
+time: 1.079244022 secs
+more than one recognition
+
+recognition
+time: 1.081891042 secs
+more than one recognition
+
+recognition
+time: 1.11522879 secs
+more than one recognition
+
+recognition
+time: 1.100342972 secs
+more than one recognition
+
+recognition
+time: 1.056019963 secs
+more than one recognition
+
+recognition
+time: 1.051840988 secs
+more than one recognition
+
+recognition
+time: 1.040142997 secs
+more than one recognition
+
+recognition
+time: 1.040142997 secs
+more than one recognition
+
+recognition
+time: 1.079244022 secs
+more than one recognition
+
+recognition
+time: 1.138427021 secs
+more than one recognition
+
+recognition
+time: 1.108398922 secs
+more than one recognition
+
+recognition
+time: 1.052543924 secs
+more than one recognition
+
+recognition
+time: 1.121893023 secs
+more than one recognition
+
+recognition
+time: 1.11778199 secs
+more than one recognition
+
+recognition
+time: 1.047052843 secs
+more than one recognition
+
+recognition
+time: 1.083433023 secs
+more than one recognition
+
+recognition
+time: 1.084696148 secs
+more than one recognition
+
+recognition
+time: 1.084668186 secs
+more than one recognition
+
+recognition
+time: 1.077352032 secs
+more than one recognition
+
+recognition
+time: 1.084668186 secs
+more than one recognition
+
+recognition
+time: 1.083011091 secs
+more than one recognition
+
+recognition
+time: 1.108398922 secs
+more than one recognition
+
+recognition
+time: 1.090187879 secs
+more than one recognition
+
+recognition
+time: 1.077352032 secs
+more than one recognition
+
+recognition
+time: 1.094507114 secs
+more than one recognition
+
+recognition
+time: 1.075805866 secs
+more than one recognition
+
+recognition
+time: 1.089831852 secs
+more than one recognition
+
+recognition
+time: 1.103336103 secs
+more than one recognition
+
+recognition
+time: 1.06587187 secs
+more than one recognition
+
+recognition
+time: 1.078150911 secs
+more than one recognition
+
+recognition
+time: 1.098893929 secs
+more than one recognition
+
+recognition
+time: 1.098893929 secs
+more than one recognition
+
+recognition
+time: 1.08579389 secs
+more than one recognition
+
+recognition
+time: 1.135977055 secs
+more than one recognition
+
+recognition
+time: 1.079232935 secs
+more than one recognition
+
+recognition
+time: 1.108593943 secs
+more than one recognition
+
+recognition
+time: 1.068095021 secs
+more than one recognition
+
+recognition
+time: 1.089831852 secs
+more than one recognition
+
+recognition
+time: 1.12445102 secs
+more than one recognition
+
+recognition
+time: 1.082069966 secs
+more than one recognition
+
+recognition
+time: 1.065191147 secs
+more than one recognition
+
+recognition
+time: 1.073030909 secs
+more than one recognition
+
+recognition
+time: 1.091958855 secs
+more than one recognition
+
+recognition
+time: 1.122444074 secs
+more than one recognition
+
+recognition
+time: 1.069472103 secs
+more than one recognition
+
+recognition
+time: 1.08579389 secs
+more than one recognition
+
+recognition
+time: 1.084835922 secs
+more than one recognition
+
+recognition
+time: 1.076009974 secs
+more than one recognition
+
+recognition
+time: 1.080827066 secs
+more than one recognition
+
+recognition
+time: 1.108206127 secs
+more than one recognition
+
+recognition
+time: 1.109756842 secs
+more than one recognition
+
+recognition
+time: 1.080827066 secs
+more than one recognition
+
+recognition
+time: 1.067247916 secs
+more than one recognition
+
+recognition
+time: 1.067527172 secs
+more than one recognition
+
+recognition
+time: 1.145500986 secs
+more than one recognition
+
+recognition
+time: 1.110366024 secs
+more than one recognition
+
+recognition
+time: 1.13232189 secs
+more than one recognition
+
+recognition
+time: 1.088333002 secs
+more than one recognition
+
+recognition
+time: 1.081762054 secs
+more than one recognition
+
+recognition
+time: 1.064319991 secs
+more than one recognition
+
+recognition
+time: 1.102709038 secs
+more than one recognition
+
+recognition
+time: 1.062877058 secs
+more than one recognition
+
+recognition
+time: 1.097597908 secs
+more than one recognition
+
+recognition
+time: 1.078762824 secs
+more than one recognition
+
+recognition
+time: 1.067527172 secs
+more than one recognition
+
+recognition
+time: 1.097597908 secs
+more than one recognition
+
+recognition
+time: 1.083287981 secs
+more than one recognition
+
+recognition
+time: 1.070021982 secs
+more than one recognition
+
+recognition
+time: 1.062877058 secs
+more than one recognition
+
+recognition
+time: 1.103115171 secs
+more than one recognition
+
+recognition
+time: 1.062877058 secs
+more than one recognition
+
+recognition
+time: 1.084349834 secs
+more than one recognition
+
+recognition
+time: 1.07554998 secs
+more than one recognition
+
+recognition
+time: 1.12445102 secs
+more than one recognition
+
+recognition
+time: 1.080827066 secs
+more than one recognition
+
+recognition
+time: 1.109690821 secs
+more than one recognition
+
+recognition
+time: 1.080827066 secs
+more than one recognition
+
+recognition
+time: 1.108398922 secs
+more than one recognition
+
+recognition
+time: 1.104056021 secs
+more than one recognition
+
+recognition
+time: 1.071816019 secs
+more than one recognition
+
+recognition
+time: 1.084835922 secs
+more than one recognition
+
+recognition
+time: 1.107005993 secs
+more than one recognition
+
+recognition
+time: 1.078473896 secs
+more than one recognition
+
+recognition
+time: 1.113753128 secs
+more than one recognition
+
+recognition
+time: 1.083287981 secs
+more than one recognition
+
+recognition
+time: 1.0847279 secs
+more than one recognition
+
+recognition
+time: 1.074797941 secs
+more than one recognition
+
+recognition
+time: 1.104267195 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.119559891 secs
+more than one recognition
+
+recognition
+time: 1.102709038 secs
+more than one recognition
+
+recognition
+time: 1.114462847 secs
+more than one recognition
+
+recognition
+time: 1.092378814 secs
+more than one recognition
+
+recognition
+time: 1.067796034 secs
+more than one recognition
+
+recognition
+time: 1.060016075 secs
+more than one recognition
+
+recognition
+time: 1.082022043 secs
+more than one recognition
+
+recognition
+time: 1.09692106 secs
+more than one recognition
+
+recognition
+time: 1.083632998 secs
+more than one recognition
+
+recognition
+time: 1.083120035 secs
+more than one recognition
+
+recognition
+time: 1.107534887 secs
+more than one recognition
+
+recognition
+time: 1.084610967 secs
+more than one recognition
+
+recognition
+time: 1.082764998 secs
+more than one recognition
+
+recognition
+time: 1.089436215 secs
+more than one recognition
+
+recognition
+time: 1.073708172 secs
+more than one recognition
+
+recognition
+time: 1.060016075 secs
+more than one recognition
+
+recognition
+time: 1.073708172 secs
+more than one recognition
+
+recognition
+time: 1.129842956 secs
+more than one recognition
+
+recognition
+time: 1.094570904 secs
+more than one recognition
+
+recognition
+time: 1.111634063 secs
+more than one recognition
+
+recognition
+time: 1.078222092 secs
+more than one recognition
+
+recognition
+time: 1.114421918 secs
+more than one recognition
+
+recognition
+time: 1.077739031 secs
+more than one recognition
+
+recognition
+time: 1.086119026 secs
+more than one recognition
+
+recognition
+time: 1.086398954 secs
+more than one recognition
+
+recognition
+time: 1.083632998 secs
+more than one recognition
+
+recognition
+time: 1.059889954 secs
+more than one recognition
+
+recognition
+time: 1.082022043 secs
+more than one recognition
+
+recognition
+time: 1.081806055 secs
+more than one recognition
+
+recognition
+time: 1.077327111 secs
+more than one recognition
+
+recognition
+time: 1.090220158 secs
+more than one recognition
+
+recognition
+time: 1.10478915 secs
+more than one recognition
+
+recognition
+time: 1.081806055 secs
+more than one recognition
+
+recognition
+time: 1.101771063 secs
+more than one recognition
+
+recognition
+time: 1.096772963 secs
+more than one recognition
+
+recognition
+time: 1.09692106 secs
+more than one recognition
+
+recognition
+time: 1.079781059 secs
+more than one recognition
+
+recognition
+time: 1.109256947 secs
+more than one recognition
+
+recognition
+time: 1.083632998 secs
+more than one recognition
+
+recognition
+time: 1.084835922 secs
+more than one recognition
+
+recognition
+time: 1.095579048 secs
+more than one recognition
+
+recognition
+time: 1.103535028 secs
+more than one recognition
+
+recognition
+time: 1.123850979 secs
+more than one recognition
+
+recognition
+time: 1.098001184 secs
+more than one recognition
+
+recognition
+time: 1.101091109 secs
+more than one recognition
+
+recognition
+time: 1.072398907 secs
+more than one recognition
+
+recognition
+time: 1.098001184 secs
+more than one recognition
+
+recognition
+time: 1.095579048 secs
+more than one recognition
+
+recognition
+time: 1.096882124 secs
+more than one recognition
+
+recognition
+time: 1.056693103 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.088449825 secs
+more than one recognition
+
+recognition
+time: 1.086119026 secs
+more than one recognition
+
+recognition
+time: 1.09806012 secs
+more than one recognition
+
+recognition
+time: 1.096244015 secs
+more than one recognition
+
+recognition
+time: 1.081011093 secs
+more than one recognition
+
+recognition
+time: 1.099226958 secs
+more than one recognition
+
+recognition
+time: 1.101771063 secs
+more than one recognition
+
+recognition
+time: 1.1198431 secs
+more than one recognition
+
+recognition
+time: 1.081471039 secs
+more than one recognition
+
+recognition
+time: 1.113906082 secs
+more than one recognition
+
+recognition
+time: 1.121725208 secs
+more than one recognition
+
+recognition
+time: 1.062159882 secs
+more than one recognition
+
+recognition
+time: 1.093321085 secs
+more than one recognition
+
+recognition
+time: 1.101771063 secs
+more than one recognition
+
+recognition
+time: 1.113906082 secs
+more than one recognition
+
+recognition
+time: 1.105372191 secs
+more than one recognition
+
+recognition
+time: 1.105372191 secs
+more than one recognition
+
+recognition
+time: 1.078669138 secs
+more than one recognition
+
+recognition
+time: 1.103535028 secs
+more than one recognition
+
+recognition
+time: 1.108398922 secs
+more than one recognition
+
+recognition
+time: 1.110910076 secs
+more than one recognition
+
+recognition
+time: 1.110942961 secs
+more than one recognition
+
+recognition
+time: 1.096244015 secs
+more than one recognition
+
+recognition
+time: 1.109775076 secs
+more than one recognition
+
+recognition
+time: 1.085730148 secs
+more than one recognition
+
+recognition
+time: 1.08065716 secs
+more than one recognition
+
+recognition
+time: 1.119715978 secs
+more than one recognition
+
+recognition
+time: 1.05150386 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.137209956 secs
+more than one recognition
+
+recognition
+time: 1.078832064 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.073131985 secs
+more than one recognition
+
+recognition
+time: 1.09586998 secs
+more than one recognition
+
+recognition
+time: 1.074182015 secs
+more than one recognition
+
+recognition
+time: 1.074182015 secs
+more than one recognition
+
+recognition
+time: 1.089424854 secs
+more than one recognition
+
+recognition
+time: 1.083756973 secs
+more than one recognition
+
+recognition
+time: 1.114661958 secs
+more than one recognition
+
+recognition
+time: 1.091699087 secs
+more than one recognition
+
+recognition
+time: 1.123850979 secs
+more than one recognition
+
+recognition
+time: 1.114661958 secs
+more than one recognition
+
+recognition
+time: 1.130221992 secs
+more than one recognition
+
+recognition
+time: 1.084960117 secs
+more than one recognition
+
+recognition
+time: 1.07168198 secs
+more than one recognition
+
+recognition
+time: 1.072259042 secs
+more than one recognition
+
+recognition
+time: 1.082848076 secs
+more than one recognition
+
+recognition
+time: 1.098461916 secs
+more than one recognition
+
+recognition
+time: 1.075777106 secs
+more than one recognition
+
+recognition
+time: 1.078997143 secs
+more than one recognition
+
+recognition
+time: 1.060168167 secs
+more than one recognition
+
+recognition
+time: 1.089424854 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.072259042 secs
+more than one recognition
+
+recognition
+time: 1.086918858 secs
+more than one recognition
+
+recognition
+time: 1.089424854 secs
+more than one recognition
+
+recognition
+time: 1.089817964 secs
+more than one recognition
+
+recognition
+time: 1.079078007 secs
+more than one recognition
+
+recognition
+time: 1.116709101 secs
+more than one recognition
+
+recognition
+time: 1.089424854 secs
+more than one recognition
+
+recognition
+time: 1.084960117 secs
+more than one recognition
+
+recognition
+time: 1.066761828 secs
+more than one recognition
+
+recognition
+time: 1.101582989 secs
+more than one recognition
+
+recognition
+time: 1.068147055 secs
+more than one recognition
+
+recognition
+time: 1.079074154 secs
+more than one recognition
+
+recognition
+time: 1.110581858 secs
+more than one recognition
+
+recognition
+time: 1.103029949 secs
+more than one recognition
+
+recognition
+time: 1.109775076 secs
+more than one recognition
+
+recognition
+time: 1.071341025 secs
+more than one recognition
+
+recognition
+time: 1.095307911 secs
+more than one recognition
+
+recognition
+time: 1.075985048 secs
+more than one recognition
+
+recognition
+time: 1.077888088 secs
+more than one recognition
+
+recognition
+time: 1.098461916 secs
+more than one recognition
+
+recognition
+time: 1.077227943 secs
+more than one recognition
+
+recognition
+time: 1.088947001 secs
+more than one recognition
+
+recognition
+time: 1.103029949 secs
+more than one recognition
+
+recognition
+time: 1.086964052 secs
+more than one recognition
+
+recognition
+time: 1.054775004 secs
+more than one recognition
+
+recognition
+time: 1.091982995 secs
+more than one recognition
+
+recognition
+time: 1.112357992 secs
+more than one recognition
+
+recognition
+time: 1.082915901 secs
+more than one recognition
+
+recognition
+time: 1.094890928 secs
+more than one recognition
+
+recognition
+time: 1.060950998 secs
+more than one recognition
+
+recognition
+time: 1.117391983 secs
+more than one recognition
+
+recognition
+time: 1.087879048 secs
+more than one recognition
+
+recognition
+time: 1.051287006 secs
+more than one recognition
+
+recognition
+time: 1.054775004 secs
+more than one recognition
+
+recognition
+time: 1.156684861 secs
+more than one recognition
+
+recognition
+time: 1.071341025 secs
+more than one recognition
+
+recognition
+time: 1.090960985 secs
+more than one recognition
+
+recognition
+time: 1.087899049 secs
+more than one recognition
+
+recognition
+time: 1.119918859 secs
+more than one recognition
+
+recognition
+time: 1.070726791 secs
+more than one recognition
+
+recognition
+time: 1.119918859 secs
+more than one recognition
+
+recognition
+time: 1.084983986 secs
+more than one recognition
+
+recognition
+time: 1.086964052 secs
+more than one recognition
+
+recognition
+time: 1.111836807 secs
+more than one recognition
+
+recognition
+time: 1.104528999 secs
+more than one recognition
+
+recognition
+time: 1.082516971 secs
+more than one recognition
+
+recognition
+time: 1.054270861 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.071374075 secs
+more than one recognition
+
+recognition
+time: 1.070726791 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.090671959 secs
+more than one recognition
+
+recognition
+time: 1.092401018 secs
+more than one recognition
+
+recognition
+time: 1.123190115 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.069534052 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.106039011 secs
+more than one recognition
+
+recognition
+time: 1.091345087 secs
+more than one recognition
+
+recognition
+time: 1.107698083 secs
+more than one recognition
+
+recognition
+time: 1.087617039 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.108146069 secs
+more than one recognition
+
+recognition
+time: 1.079718117 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.104755991 secs
+more than one recognition
+
+recognition
+time: 1.076865852 secs
+more than one recognition
+
+recognition
+time: 1.098192905 secs
+more than one recognition
+
+recognition
+time: 1.083790009 secs
+more than one recognition
+
+recognition
+time: 1.102584963 secs
+more than one recognition
+
+recognition
+time: 1.098192905 secs
+more than one recognition
+
+recognition
+time: 1.085057825 secs
+more than one recognition
+
+recognition
+time: 1.07859207 secs
+more than one recognition
+
+recognition
+time: 1.121047783 secs
+more than one recognition
+
+recognition
+time: 1.101616991 secs
+more than one recognition
+
+recognition
+time: 1.083652914 secs
+more than one recognition
+
+recognition
+time: 1.123190115 secs
+more than one recognition
+
+recognition
+time: 1.083216023 secs
+more than one recognition
+
+recognition
+time: 1.103261976 secs
+more than one recognition
+
+recognition
+time: 1.056936989 secs
+more than one recognition
+
+recognition
+time: 1.064380872 secs
+more than one recognition
+
+recognition
+time: 1.102637015 secs
+more than one recognition
+
+recognition
+time: 1.094074949 secs
+more than one recognition
+
+recognition
+time: 1.07859207 secs
+more than one recognition
+
+recognition
+time: 1.083451078 secs
+more than one recognition
+
+recognition
+time: 1.091628059 secs
+more than one recognition
+
+recognition
+time: 1.120027939 secs
+more than one recognition
+
+recognition
+time: 1.09609788 secs
+more than one recognition
+
+recognition
+time: 1.102584963 secs
+more than one recognition
+
+recognition
+time: 1.122675035 secs
+more than one recognition
+
+recognition
+time: 1.119775962 secs
+more than one recognition
+
+recognition
+time: 1.09609788 secs
+more than one recognition
+
+recognition
+time: 1.09609788 secs
+more than one recognition
+
+recognition
+time: 1.094074949 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.113183027 secs
+more than one recognition
+
+recognition
+time: 1.066610995 secs
+more than one recognition
+
+recognition
+time: 1.137198973 secs
+more than one recognition
+
+recognition
+time: 1.113927002 secs
+more than one recognition
+
+recognition
+time: 1.094779022 secs
+more than one recognition
+
+recognition
+time: 1.104681023 secs
+more than one recognition
+
+recognition
+time: 1.085395101 secs
+more than one recognition
+
+recognition
+time: 1.098231989 secs
+more than one recognition
+
+recognition
+time: 1.112720128 secs
+more than one recognition
+
+recognition
+time: 1.087107165 secs
+more than one recognition
+
+recognition
+time: 1.107067896 secs
+more than one recognition
+
+recognition
+time: 1.107067896 secs
+more than one recognition
+
+recognition
+time: 1.071029995 secs
+more than one recognition
+
+recognition
+time: 1.090295927 secs
+more than one recognition
+
+recognition
+time: 1.087107165 secs
+more than one recognition
+
+recognition
+time: 1.099983996 secs
+more than one recognition
+
+recognition
+time: 1.10265 secs
+more than one recognition
+
+recognition
+time: 1.114996111 secs
+more than one recognition
+
+recognition
+time: 1.068388947 secs
+more than one recognition
+
+recognition
+time: 1.068388947 secs
+more than one recognition
+
+recognition
+time: 1.110825007 secs
+more than one recognition
+
+recognition
+time: 1.110939903 secs
+more than one recognition
+
+recognition
+time: 1.104681023 secs
+more than one recognition
+
+recognition
+time: 1.082121189 secs
+more than one recognition
+
+recognition
+time: 1.044897911 secs
+more than one recognition
+
+recognition
+time: 1.108058046 secs
+more than one recognition
+
+recognition
+time: 1.097866868 secs
+more than one recognition
+
+recognition
+time: 1.080971119 secs
+more than one recognition
+
+recognition
+time: 1.121103945 secs
+more than one recognition
+
+recognition
+time: 1.078407032 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.120003967 secs
+more than one recognition
+
+recognition
+time: 1.108568066 secs
+more than one recognition
+
+recognition
+time: 1.112987863 secs
+more than one recognition
+
+recognition
+time: 1.096377218 secs
+more than one recognition
+
+recognition
+time: 1.099462904 secs
+more than one recognition
+
+recognition
+time: 1.059900009 secs
+more than one recognition
+
+recognition
+time: 1.059900009 secs
+more than one recognition
+
+recognition
+time: 1.093147125 secs
+more than one recognition
+
+recognition
+time: 1.087157995 secs
+more than one recognition
+
+recognition
+time: 1.088494154 secs
+more than one recognition
+
+recognition
+time: 1.104681023 secs
+more than one recognition
+
+recognition
+time: 1.105910914 secs
+more than one recognition
+
+recognition
+time: 1.087107165 secs
+more than one recognition
+
+recognition
+time: 1.071415854 secs
+more than one recognition
+
+recognition
+time: 1.119343024 secs
+more than one recognition
+
+recognition
+time: 1.086891159 secs
+more than one recognition
+
+recognition
+time: 1.107976988 secs
+more than one recognition
+
+recognition
+time: 1.087157995 secs
+more than one recognition
+
+recognition
+time: 1.094590805 secs
+more than one recognition
+
+recognition
+time: 1.080253931 secs
+more than one recognition
+
+recognition
+time: 1.059900009 secs
+more than one recognition
+
+recognition
+time: 1.075539049 secs
+more than one recognition
+
+recognition
+time: 1.073226001 secs
+more than one recognition
+
+recognition
+time: 1.112132124 secs
+more than one recognition
+
+recognition
+time: 1.089399001 secs
+more than one recognition
+
+recognition
+time: 1.075539049 secs
+more than one recognition
+
+recognition
+time: 1.078407032 secs
+more than one recognition
+
+recognition
+time: 1.077750103 secs
+more than one recognition
+
+recognition
+time: 1.090823015 secs
+more than one recognition
+
+recognition
+time: 1.106855127 secs
+more than one recognition
+
+recognition
+time: 1.081451022 secs
+more than one recognition
+
+recognition
+time: 1.078407032 secs
+more than one recognition
+
+recognition
+time: 1.103997169 secs
+more than one recognition
+
+recognition
+time: 1.119343024 secs
+more than one recognition
+
+recognition
+time: 1.106808125 secs
+more than one recognition
+
+recognition
+time: 1.109544111 secs
+more than one recognition
+
+recognition
+time: 1.092892929 secs
+more than one recognition
+
+recognition
+time: 1.088494154 secs
+more than one recognition
+
+recognition
+time: 1.129451132 secs
+more than one recognition
+
+recognition
+time: 1.109544111 secs
+more than one recognition
+
+recognition
+time: 1.122559038 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.084940811 secs
+more than one recognition
+
+recognition
+time: 1.096668053 secs
+more than one recognition
+
+recognition
+time: 1.060844034 secs
+more than one recognition
+
+recognition
+time: 1.078171088 secs
+more than one recognition
+
+recognition
+time: 1.082181958 secs
+more than one recognition
+
+recognition
+time: 1.09005805 secs
+more than one recognition
+
+recognition
+time: 1.129451132 secs
+more than one recognition
+
+recognition
+time: 1.117540083 secs
+more than one recognition
+
+recognition
+time: 1.094737902 secs
+more than one recognition
+
+recognition
+time: 1.104670059 secs
+more than one recognition
+
+recognition
+time: 1.126384969 secs
+more than one recognition
+
+recognition
+time: 1.121103945 secs
+more than one recognition
+
+recognition
+time: 1.057437946 secs
+more than one recognition
+
+recognition
+time: 1.092892929 secs
+more than one recognition
+
+recognition
+time: 1.082851979 secs
+more than one recognition
+
+recognition
+time: 1.127841892 secs
+more than one recognition
+
+recognition
+time: 1.096668053 secs
+more than one recognition
+
+recognition
+time: 1.09005805 secs
+more than one recognition
+
+recognition
+time: 1.075539049 secs
+more than one recognition
+
+recognition
+time: 1.094737902 secs
+more than one recognition
+
+recognition
+time: 1.100481913 secs
+more than one recognition
+
+recognition
+time: 1.099462904 secs
+more than one recognition
+
+recognition
+time: 1.118360006 secs
+more than one recognition
+
+recognition
+time: 1.080639891 secs
+more than one recognition
+
+recognition
+time: 1.118899072 secs
+more than one recognition
+
+recognition
+time: 1.118360006 secs
+more than one recognition
+
+recognition
+time: 1.104598049 secs
+more than one recognition
+
+recognition
+time: 1.069201151 secs
+more than one recognition
+
+recognition
+time: 1.111311812 secs
+more than one recognition
+
+recognition
+time: 1.064741876 secs
+more than one recognition
+
+recognition
+time: 1.057627966 secs
+more than one recognition
+
+recognition
+time: 1.108444133 secs
+more than one recognition
+
+recognition
+time: 1.10503593 secs
+more than one recognition
+
+recognition
+time: 1.087145962 secs
+more than one recognition
+
+recognition
+time: 1.082576195 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.12519219 secs
+more than one recognition
+
+recognition
+time: 1.097958198 secs
+more than one recognition
+
+recognition
+time: 1.12519219 secs
+more than one recognition
+
+recognition
+time: 1.09005805 secs
+more than one recognition
+
+recognition
+time: 1.10503593 secs
+more than one recognition
+
+recognition
+time: 1.09135308 secs
+more than one recognition
+
+recognition
+time: 1.091699978 secs
+more than one recognition
+
+recognition
+time: 1.119393911 secs
+more than one recognition
+
+recognition
+time: 1.078453005 secs
+more than one recognition
+
+recognition
+time: 1.109635099 secs
+more than one recognition
+
+recognition
+time: 1.095740867 secs
+more than one recognition
+
+recognition
+time: 1.114911972 secs
+more than one recognition
+
+recognition
+time: 1.09005805 secs
+more than one recognition
+
+recognition
+time: 1.106213841 secs
+more than one recognition
+
+recognition
+time: 1.115070106 secs
+more than one recognition
+
+recognition
+time: 1.122539887 secs
+more than one recognition
+
+recognition
+time: 1.106213841 secs
+more than one recognition
+
+recognition
+time: 1.118360006 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.096708891 secs
+more than one recognition
+
+recognition
+time: 1.058094007 secs
+more than one recognition
+
+recognition
+time: 1.10023716 secs
+more than one recognition
+
+recognition
+time: 1.110512137 secs
+more than one recognition
+
+recognition
+time: 1.065901136 secs
+more than one recognition
+
+recognition
+time: 1.05491404 secs
+more than one recognition
+
+recognition
+time: 1.099394802 secs
+more than one recognition
+
+recognition
+time: 1.115070106 secs
+more than one recognition
+
+recognition
+time: 1.078431872 secs
+more than one recognition
+
+recognition
+time: 1.068941863 secs
+more than one recognition
+
+recognition
+time: 1.078171088 secs
+more than one recognition
+
+recognition
+time: 1.11223979 secs
+more than one recognition
+
+recognition
+time: 1.068941863 secs
+more than one recognition
+
+recognition
+time: 1.093066005 secs
+more than one recognition
+
+recognition
+time: 1.064741876 secs
+more than one recognition
+
+recognition
+time: 1.105985037 secs
+more than one recognition
+
+recognition
+time: 1.081204855 secs
+more than one recognition
+
+recognition
+time: 1.071213969 secs
+more than one recognition
+
+recognition
+time: 1.074158894 secs
+more than one recognition
+
+recognition
+time: 1.065901136 secs
+more than one recognition
+
+recognition
+time: 1.103073128 secs
+more than one recognition
+
+recognition
+time: 1.091022063 secs
+more than one recognition
+
+recognition
+time: 1.101451881 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.12913586 secs
+more than one recognition
+
+recognition
+time: 1.08749592 secs
+more than one recognition
+
+recognition
+time: 1.092560973 secs
+more than one recognition
+
+recognition
+time: 1.128999874 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.11049897 secs
+more than one recognition
+
+recognition
+time: 1.11049897 secs
+more than one recognition
+
+recognition
+time: 1.103923092 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.107694113 secs
+more than one recognition
+
+recognition
+time: 1.083119965 secs
+more than one recognition
+
+recognition
+time: 1.065789116 secs
+more than one recognition
+
+recognition
+time: 1.128963152 secs
+more than one recognition
+
+recognition
+time: 1.099630011 secs
+more than one recognition
+
+recognition
+time: 1.083119965 secs
+more than one recognition
+
+recognition
+time: 1.104918146 secs
+more than one recognition
+
+recognition
+time: 1.121816035 secs
+more than one recognition
+
+recognition
+time: 1.104680044 secs
+more than one recognition
+
+recognition
+time: 1.084012928 secs
+more than one recognition
+
+recognition
+time: 1.119849035 secs
+more than one recognition
+
+recognition
+time: 1.100079012 secs
+more than one recognition
+
+recognition
+time: 1.104377108 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.093711015 secs
+more than one recognition
+
+recognition
+time: 1.080966999 secs
+more than one recognition
+
+recognition
+time: 1.084514055 secs
+more than one recognition
+
+recognition
+time: 1.107430117 secs
+more than one recognition
+
+recognition
+time: 1.119849035 secs
+more than one recognition
+
+recognition
+time: 1.105260984 secs
+more than one recognition
+
+recognition
+time: 1.129662155 secs
+more than one recognition
+
+recognition
+time: 1.114313974 secs
+more than one recognition
+
+recognition
+time: 1.104377108 secs
+more than one recognition
+
+recognition
+time: 1.099630011 secs
+more than one recognition
+
+recognition
+time: 1.091422957 secs
+more than one recognition
+
+recognition
+time: 1.116741035 secs
+more than one recognition
+
+recognition
+time: 1.08360586 secs
+more than one recognition
+
+recognition
+time: 1.097078074 secs
+more than one recognition
+
+recognition
+time: 1.089150021 secs
+more than one recognition
+
+recognition
+time: 1.082870988 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.070149943 secs
+more than one recognition
+
+recognition
+time: 1.095301914 secs
+more than one recognition
+
+recognition
+time: 1.088532997 secs
+more than one recognition
+
+recognition
+time: 1.077341114 secs
+more than one recognition
+
+recognition
+time: 1.110293055 secs
+more than one recognition
+
+recognition
+time: 1.076032841 secs
+more than one recognition
+
+recognition
+time: 1.116741035 secs
+more than one recognition
+
+recognition
+time: 1.110293055 secs
+more than one recognition
+
+recognition
+time: 1.062510994 secs
+more than one recognition
+
+recognition
+time: 1.076032841 secs
+more than one recognition
+
+recognition
+time: 1.116957149 secs
+more than one recognition
+
+recognition
+time: 1.075731934 secs
+more than one recognition
+
+recognition
+time: 1.068941863 secs
+more than one recognition
+
+recognition
+time: 1.110293055 secs
+more than one recognition
+
+recognition
+time: 1.117020178 secs
+more than one recognition
+
+recognition
+time: 1.053912041 secs
+more than one recognition
+
+recognition
+time: 1.070149943 secs
+more than one recognition
+
+recognition
+time: 1.078309898 secs
+more than one recognition
+
+recognition
+time: 1.09660318 secs
+more than one recognition
+
+recognition
+time: 1.080579071 secs
+more than one recognition
+
+recognition
+time: 1.068941863 secs
+more than one recognition
+
+recognition
+time: 1.098397187 secs
+more than one recognition
+
+recognition
+time: 1.077557122 secs
+more than one recognition
+
+recognition
+time: 1.11174905 secs
+more than one recognition
+
+recognition
+time: 1.062897209 secs
+more than one recognition
+
+recognition
+time: 1.116741035 secs
+more than one recognition
+
+recognition
+time: 1.123153957 secs
+more than one recognition
+
+recognition
+time: 1.070337023 secs
+more than one recognition
+
+recognition
+time: 1.11174905 secs
+more than one recognition
+
+recognition
+time: 1.100079012 secs
+more than one recognition
+
+recognition
+time: 1.11606696 secs
+more than one recognition
+
+recognition
+time: 1.118360006 secs
+more than one recognition
+
+recognition
+time: 1.092597995 secs
+more than one recognition
+
+recognition
+time: 1.101002043 secs
+more than one recognition
+
+recognition
+time: 1.099099167 secs
+more than one recognition
+
+recognition
+time: 1.100073937 secs
+more than one recognition
+
+recognition
+time: 1.097145022 secs
+more than one recognition
+
+recognition
+time: 1.091539089 secs
+more than one recognition
+
+recognition
+time: 1.113702934 secs
+more than one recognition
+
+recognition
+time: 1.072842952 secs
+more than one recognition
+
+recognition
+time: 1.088076817 secs
+more than one recognition
+
+recognition
+time: 1.119849035 secs
+more than one recognition
+
+recognition
+time: 1.128999874 secs
+more than one recognition
+
+recognition
+time: 1.097145022 secs
+more than one recognition
+
+recognition
+time: 1.11606696 secs
+more than one recognition
+
+recognition
+time: 1.124679159 secs
+more than one recognition
+
+recognition
+time: 1.080127117 secs
+more than one recognition
+
+recognition
+time: 1.072842952 secs
+more than one recognition
+
+recognition
+time: 1.064995884 secs
+more than one recognition
+
+recognition
+time: 1.096412104 secs
+more than one recognition
+
+recognition
+time: 1.09775893 secs
+more than one recognition
+
+recognition
+time: 1.069611965 secs
+more than one recognition
+
+recognition
+time: 1.118465864 secs
+more than one recognition
+
+recognition
+time: 1.083633039 secs
+more than one recognition
+
+recognition
+time: 1.139480097 secs
+more than one recognition
+
+recognition
+time: 1.12625384 secs
+more than one recognition
+
+recognition
+time: 1.135531996 secs
+more than one recognition
+
+recognition
+time: 1.0794869 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.104921043 secs
+more than one recognition
+
+recognition
+time: 1.135531996 secs
+more than one recognition
+
+recognition
+time: 1.105910152 secs
+more than one recognition
+
+recognition
+time: 1.079834938 secs
+more than one recognition
+
+recognition
+time: 1.090758852 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.089631001 secs
+more than one recognition
+
+recognition
+time: 1.082557075 secs
+more than one recognition
+
+recognition
+time: 1.107381827 secs
+more than one recognition
+
+recognition
+time: 1.139480097 secs
+more than one recognition
+
+recognition
+time: 1.090758852 secs
+more than one recognition
+
+recognition
+time: 1.071167063 secs
+more than one recognition
+
+recognition
+time: 1.139480097 secs
+more than one recognition
+
+recognition
+time: 1.13912491 secs
+more than one recognition
+
+recognition
+time: 1.127158926 secs
+more than one recognition
+
+recognition
+time: 1.109744898 secs
+more than one recognition
+
+recognition
+time: 1.096541891 secs
+more than one recognition
+
+recognition
+time: 1.088845955 secs
+more than one recognition
+
+recognition
+time: 1.127158926 secs
+more than one recognition
+
+recognition
+time: 1.085575889 secs
+more than one recognition
+
+recognition
+time: 1.078074116 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.109998993 secs
+more than one recognition
+
+recognition
+time: 1.103149898 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.076080786 secs
+more than one recognition
+
+recognition
+time: 1.08442704 secs
+more than one recognition
+
+recognition
+time: 1.085645012 secs
+more than one recognition
+
+recognition
+time: 1.099918232 secs
+more than one recognition
+
+recognition
+time: 1.099386047 secs
+more than one recognition
+
+recognition
+time: 1.128504002 secs
+more than one recognition
+
+recognition
+time: 1.085645012 secs
+more than one recognition
+
+recognition
+time: 1.062510994 secs
+more than one recognition
+
+recognition
+time: 1.076080786 secs
+more than one recognition
+
+recognition
+time: 1.128504002 secs
+more than one recognition
+
+recognition
+time: 1.108468905 secs
+more than one recognition
+
+recognition
+time: 1.07302313 secs
+more than one recognition
+
+recognition
+time: 1.092270138 secs
+more than one recognition
+
+recognition
+time: 1.105755087 secs
+more than one recognition
+
+recognition
+time: 1.083686989 secs
+more than one recognition
+
+recognition
+time: 1.07302313 secs
+more than one recognition
+
+recognition
+time: 1.071167063 secs
+more than one recognition
+
+recognition
+time: 1.080627037 secs
+more than one recognition
+
+recognition
+time: 1.074210955 secs
+more than one recognition
+
+recognition
+time: 1.125508055 secs
+more than one recognition
+
+recognition
+time: 1.074210955 secs
+more than one recognition
+
+recognition
+time: 1.090341091 secs
+more than one recognition
+
+recognition
+time: 1.105755087 secs
+more than one recognition
+
+recognition
+time: 1.08689196 secs
+more than one recognition
+
+recognition
+time: 1.090341091 secs
+more than one recognition
+
+recognition
+time: 1.101271931 secs
+more than one recognition
+
+recognition
+time: 1.109349882 secs
+more than one recognition
+
+recognition
+time: 1.10593998 secs
+more than one recognition
+
+recognition
+time: 1.097403902 secs
+more than one recognition
+
+recognition
+time: 1.11079886 secs
+more than one recognition
+
+recognition
+time: 1.13912491 secs
+more than one recognition
+
+recognition
+time: 1.11938909 secs
+more than one recognition
+
+recognition
+time: 1.079870079 secs
+more than one recognition
+
+recognition
+time: 1.067224163 secs
+more than one recognition
+
+recognition
+time: 1.13501684 secs
+more than one recognition
+
+recognition
+time: 1.10621011 secs
+more than one recognition
+
+recognition
+time: 1.080677975 secs
+more than one recognition
+
+recognition
+time: 1.108532106 secs
+more than one recognition
+
+recognition
+time: 1.108532106 secs
+more than one recognition
+
+recognition
+time: 1.092323093 secs
+more than one recognition
+
+recognition
+time: 1.096640852 secs
+more than one recognition
+
+recognition
+time: 1.091917931 secs
+more than one recognition
+
+recognition
+time: 1.11966505 secs
+more than one recognition
+
+recognition
+time: 1.079870079 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.102528105 secs
+more than one recognition
+
+recognition
+time: 1.082811081 secs
+more than one recognition
+
+recognition
+time: 1.096640852 secs
+more than one recognition
+
+recognition
+time: 1.11966505 secs
+more than one recognition
+
+recognition
+time: 1.107443121 secs
+more than one recognition
+
+recognition
+time: 1.096640852 secs
+more than one recognition
+
+recognition
+time: 1.100323162 secs
+more than one recognition
+
+recognition
+time: 1.109744898 secs
+more than one recognition
+
+recognition
+time: 1.100805853 secs
+more than one recognition
+
+recognition
+time: 1.082811081 secs
+more than one recognition
+
+recognition
+time: 1.113949999 secs
+more than one recognition
+
+recognition
+time: 1.094283892 secs
+more than one recognition
+
+recognition
+time: 1.11923192 secs
+more than one recognition
+
+recognition
+time: 1.082719116 secs
+more than one recognition
+
+recognition
+time: 1.083462044 secs
+more than one recognition
+
+recognition
+time: 1.109744898 secs
+more than one recognition
+
+recognition
+time: 1.164181064 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.112435829 secs
+more than one recognition
+
+recognition
+time: 1.117425871 secs
+more than one recognition
+
+recognition
+time: 1.098855137 secs
+more than one recognition
+
+recognition
+time: 1.104921043 secs
+more than one recognition
+
+recognition
+time: 1.108713974 secs
+more than one recognition
+
+recognition
+time: 1.118981909 secs
+more than one recognition
+
+recognition
+time: 1.11464406 secs
+more than one recognition
+
+recognition
+time: 1.093901967 secs
+more than one recognition
+
+recognition
+time: 1.087838851 secs
+more than one recognition
+
+recognition
+time: 1.11923192 secs
+more than one recognition
+
+recognition
+time: 1.090431974 secs
+more than one recognition
+
+recognition
+time: 1.089503122 secs
+more than one recognition
+
+recognition
+time: 1.153155005 secs
+more than one recognition
+
+recognition
+time: 1.164181064 secs
+more than one recognition
+
+recognition
+time: 1.085702896 secs
+more than one recognition
+
+recognition
+time: 1.085702896 secs
+more than one recognition
+
+recognition
+time: 1.104921043 secs
+more than one recognition
+
+recognition
+time: 1.08917913 secs
+more than one recognition
+
+recognition
+time: 1.129848766 secs
+more than one recognition
+
+recognition
+time: 1.111253046 secs
+more than one recognition
+
+recognition
+time: 1.120348982 secs
+more than one recognition
+
+recognition
+time: 1.096054983 secs
+more than one recognition
+
+recognition
+time: 1.118261831 secs
+more than one recognition
+
+recognition
+time: 1.110641941 secs
+more than one recognition
+
+recognition
+time: 1.081615215 secs
+more than one recognition
+
+recognition
+time: 1.118552017 secs
+more than one recognition
+
+recognition
+time: 1.081615215 secs
+more than one recognition
+
+recognition
+time: 1.110717866 secs
+more than one recognition
+
+recognition
+time: 1.080947842 secs
+more than one recognition
+
+recognition
+time: 1.121162861 secs
+more than one recognition
+
+recognition
+time: 1.116733971 secs
+more than one recognition
+
+recognition
+time: 1.087292069 secs
+more than one recognition
+
+recognition
+time: 1.075846181 secs
+more than one recognition
+
+recognition
+time: 1.10050185 secs
+more than one recognition
+
+recognition
+time: 1.11629298 secs
+more than one recognition
+
+recognition
+time: 1.098065102 secs
+more than one recognition
+
+recognition
+time: 1.110717866 secs
+more than one recognition
+
+recognition
+time: 1.111210112 secs
+more than one recognition
+
+recognition
+time: 1.07811898 secs
+more than one recognition
+
+recognition
+time: 1.089998878 secs
+more than one recognition
+
+recognition
+time: 1.100323162 secs
+more than one recognition
+
+recognition
+time: 1.085530027 secs
+more than one recognition
+
+recognition
+time: 1.11629298 secs
+more than one recognition
+
+recognition
+time: 1.092490093 secs
+more than one recognition
+
+recognition
+time: 1.106629985 secs
+more than one recognition
+
+recognition
+time: 1.08072999 secs
+more than one recognition
+
+recognition
+time: 1.080947842 secs
+more than one recognition
+
+recognition
+time: 1.144194998 secs
+more than one recognition
+
+recognition
+time: 1.144194998 secs
+more than one recognition
+
+recognition
+time: 1.090631209 secs
+more than one recognition
+
+recognition
+time: 1.11923192 secs
+more than one recognition
+
+recognition
+time: 1.124747999 secs
+more than one recognition
+
+recognition
+time: 1.118981909 secs
+more than one recognition
+
+recognition
+time: 1.083973067 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.093901967 secs
+more than one recognition
+
+recognition
+time: 1.088723146 secs
+more than one recognition
+
+recognition
+time: 1.093901967 secs
+more than one recognition
+
+recognition
+time: 1.111088011 secs
+more than one recognition
+
+recognition
+time: 1.096054983 secs
+more than one recognition
+
+recognition
+time: 1.121869972 secs
+more than one recognition
+
+recognition
+time: 1.105973097 secs
+more than one recognition
+
+recognition
+time: 1.097124151 secs
+more than one recognition
+
+recognition
+time: 1.080947842 secs
+more than one recognition
+
+recognition
+time: 1.096905048 secs
+more than one recognition
+
+recognition
+time: 1.06265185 secs
+more than one recognition
+
+recognition
+time: 1.159288868 secs
+more than one recognition
+
+recognition
+time: 1.074482792 secs
+more than one recognition
+
+recognition
+time: 1.154237104 secs
+more than one recognition
+
+recognition
+time: 1.124747999 secs
+more than one recognition
+
+recognition
+time: 1.105973097 secs
+more than one recognition
+
+recognition
+time: 1.11733604 secs
+more than one recognition
+
+recognition
+time: 1.111210112 secs
+more than one recognition
+
+recognition
+time: 1.12013789 secs
+more than one recognition
+
+recognition
+time: 1.096029185 secs
+more than one recognition
+
+recognition
+time: 1.11442007 secs
+more than one recognition
+
+recognition
+time: 1.126037973 secs
+more than one recognition
+
+recognition
+time: 1.11442007 secs
+more than one recognition
+
+recognition
+time: 1.100581955 secs
+more than one recognition
+
+recognition
+time: 1.125089914 secs
+more than one recognition
+
+recognition
+time: 1.13127491 secs
+more than one recognition
+
+recognition
+time: 1.096181003 secs
+more than one recognition
+
+recognition
+time: 1.101157908 secs
+more than one recognition
+
+recognition
+time: 1.067758047 secs
+more than one recognition
+
+recognition
+time: 1.077802969 secs
+more than one recognition
+
+recognition
+time: 1.106442805 secs
+more than one recognition
+
+recognition
+time: 1.100581955 secs
+more than one recognition
+
+recognition
+time: 1.126484047 secs
+more than one recognition
+
+recognition
+time: 1.079960003 secs
+more than one recognition
+
+recognition
+time: 1.092256054 secs
+more than one recognition
+
+recognition
+time: 1.088280083 secs
+more than one recognition
+
+recognition
+time: 1.110813953 secs
+more than one recognition
+
+recognition
+time: 1.12055101 secs
+more than one recognition
+
+recognition
+time: 1.114720959 secs
+more than one recognition
+
+recognition
+time: 1.104643984 secs
+more than one recognition
+
+recognition
+time: 1.071453146 secs
+more than one recognition
+
+recognition
+time: 1.093185991 secs
+more than one recognition
+
+recognition
+time: 1.097124151 secs
+more than one recognition
+
+recognition
+time: 1.080584898 secs
+more than one recognition
+
+recognition
+time: 1.092677036 secs
+more than one recognition
+
+recognition
+time: 1.101913023 secs
+more than one recognition
+
+recognition
+time: 1.084272869 secs
+more than one recognition
+
+recognition
+time: 1.104643984 secs
+more than one recognition
+
+recognition
+time: 1.12055101 secs
+more than one recognition
+
+recognition
+time: 1.090342856 secs
+more than one recognition
+
+recognition
+time: 1.084272869 secs
+more than one recognition
+
+recognition
+time: 1.120587883 secs
+more than one recognition
+
+recognition
+time: 1.138757845 secs
+more than one recognition
+
+recognition
+time: 1.101882923 secs
+more than one recognition
+
+recognition
+time: 1.08422094 secs
+more than one recognition
+
+recognition
+time: 1.080584898 secs
+more than one recognition
+
+recognition
+time: 1.105246983 secs
+more than one recognition
+
+recognition
+time: 1.100780928 secs
+more than one recognition
+
+recognition
+time: 1.088723146 secs
+more than one recognition
+
+recognition
+time: 1.087576075 secs
+more than one recognition
+
+recognition
+time: 1.084796072 secs
+more than one recognition
+
+recognition
+time: 1.136376885 secs
+more than one recognition
+
+recognition
+time: 1.094762201 secs
+more than one recognition
+
+recognition
+time: 1.108815998 secs
+more than one recognition
+
+recognition
+time: 1.108762146 secs
+more than one recognition
+
+recognition
+time: 1.12055101 secs
+more than one recognition
+
+recognition
+time: 1.101882923 secs
+more than one recognition
+
+recognition
+time: 1.077056999 secs
+more than one recognition
+
+recognition
+time: 1.140131954 secs
+more than one recognition
+
+recognition
+time: 1.088723146 secs
+more than one recognition
+
+recognition
+time: 1.093030111 secs
+more than one recognition
+
+recognition
+time: 1.090425087 secs
+more than one recognition
+
+recognition
+time: 1.117974074 secs
+more than one recognition
+
+recognition
+time: 1.110646853 secs
+more than one recognition
+
+recognition
+time: 1.100780928 secs
+more than one recognition
+
+recognition
+time: 1.094762201 secs
+more than one recognition
+
+recognition
+time: 1.099706913 secs
+more than one recognition
+
+recognition
+time: 1.103753946 secs
+more than one recognition
+
+recognition
+time: 1.101882923 secs
+more than one recognition
+
+recognition
+time: 1.088475975 secs
+more than one recognition
+
+recognition
+time: 1.133687961 secs
+more than one recognition
+
+recognition
+time: 1.110646853 secs
+more than one recognition
+
+recognition
+time: 1.104152229 secs
+more than one recognition
+
+recognition
+time: 1.11758309 secs
+more than one recognition
+
+recognition
+time: 1.077056999 secs
+more than one recognition
+
+recognition
+time: 1.097332071 secs
+more than one recognition
+
+recognition
+time: 1.13173184 secs
+more than one recognition
+
+recognition
+time: 1.105764892 secs
+more than one recognition
+
+recognition
+time: 1.094762201 secs
+more than one recognition
+
+recognition
+time: 1.137953959 secs
+more than one recognition
+
+recognition
+time: 1.063134872 secs
+more than one recognition
+
+recognition
+time: 1.071753052 secs
+more than one recognition
+
+recognition
+time: 1.052210943 secs
+more than one recognition
+
+recognition
+time: 1.101882923 secs
+more than one recognition
+
+recognition
+time: 1.099489075 secs
+more than one recognition
+
+recognition
+time: 1.097174039 secs
+more than one recognition
+
+recognition
+time: 1.100474907 secs
+more than one recognition
+
+recognition
+time: 1.105284975 secs
+more than one recognition
+
+recognition
+time: 1.076113119 secs
+more than one recognition
+
+recognition
+time: 1.092751911 secs
+more than one recognition
+
+recognition
+time: 1.11781418 secs
+more than one recognition
+
+recognition
+time: 1.122785837 secs
+more than one recognition
+
+recognition
+time: 1.140131954 secs
+more than one recognition
+
+recognition
+time: 1.094984081 secs
+more than one recognition
+
+recognition
+time: 1.140131954 secs
+more than one recognition
+
+recognition
+time: 1.091613106 secs
+more than one recognition
+
+recognition
+time: 1.094762201 secs
+more than one recognition
+
+recognition
+time: 1.115367071 secs
+more than one recognition
+
+recognition
+time: 1.11781418 secs
+more than one recognition
+
+recognition
+time: 1.098425135 secs
+more than one recognition
+
+recognition
+time: 1.101426977 secs
+more than one recognition
+
+recognition
+time: 1.122785837 secs
+more than one recognition
+
+recognition
+time: 1.093137162 secs
+more than one recognition
+
+recognition
+time: 1.113267034 secs
+more than one recognition
+
+recognition
+time: 1.133615967 secs
+more than one recognition
+
+recognition
+time: 1.071248082 secs
+more than one recognition
+
+recognition
+time: 1.111344 secs
+more than one recognition
+
+recognition
+time: 1.100664906 secs
+more than one recognition
+
+recognition
+time: 1.133211946 secs
+more than one recognition
+
+recognition
+time: 1.096665132 secs
+more than one recognition
+
+recognition
+time: 1.096665132 secs
+more than one recognition
+
+recognition
+time: 1.089286917 secs
+more than one recognition
+
+recognition
+time: 1.115853944 secs
+more than one recognition
+
+recognition
+time: 1.116826881 secs
+more than one recognition
+
+recognition
+time: 1.101701067 secs
+more than one recognition
+
+recognition
+time: 1.078526878 secs
+more than one recognition
+
+recognition
+time: 1.051281918 secs
+more than one recognition
+
+recognition
+time: 1.120974964 secs
+more than one recognition
+
+recognition
+time: 1.103255085 secs
+more than one recognition
+
+recognition
+time: 1.084252974 secs
+more than one recognition
+
+recognition
+time: 1.105274075 secs
+more than one recognition
+
+recognition
+time: 1.12709486 secs
+more than one recognition
+
+recognition
+time: 1.071248082 secs
+more than one recognition
+
+recognition
+time: 1.113550908 secs
+more than one recognition
+
+recognition
+time: 1.097193981 secs
+more than one recognition
+
+recognition
+time: 1.084191088 secs
+more than one recognition
+
+recognition
+time: 1.092545029 secs
+more than one recognition
+
+recognition
+time: 1.096063062 secs
+more than one recognition
+
+recognition
+time: 1.095106991 secs
+more than one recognition
+
+recognition
+time: 1.085251119 secs
+more than one recognition
+
+recognition
+time: 1.107677055 secs
+more than one recognition
+
+recognition
+time: 1.115908064 secs
+more than one recognition
+
+recognition
+time: 1.084191088 secs
+more than one recognition
+
+recognition
+time: 1.054011957 secs
+more than one recognition
+
+recognition
+time: 1.119386005 secs
+more than one recognition
+
+recognition
+time: 1.115908064 secs
+more than one recognition
+
+recognition
+time: 1.093137162 secs
+more than one recognition
+
+recognition
+time: 1.093483892 secs
+more than one recognition
+
+recognition
+time: 1.090571949 secs
+more than one recognition
+
+recognition
+time: 1.054011957 secs
+more than one recognition
+
+recognition
+time: 1.114093983 secs
+more than one recognition
+
+recognition
+time: 1.132400864 secs
+more than one recognition
+
+recognition
+time: 1.084053135 secs
+more than one recognition
+
+recognition
+time: 1.143319052 secs
+more than one recognition
+
+recognition
+time: 1.118522045 secs
+more than one recognition
+
+recognition
+time: 1.08798106 secs
+more than one recognition
+
+recognition
+time: 1.086288956 secs
+more than one recognition
+
+recognition
+time: 1.063134872 secs
+more than one recognition
+
+recognition
+time: 1.106473062 secs
+more than one recognition
+
+recognition
+time: 1.080582042 secs
+more than one recognition
+
+recognition
+time: 1.132394134 secs
+more than one recognition
+
+recognition
+time: 1.115908064 secs
+more than one recognition
+
+recognition
+time: 1.102926157 secs
+more than one recognition
+
+recognition
+time: 1.105763148 secs
+more than one recognition
+
+recognition
+time: 1.09817785 secs
+more than one recognition
+
+recognition
+time: 1.100664906 secs
+more than one recognition
+
+recognition
+time: 1.126723032 secs
+more than one recognition
+
+recognition
+time: 1.095939862 secs
+more than one recognition
+
+recognition
+time: 1.10946413 secs
+more than one recognition
+
+recognition
+time: 1.111344 secs
+more than one recognition
+
+recognition
+time: 1.10946413 secs
+more than one recognition
+
+recognition
+time: 1.111395002 secs
+more than one recognition
+
+recognition
+time: 1.111395002 secs
+more than one recognition
+
+recognition
+time: 1.116419972 secs
+more than one recognition
+
+recognition
+time: 1.10907408 secs
+more than one recognition
+
+recognition
+time: 1.051100084 secs
+more than one recognition
+
+recognition
+time: 1.084191088 secs
+more than one recognition
+
+recognition
+time: 1.117158181 secs
+more than one recognition
+
+recognition
+time: 1.082580096 secs
+more than one recognition
+
+recognition
+time: 1.106228991 secs
+more than one recognition
+
+recognition
+time: 1.084053135 secs
+more than one recognition
+
+recognition
+time: 1.082089954 secs
+more than one recognition
+
+recognition
+time: 1.087357071 secs
+more than one recognition
+
+recognition
+time: 1.098237093 secs
+more than one recognition
+
+recognition
+time: 1.151886967 secs
+more than one recognition
+
+recognition
+time: 1.131046015 secs
+more than one recognition
+
+recognition
+time: 1.092968881 secs
+more than one recognition
+
+recognition
+time: 1.105423869 secs
+more than one recognition
+
+recognition
+time: 1.095556116 secs
+more than one recognition
+
+recognition
+time: 1.131046015 secs
+more than one recognition
+
+recognition
+time: 1.095556116 secs
+more than one recognition
+
+recognition
+time: 1.115693926 secs
+more than one recognition
+
+recognition
+time: 1.092444099 secs
+more than one recognition
+
+recognition
+time: 1.101965891 secs
+more than one recognition
+
+recognition
+time: 1.095556116 secs
+more than one recognition
+
+recognition
+time: 1.096280144 secs
+more than one recognition
+
+recognition
+time: 1.109549139 secs
+more than one recognition
+
+recognition
+time: 1.123338097 secs
+more than one recognition
+
+recognition
+time: 1.138175085 secs
+more than one recognition
+
+recognition
+time: 1.09817785 secs
+more than one recognition
+
+recognition
+time: 1.123338097 secs
+more than one recognition
+
+recognition
+time: 1.092968881 secs
+more than one recognition
+
+recognition
+time: 1.139480093 secs
+more than one recognition
+
+recognition
+time: 1.113618834 secs
+more than one recognition
+
+recognition
+time: 1.117122894 secs
+more than one recognition
+
+recognition
+time: 1.101683014 secs
+more than one recognition
+
+recognition
+time: 1.138190098 secs
+more than one recognition
+
+recognition
+time: 1.10313789 secs
+more than one recognition
+
+recognition
+time: 1.073643991 secs
+more than one recognition
+
+recognition
+time: 1.108605976 secs
+more than one recognition
+
+recognition
+time: 1.108430889 secs
+more than one recognition
+
+recognition
+time: 1.101965891 secs
+more than one recognition
+
+recognition
+time: 1.08793491 secs
+more than one recognition
+
+recognition
+time: 1.081800078 secs
+more than one recognition
+
+recognition
+time: 1.109549139 secs
+more than one recognition
+
+recognition
+time: 1.092288966 secs
+more than one recognition
+
+recognition
+time: 1.102503979 secs
+more than one recognition
+
+recognition
+time: 1.095915152 secs
+more than one recognition
+
+recognition
+time: 1.107779116 secs
+more than one recognition
+
+recognition
+time: 1.075614935 secs
+more than one recognition
+
+recognition
+time: 1.105387998 secs
+more than one recognition
+
+recognition
+time: 1.108605976 secs
+more than one recognition
+
+recognition
+time: 1.10313789 secs
+more than one recognition
+
+recognition
+time: 1.131046015 secs
+more than one recognition
+
+recognition
+time: 1.097854952 secs
+more than one recognition
+
+recognition
+time: 1.121176098 secs
+more than one recognition
+
+recognition
+time: 1.104472014 secs
+more than one recognition
+
+recognition
+time: 1.120218866 secs
+more than one recognition
+
+recognition
+time: 1.097854952 secs
+more than one recognition
+
+recognition
+time: 1.108605976 secs
+more than one recognition
+
+recognition
+time: 1.114337059 secs
+more than one recognition
+
+recognition
+time: 1.115671967 secs
+more than one recognition
+
+recognition
+time: 1.114337059 secs
+more than one recognition
+
+recognition
+time: 1.137296902 secs
+more than one recognition
+
+recognition
+time: 1.122907929 secs
+more than one recognition
+
+recognition
+time: 1.079566874 secs
+more than one recognition
+
+recognition
+time: 1.103491005 secs
+more than one recognition
+
+recognition
+time: 1.104472014 secs
+more than one recognition
+
+recognition
+time: 1.122907929 secs
+more than one recognition
+
+recognition
+time: 1.090790037 secs
+more than one recognition
+
+recognition
+time: 1.12446298 secs
+more than one recognition
+
+recognition
+time: 1.115671967 secs
+more than one recognition
+
+recognition
+time: 1.117550007 secs
+more than one recognition
+
+recognition
+time: 1.096801027 secs
+more than one recognition
+
+recognition
+time: 1.061795003 secs
+more than one recognition
+
+recognition
+time: 1.117212994 secs
+more than one recognition
+
+recognition
+time: 1.11284803 secs
+more than one recognition
+
+recognition
+time: 1.116322893 secs
+more than one recognition
+
+recognition
+time: 1.103573092 secs
+more than one recognition
+
+recognition
+time: 1.135879116 secs
+more than one recognition
+
+recognition
+time: 1.108605976 secs
+more than one recognition
+
+recognition
+time: 1.097653829 secs
+more than one recognition
+
+recognition
+time: 1.104816879 secs
+more than one recognition
+
+recognition
+time: 1.097291046 secs
+more than one recognition
+
+recognition
+time: 1.102537898 secs
+more than one recognition
+
+recognition
+time: 1.111113003 secs
+more than one recognition
+
+recognition
+time: 1.115988955 secs
+more than one recognition
+
+recognition
+time: 1.101965891 secs
+more than one recognition
+
+recognition
+time: 1.103853128 secs
+more than one recognition
+
+recognition
+time: 1.108147066 secs
+more than one recognition
+
+recognition
+time: 1.117550007 secs
+more than one recognition
+
+recognition
+time: 1.102552917 secs
+more than one recognition
+
+recognition
+time: 1.131019947 secs
+more than one recognition
+
+recognition
+time: 1.13728504 secs
+more than one recognition
+
+recognition
+time: 1.090790037 secs
+more than one recognition
+
+recognition
+time: 1.147885006 secs
+more than one recognition
+
+recognition
+time: 1.131825966 secs
+more than one recognition
+
+recognition
+time: 1.090584069 secs
+more than one recognition
+
+recognition
+time: 1.100664906 secs
+more than one recognition
+
+recognition
+time: 1.118600849 secs
+more than one recognition
+
+recognition
+time: 1.093712143 secs
+more than one recognition
+
+recognition
+time: 1.102537898 secs
+more than one recognition
+
+recognition
+time: 1.117212994 secs
+more than one recognition
+
+recognition
+time: 1.10203897 secs
+more than one recognition
+
+recognition
+time: 1.112516043 secs
+more than one recognition
+
+recognition
+time: 1.139941115 secs
+more than one recognition
+
+recognition
+time: 1.124828972 secs
+more than one recognition
+
+recognition
+time: 1.098036119 secs
+more than one recognition
+
+recognition
+time: 1.108147066 secs
+more than one recognition
+
+recognition
+time: 1.123217068 secs
+more than one recognition
+
+recognition
+time: 1.125900038 secs
+more than one recognition
+
+recognition
+time: 1.135118055 secs
+more than one recognition
+
+recognition
+time: 1.087564174 secs
+more than one recognition
+
+recognition
+time: 1.102953957 secs
+more than one recognition
+
+recognition
+time: 1.127056041 secs
+more than one recognition
+
+recognition
+time: 1.092738096 secs
+more than one recognition
+
+recognition
+time: 1.073823978 secs
+more than one recognition
+
+recognition
+time: 1.104816879 secs
+more than one recognition
+
+recognition
+time: 1.101299898 secs
+more than one recognition
+
+recognition
+time: 1.102824886 secs
+more than one recognition
+
+recognition
+time: 1.091464182 secs
+more than one recognition
+
+recognition
+time: 1.111888981 secs
+more than one recognition
+
+recognition
+time: 1.093712143 secs
+more than one recognition
+
+recognition
+time: 1.080496968 secs
+more than one recognition
+
+recognition
+time: 1.10116589 secs
+more than one recognition
+
+recognition
+time: 1.073757025 secs
+more than one recognition
+
+recognition
+time: 1.116824179 secs
+more than one recognition
+
+recognition
+time: 1.116322893 secs
+more than one recognition
+
+recognition
+time: 1.147177006 secs
+more than one recognition
+
+recognition
+time: 1.124932977 secs
+more than one recognition
+
+recognition
+time: 1.11373289 secs
+more than one recognition
+
+recognition
+time: 1.134545941 secs
+more than one recognition
+
+recognition
+time: 1.100664906 secs
+more than one recognition
+
+recognition
+time: 1.101371985 secs
+more than one recognition
+
+recognition
+time: 1.103491005 secs
+more than one recognition
