@@ -1,0 +1,10 @@
+processes:
+  - esiaf_pocketsphinx
+  - wav_player
+  - orchestrator
+  - audio_segmenter
+  - emotion
+  - gender
+ignore:
+  - tee
+save_dir: saved_cpu/
