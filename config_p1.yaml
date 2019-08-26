@@ -1,0 +1,5 @@
+processes:
+  - pocketsphinx_adapter
+ignore:
+  - tee
+save_dir: saved_cpu/
