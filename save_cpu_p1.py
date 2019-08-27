@@ -3,6 +3,7 @@ import sys
 import yaml
 import rospy
 from std_msgs.msg import String
+import time
 
 
 def any_process_in(processes, y):
@@ -49,6 +50,7 @@ files = [open(config['save_dir'] + x.name() + '.txt', 'w') for _, x in processes
 
 
 def kill_p(bla):
+    time.sleep(5)
     for process_no in range(len(processes)):
         old_cpu_times, process = processes[process_no]
         act_cpu_time = aquire_actual_cpu_times(process) - old_cpu_times

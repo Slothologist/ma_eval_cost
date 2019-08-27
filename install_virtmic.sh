@@ -14,6 +14,3 @@ pactl set-default-source virtmic
 # Create a file that will set the default source device to virtmic for all PulseAudio client applications.
 echo "default-source = virtmic" > /home/rfeldhans/.config/pulse/client.conf
 
-# Write the audio file to the named pipe virtmic. This will block until the named pipe is read.
-echo "Writing audio file to virtual microphone."
-ffmpeg -re -i /home/rfeldhans/Music/all_in_one.wav -f s16le -ar 16000 -ac 1 -  > /home/rfeldhans/audioFiles/virtmic
