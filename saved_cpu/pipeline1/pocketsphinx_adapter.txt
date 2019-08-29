@@ -1,2 +1,2 @@
 Runtime on CPU
-225.62
+247.44
