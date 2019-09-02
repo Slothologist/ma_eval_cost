@@ -53,6 +53,8 @@ def player_sub_fn(message):
         logfile.write('time: ' + str(time) + '\n')
         if len(orc_msgs) > 1:
             logfile.write('more than one recognition\n')
+            if len([entry for (entry, time_took) in orc_msgs if entry]) > 1:
+                logfile.write('additional, wrong recognition\n')
 
 
 def orc_sub_fn(message):

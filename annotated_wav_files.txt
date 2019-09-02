@@ -1,0 +1,6892 @@
+seconds: 1.07975
+filename: 06
+
+
+seconds: 8.348625
+filename: 22
+
+
+seconds: 12.7498125
+filename: 17
+
+
+seconds: 16.9071875
+filename: 12
+
+
+seconds: 27.9376875
+filename: 14
+
+
+seconds: 32.6175
+filename: 10
+
+
+seconds: 36.612375
+filename: 01
+
+
+seconds: 43.5213125
+filename: 23
+
+
+seconds: 48.4565625
+filename: 19
+
+
+seconds: 53.136375
+filename: 10
+
+
+seconds: 57.18925
+filename: 23
+
+
+seconds: 60.893875
+filename: 22
+
+
+seconds: 64.981625
+filename: 06
+
+
+seconds: 70.00975
+filename: 07
+
+
+seconds: 78.706625
+filename: 23
+
+
+seconds: 83.4909375
+filename: 18
+
+
+seconds: 87.2565
+filename: 01
+
+
+seconds: 94.5601875
+filename: 03
+
+
+seconds: 98.1835
+filename: 24
+
+
+seconds: 105.5104375
+filename: 11
+
+
+seconds: 109.4820625
+filename: 23
+
+
+seconds: 118.15575
+filename: 12
+
+
+seconds: 129.197875
+filename: 10
+
+
+seconds: 133.738375
+filename: 10
+
+
+seconds: 138.1628125
+filename: 11
+
+
+seconds: 141.809375
+filename: 21
+
+
+seconds: 151.0403125
+filename: 14
+
+
+seconds: 158.227875
+filename: 15
+
+
+seconds: 169.3976875
+filename: 02
+
+
+seconds: 173.798875
+filename: 10
+
+
+seconds: 178.3858125
+filename: 18
+
+
+seconds: 182.9263125
+filename: 15
+
+
+seconds: 187.45525
+filename: 02
+
+
+seconds: 191.89125
+filename: 08
+
+
+seconds: 206.2538125
+filename: 05
+
+
+seconds: 210.6318125
+filename: 10
+
+
+seconds: 219.17775
+filename: 18
+
+
+seconds: 223.0565
+filename: 06
+
+
+seconds: 232.241
+filename: 04
+
+
+seconds: 236.0965
+filename: 20
+
+
+seconds: 240.277125
+filename: 08
+
+
+seconds: 250.5994375
+filename: 17
+
+
+seconds: 254.286625
+filename: 24
+
+
+seconds: 262.403
+filename: 13
+
+
+seconds: 266.955125
+filename: 01
+
+
+seconds: 276.4763125
+filename: 10
+
+
+seconds: 281.3419375
+filename: 16
+
+
+seconds: 289.6440625
+filename: 14
+
+
+seconds: 294.161375
+filename: 09
+
+
+seconds: 297.8369375
+filename: 06
+
+
+seconds: 302.371625
+filename: 10
+
+
+seconds: 311.4168125
+filename: 16
+
+
+seconds: 315.1098125
+filename: 20
+
+
+seconds: 322.2509375
+filename: 21
+
+
+seconds: 326.1180625
+filename: 23
+
+
+seconds: 329.991
+filename: 23
+
+
+seconds: 334.5895625
+filename: 07
+
+
+seconds: 338.14325
+filename: 24
+
+
+seconds: 342.5444375
+filename: 17
+
+
+seconds: 352.4255625
+filename: 07
+
+
+seconds: 357.0821875
+filename: 05
+
+
+seconds: 363.805375
+filename: 11
+
+
+seconds: 368.54325
+filename: 16
+
+
+seconds: 373.1650625
+filename: 18
+
+
+seconds: 379.7605625
+filename: 20
+
+
+seconds: 384.6261875
+filename: 02
+
+
+seconds: 388.8068125
+filename: 09
+
+
+seconds: 393.4634375
+filename: 16
+
+
+seconds: 402.5783125
+filename: 09
+
+
+seconds: 406.8634375
+filename: 05
+
+
+seconds: 411.1136875
+filename: 12
+
+
+seconds: 415.1898125
+filename: 11
+
+
+seconds: 419.6374375
+filename: 01
+
+
+seconds: 424.236
+filename: 13
+
+
+seconds: 427.8593125
+filename: 24
+
+
+seconds: 432.0050625
+filename: 11
+
+
+seconds: 436.0056875
+filename: 03
+
+
+seconds: 444.6909375
+filename: 18
+
+
+seconds: 454.1425
+filename: 05
+
+
+seconds: 458.323125
+filename: 08
+
+
+seconds: 462.5269375
+filename: 19
+
+
+seconds: 466.7888125
+filename: 23
+
+
+seconds: 471.6544375
+filename: 10
+
+
+seconds: 483.6253125
+filename: 14
+
+
+seconds: 491.706875
+filename: 20
+
+
+seconds: 496.4795625
+filename: 04
+
+
+seconds: 504.3289375
+filename: 08
+
+
+seconds: 509.101625
+filename: 02
+
+
+seconds: 517.4734375
+filename: 24
+
+
+seconds: 521.665625
+filename: 19
+
+
+seconds: 525.730125
+filename: 17
+
+
+seconds: 530.4099375
+filename: 03
+
+
+seconds: 534.637
+filename: 09
+
+
+seconds: 542.0451875
+filename: 18
+
+
+seconds: 550.614375
+filename: 19
+
+
+seconds: 555.445125
+filename: 16
+
+
+seconds: 559.62575
+filename: 19
+
+
+seconds: 564.2475625
+filename: 10
+
+
+seconds: 568.741625
+filename: 08
+
+
+seconds: 573.3634375
+filename: 10
+
+
+seconds: 577.5208125
+filename: 06
+
+
+seconds: 582.0613125
+filename: 10
+
+
+seconds: 586.4044375
+filename: 11
+
+
+seconds: 590.3644375
+filename: 06
+
+
+seconds: 594.9281875
+filename: 09
+
+
+seconds: 605.7613125
+filename: 17
+
+
+seconds: 615.30575
+filename: 19
+
+
+seconds: 619.4283125
+filename: 01
+
+
+seconds: 624.2475
+filename: 04
+
+
+seconds: 634.209875
+filename: 19
+
+
+seconds: 638.4253125
+filename: 22
+
+
+seconds: 650.489125
+filename: 07
+
+
+seconds: 655.0993125
+filename: 17
+
+
+seconds: 664.2838125
+filename: 07
+
+
+seconds: 668.383125
+filename: 17
+
+
+seconds: 677.95075
+filename: 02
+
+
+seconds: 685.1615625
+filename: 20
+
+
+seconds: 689.4466875
+filename: 04
+
+
+seconds: 693.4299375
+filename: 03
+
+
+seconds: 697.94725
+filename: 09
+
+
+seconds: 702.1859375
+filename: 17
+
+
+seconds: 712.601125
+filename: 08
+
+
+seconds: 716.654
+filename: 21
+
+
+seconds: 727.8238125
+filename: 02
+
+
+seconds: 741.002125
+filename: 07
+
+
+seconds: 750.476875
+filename: 08
+
+
+seconds: 754.84325
+filename: 09
+
+
+seconds: 759.708875
+filename: 14
+
+
+seconds: 764.6093125
+filename: 18
+
+
+seconds: 769.103375
+filename: 13
+
+
+seconds: 773.73675
+filename: 10
+
+
+seconds: 778.184375
+filename: 14
+
+
+seconds: 782.457875
+filename: 08
+
+
+seconds: 787.1145
+filename: 14
+
+
+seconds: 797.367125
+filename: 01
+
+
+seconds: 801.4664375
+filename: 19
+
+
+seconds: 805.6238125
+filename: 02
+
+
+seconds: 817.4089375
+filename: 19
+
+
+seconds: 826.4425
+filename: 19
+
+
+seconds: 830.1006875
+filename: 20
+
+
+seconds: 834.8269375
+filename: 03
+
+
+seconds: 839.2978125
+filename: 09
+
+
+seconds: 843.339125
+filename: 01
+
+
+seconds: 850.387375
+filename: 24
+
+
+seconds: 854.17325
+filename: 22
+
+
+seconds: 858.3770625
+filename: 17
+
+
+seconds: 863.2426875
+filename: 08
+
+
+seconds: 867.05175
+filename: 22
+
+
+seconds: 876.456875
+filename: 22
+
+
+seconds: 881.101875
+filename: 15
+
+
+seconds: 885.654
+filename: 13
+
+
+seconds: 890.58925
+filename: 18
+
+
+seconds: 894.7814375
+filename: 12
+
+
+seconds: 898.5673125
+filename: 20
+
+
+seconds: 907.2525625
+filename: 24
+
+
+seconds: 911.746625
+filename: 06
+
+
+seconds: 916.29875
+filename: 10
+
+
+seconds: 921.721625
+filename: 15
+
+
+seconds: 928.9324375
+filename: 20
+
+
+seconds: 932.567375
+filename: 24
+
+
+seconds: 937.015
+filename: 08
+
+
+seconds: 941.7180625
+filename: 08
+
+
+seconds: 950.1130625
+filename: 03
+
+
+seconds: 954.3865625
+filename: 19
+
+
+seconds: 958.0795625
+filename: 22
+
+
+seconds: 962.8058125
+filename: 12
+
+
+seconds: 967.39275
+filename: 13
+
+
+seconds: 971.7939375
+filename: 10
+
+
+seconds: 976.4505625
+filename: 10
+
+
+seconds: 982.709375
+filename: 21
+
+
+seconds: 992.3118125
+filename: 16
+
+
+seconds: 1003.5513125
+filename: 12
+
+
+seconds: 1007.55775
+filename: 06
+
+
+seconds: 1011.4829375
+filename: 23
+
+
+seconds: 1016.0815
+filename: 07
+
+
+seconds: 1020.6684375
+filename: 15
+
+
+seconds: 1024.6806875
+filename: 17
+
+
+seconds: 1028.948375
+filename: 04
+
+
+seconds: 1033.99975
+filename: 05
+
+
+seconds: 1037.85525
+filename: 03
+
+
+seconds: 1042.4421875
+filename: 14
+
+
+seconds: 1050.8371875
+filename: 03
+
+
+seconds: 1055.029375
+filename: 17
+
+
+seconds: 1059.4538125
+filename: 08
+
+
+seconds: 1063.77375
+filename: 04
+
+
+seconds: 1070.8684375
+filename: 21
+
+
+seconds: 1074.441
+filename: 24
+
+
+seconds: 1078.5635625
+filename: 01
+
+
+seconds: 1082.686125
+filename: 08
+
+
+seconds: 1086.8783125
+filename: 19
+
+
+seconds: 1091.0125
+filename: 11
+
+
+seconds: 1095.2046875
+filename: 17
+
+
+seconds: 1102.9611875
+filename: 17
+
+
+seconds: 1107.942875
+filename: 13
+
+
+seconds: 1112.6459375
+filename: 05
+
+
+seconds: 1116.6059375
+filename: 20
+
+
+seconds: 1121.3321875
+filename: 05
+
+
+seconds: 1125.1876875
+filename: 22
+
+
+seconds: 1129.20575
+filename: 17
+
+
+seconds: 1138.668875
+filename: 14
+
+
+seconds: 1143.72025
+filename: 14
+
+
+seconds: 1147.877625
+filename: 11
+
+
+seconds: 1153.3005
+filename: 15
+
+
+seconds: 1157.8178125
+filename: 14
+
+
+seconds: 1162.5556875
+filename: 18
+
+
+seconds: 1167.0961875
+filename: 13
+
+
+seconds: 1174.6785
+filename: 11
+
+
+seconds: 1178.7198125
+filename: 12
+
+
+seconds: 1182.447625
+filename: 24
+
+
+seconds: 1195.3473125
+filename: 09
+
+
+seconds: 1206.3778125
+filename: 14
+
+
+seconds: 1210.6629375
+filename: 03
+
+
+seconds: 1214.86675
+filename: 01
+
+
+seconds: 1219.2215
+filename: 24
+
+
+seconds: 1223.088625
+filename: 24
+
+
+seconds: 1227.257625
+filename: 08
+
+
+seconds: 1231.4846875
+filename: 12
+
+
+seconds: 1236.0368125
+filename: 07
+
+
+seconds: 1244.6291875
+filename: 05
+
+
+seconds: 1253.1286875
+filename: 23
+
+
+seconds: 1257.1815625
+filename: 03
+
+
+seconds: 1265.2979375
+filename: 22
+
+
+seconds: 1269.2928125
+filename: 01
+
+
+seconds: 1274.3325625
+filename: 15
+
+
+seconds: 1280.4985
+filename: 21
+
+
+seconds: 1290.76275
+filename: 05
+
+
+seconds: 1295.419375
+filename: 05
+
+
+seconds: 1299.7045
+filename: 17
+
+
+seconds: 1304.6861875
+filename: 16
+
+
+seconds: 1308.344375
+filename: 24
+
+
+seconds: 1312.71075
+filename: 02
+
+
+seconds: 1321.6514375
+filename: 15
+
+
+seconds: 1330.23225
+filename: 18
+
+
+seconds: 1340.57775
+filename: 06
+
+
+seconds: 1345.3853125
+filename: 13
+
+
+seconds: 1349.7284375
+filename: 19
+
+
+seconds: 1353.676875
+filename: 23
+
+
+seconds: 1357.8806875
+filename: 02
+
+
+seconds: 1365.0915
+filename: 03
+
+
+seconds: 1369.7016875
+filename: 14
+
+
+seconds: 1373.359875
+filename: 21
+
+
+seconds: 1377.41275
+filename: 23
+
+
+seconds: 1382.3944375
+filename: 10
+
+
+seconds: 1386.6853125
+filename: 06
+
+
+seconds: 1390.8195
+filename: 06
+
+
+seconds: 1395.27875
+filename: 13
+
+
+seconds: 1400.2836875
+filename: 04
+
+
+seconds: 1414.64625
+filename: 05
+
+
+seconds: 1424.0165
+filename: 18
+
+
+seconds: 1427.7095
+filename: 20
+
+
+seconds: 1436.39475
+filename: 18
+
+
+seconds: 1440.7263125
+filename: 05
+
+
+seconds: 1447.6816875
+filename: 06
+
+
+seconds: 1452.38475
+filename: 04
+
+
+seconds: 1457.018125
+filename: 13
+
+
+seconds: 1461.558625
+filename: 05
+
+
+seconds: 1468.734625
+filename: 06
+
+
+seconds: 1481.6343125
+filename: 09
+
+
+seconds: 1485.6988125
+filename: 17
+
+
+seconds: 1489.91425
+filename: 08
+
+
+seconds: 1494.06
+filename: 17
+
+
+seconds: 1498.426375
+filename: 02
+
+
+seconds: 1502.7463125
+filename: 16
+
+
+seconds: 1507.426125
+filename: 01
+
+
+seconds: 1512.2220625
+filename: 18
+
+
+seconds: 1516.5768125
+filename: 05
+
+
+seconds: 1522.069375
+filename: 07
+
+
+seconds: 1532.589
+filename: 22
+
+
+seconds: 1536.8160625
+filename: 19
+
+
+seconds: 1541.0663125
+filename: 09
+
+
+seconds: 1544.6780625
+filename: 22
+
+
+seconds: 1549.357875
+filename: 09
+
+
+seconds: 1553.99125
+filename: 09
+
+
+seconds: 1558.05575
+filename: 23
+
+
+seconds: 1562.6543125
+filename: 07
+
+
+seconds: 1567.24125
+filename: 12
+
+
+seconds: 1570.841375
+filename: 22
+
+
+seconds: 1576.94925
+filename: 11
+
+
+seconds: 1583.12675
+filename: 15
+
+
+seconds: 1593.7044375
+filename: 02
+
+
+seconds: 1600.4856875
+filename: 06
+
+
+seconds: 1610.6221875
+filename: 12
+
+
+seconds: 1615.1395
+filename: 11
+
+
+seconds: 1619.7613125
+filename: 18
+
+
+seconds: 1623.94775
+filename: 19
+
+
+seconds: 1630.7638125
+filename: 20
+
+
+seconds: 1635.095375
+filename: 16
+
+
+seconds: 1638.892875
+filename: 21
+
+
+seconds: 1648.4605
+filename: 04
+
+
+seconds: 1657.169
+filename: 16
+
+
+seconds: 1661.6863125
+filename: 11
+
+
+seconds: 1666.366125
+filename: 03
+
+
+seconds: 1674.02975
+filename: 21
+
+
+seconds: 1682.715
+filename: 24
+
+
+seconds: 1687.1161875
+filename: 02
+
+
+seconds: 1691.726375
+filename: 19
+
+
+seconds: 1696.5106875
+filename: 16
+
+
+seconds: 1706.449875
+filename: 02
+
+
+seconds: 1714.1599375
+filename: 01
+
+
+seconds: 1719.2809375
+filename: 07
+
+
+seconds: 1725.8648125
+filename: 17
+
+
+seconds: 1734.2598125
+filename: 06
+
+
+seconds: 1738.5333125
+filename: 19
+
+
+seconds: 1747.0444375
+filename: 19
+
+
+seconds: 1751.259875
+filename: 11
+
+
+seconds: 1755.405625
+filename: 01
+
+
+seconds: 1765.565375
+filename: 06
+
+
+seconds: 1770.1639375
+filename: 18
+
+
+seconds: 1774.750875
+filename: 19
+
+
+seconds: 1785.676875
+filename: 18
+
+
+seconds: 1795.7785625
+filename: 10
+
+
+seconds: 1802.0605625
+filename: 03
+
+
+seconds: 1814.867375
+filename: 04
+
+
+seconds: 1818.955125
+filename: 03
+
+
+seconds: 1826.3285
+filename: 17
+
+
+seconds: 1830.7065
+filename: 04
+
+
+seconds: 1835.177375
+filename: 01
+
+
+seconds: 1839.06775
+filename: 24
+
+
+seconds: 1847.5324375
+filename: 13
+
+
+seconds: 1851.7014375
+filename: 23
+
+
+seconds: 1856.520625
+filename: 16
+
+
+seconds: 1861.2585
+filename: 13
+
+
+seconds: 1866.309875
+filename: 14
+
+
+seconds: 1875.1925
+filename: 05
+
+
+seconds: 1883.146375
+filename: 22
+
+
+seconds: 1887.4546875
+filename: 01
+
+
+seconds: 1892.1113125
+filename: 10
+
+
+seconds: 1900.274125
+filename: 08
+
+
+seconds: 1905.3719375
+filename: 07
+
+
+seconds: 1910.3304375
+filename: 14
+
+
+seconds: 1918.9576875
+filename: 20
+
+
+seconds: 1923.7071875
+filename: 04
+
+
+seconds: 1927.7600625
+filename: 03
+
+
+seconds: 1932.6140625
+filename: 18
+
+
+seconds: 1936.7714375
+filename: 17
+
+
+seconds: 1940.4644375
+filename: 20
+
+
+seconds: 1945.7711875
+filename: 16
+
+
+seconds: 1950.393
+filename: 07
+
+
+seconds: 1960.0186875
+filename: 24
+
+
+seconds: 1963.653625
+filename: 22
+
+
+seconds: 1967.3118125
+filename: 22
+
+
+seconds: 1971.31825
+filename: 20
+
+
+seconds: 1977.983375
+filename: 21
+
+
+seconds: 1985.51925
+filename: 22
+
+
+seconds: 1990.7099375
+filename: 16
+
+
+seconds: 1997.433125
+filename: 11
+
+
+seconds: 2008.1965625
+filename: 04
+
+
+seconds: 2012.110125
+filename: 01
+
+
+seconds: 2016.45325
+filename: 12
+
+
+seconds: 2020.343625
+filename: 20
+
+
+seconds: 2024.8145
+filename: 09
+
+
+seconds: 2034.382125
+filename: 02
+
+
+seconds: 2038.6788125
+filename: 12
+
+
+seconds: 2047.8633125
+filename: 03
+
+
+seconds: 2052.6825
+filename: 16
+
+
+seconds: 2057.4551875
+filename: 15
+
+
+seconds: 2061.7054375
+filename: 12
+
+
+seconds: 2067.871375
+filename: 21
+
+
+seconds: 2072.737
+filename: 07
+
+
+seconds: 2077.1265625
+filename: 17
+
+
+seconds: 2080.8311875
+filename: 24
+
+
+seconds: 2085.05825
+filename: 04
+
+
+seconds: 2089.633625
+filename: 18
+
+
+seconds: 2093.593625
+filename: 20
+
+
+seconds: 2098.4824375
+filename: 15
+
+
+seconds: 2104.915375
+filename: 09
+
+
+seconds: 2109.1308125
+filename: 03
+
+
+seconds: 2112.7425625
+filename: 21
+
+
+seconds: 2116.284625
+filename: 24
+
+
+seconds: 2125.4459375
+filename: 06
+
+
+seconds: 2130.137375
+filename: 16
+
+
+seconds: 2137.2553125
+filename: 09
+
+
+seconds: 2141.7435625
+filename: 15
+
+
+seconds: 2150.1501875
+filename: 13
+
+
+seconds: 2154.7139375
+filename: 12
+
+
+seconds: 2159.0919375
+filename: 04
+
+
+seconds: 2163.8181875
+filename: 07
+
+
+seconds: 2171.5630625
+filename: 20
+
+
+seconds: 2175.6159375
+filename: 08
+
+
+seconds: 2186.1704375
+filename: 16
+
+
+seconds: 2190.3394375
+filename: 01
+
+
+seconds: 2194.7174375
+filename: 04
+
+
+seconds: 2201.8701875
+filename: 11
+
+
+seconds: 2210.9850625
+filename: 09
+
+
+seconds: 2215.28175
+filename: 19
+
+
+seconds: 2219.6829375
+filename: 12
+
+
+seconds: 2224.2234375
+filename: 05
+
+
+seconds: 2228.84525
+filename: 10
+
+
+seconds: 2233.4031875
+filename: 18
+
+
+seconds: 2237.2296875
+filename: 01
+
+
+seconds: 2243.6045625
+filename: 23
+
+
+seconds: 2247.135
+filename: 21
+
+
+seconds: 2251.513
+filename: 11
+
+
+seconds: 2255.194375
+filename: 21
+
+
+seconds: 2264.2163125
+filename: 12
+
+
+seconds: 2269.128375
+filename: 13
+
+
+seconds: 2275.7354375
+filename: 07
+
+
+seconds: 2280.25275
+filename: 13
+
+
+seconds: 2291.062625
+filename: 14
+
+
+seconds: 2295.521875
+filename: 04
+
+
+seconds: 2299.8301875
+filename: 12
+
+
+seconds: 2304.53325
+filename: 13
+
+
+seconds: 2309.189875
+filename: 10
+
+
+seconds: 2313.4169375
+filename: 06
+
+
+seconds: 2318.793375
+filename: 15
+
+
+seconds: 2323.4964375
+filename: 08
+
+
+seconds: 2328.054375
+filename: 18
+
+
+seconds: 2332.4439375
+filename: 02
+
+
+seconds: 2336.9031875
+filename: 05
+
+
+seconds: 2341.3508125
+filename: 05
+
+
+seconds: 2351.7195625
+filename: 16
+
+
+seconds: 2356.4690625
+filename: 07
+
+
+seconds: 2361.8455
+filename: 15
+
+
+seconds: 2370.2405
+filename: 13
+
+
+seconds: 2374.606875
+filename: 02
+
+
+seconds: 2378.4275625
+filename: 22
+
+
+seconds: 2386.033125
+filename: 21
+
+
+seconds: 2390.4226875
+filename: 13
+
+
+seconds: 2400.536
+filename: 17
+
+
+seconds: 2408.838125
+filename: 11
+
+
+seconds: 2413.5179375
+filename: 04
+
+
+seconds: 2418.232625
+filename: 18
+
+
+seconds: 2422.51775
+filename: 17
+
+
+seconds: 2426.199125
+filename: 22
+
+
+seconds: 2435.2095
+filename: 07
+
+
+seconds: 2442.1184375
+filename: 23
+
+
+seconds: 2447.611
+filename: 07
+
+
+seconds: 2451.7451875
+filename: 08
+
+
+seconds: 2455.774875
+filename: 01
+
+
+seconds: 2460.5824375
+filename: 14
+
+
+seconds: 2465.0533125
+filename: 01
+
+
+seconds: 2469.5938125
+filename: 15
+
+
+seconds: 2479.6955
+filename: 16
+
+
+seconds: 2483.376875
+filename: 20
+
+
+seconds: 2487.8709375
+filename: 12
+
+
+seconds: 2492.481125
+filename: 19
+
+
+seconds: 2496.1335
+filename: 21
+
+
+seconds: 2499.6871875
+filename: 21
+
+
+seconds: 2504.401875
+filename: 10
+
+
+seconds: 2508.6173125
+filename: 04
+
+
+seconds: 2512.8908125
+filename: 12
+
+
+seconds: 2517.6170625
+filename: 07
+
+
+seconds: 2525.594125
+filename: 03
+
+
+seconds: 2530.0765625
+filename: 05
+
+
+seconds: 2540.1434375
+filename: 21
+
+
+seconds: 2544.544625
+filename: 02
+
+
+seconds: 2549.294125
+filename: 04
+
+
+seconds: 2553.834625
+filename: 10
+
+
+seconds: 2558.468
+filename: 05
+
+
+seconds: 2562.1551875
+filename: 24
+
+
+seconds: 2566.3125625
+filename: 12
+
+
+seconds: 2570.5628125
+filename: 17
+
+
+seconds: 2574.894375
+filename: 17
+
+
+seconds: 2579.353625
+filename: 05
+
+
+seconds: 2583.6619375
+filename: 08
+
+
+seconds: 2587.6219375
+filename: 21
+
+
+seconds: 2595.4364375
+filename: 12
+
+
+seconds: 2599.53575
+filename: 24
+
+
+seconds: 2604.0995
+filename: 04
+
+
+seconds: 2613.7484375
+filename: 07
+
+
+seconds: 2622.4685625
+filename: 02
+
+
+seconds: 2626.8116875
+filename: 12
+
+
+seconds: 2638.8755
+filename: 07
+
+
+seconds: 2643.9500625
+filename: 07
+
+
+seconds: 2648.862125
+filename: 05
+
+
+seconds: 2652.915
+filename: 03
+
+
+seconds: 2661.4841875
+filename: 10
+
+
+seconds: 2669.5076875
+filename: 15
+
+
+seconds: 2673.4676875
+filename: 21
+
+
+seconds: 2677.2245
+filename: 20
+
+
+seconds: 2687.6164375
+filename: 02
+
+
+seconds: 2696.557125
+filename: 14
+
+
+seconds: 2700.2153125
+filename: 22
+
+
+seconds: 2705.0460625
+filename: 10
+
+
+seconds: 2714.079625
+filename: 10
+
+
+seconds: 2717.84225
+filename: 24
+
+
+seconds: 2721.69775
+filename: 20
+
+
+seconds: 2731.4279375
+filename: 14
+
+
+seconds: 2744.60625
+filename: 07
+
+
+seconds: 2749.0074375
+filename: 17
+
+
+seconds: 2754.0588125
+filename: 18
+
+
+seconds: 2758.00725
+filename: 03
+
+
+seconds: 2762.1008125
+filename: 11
+
+
+seconds: 2766.380125
+filename: 04
+
+
+seconds: 2775.8896875
+filename: 12
+
+
+seconds: 2784.2266875
+filename: 24
+
+
+seconds: 2788.7149375
+filename: 15
+
+
+seconds: 2801.057375
+filename: 12
+
+
+seconds: 2805.145125
+filename: 03
+
+
+seconds: 2810.9395
+filename: 23
+
+
+seconds: 2814.6325
+filename: 22
+
+
+seconds: 2819.184625
+filename: 15
+
+
+seconds: 2827.9279375
+filename: 02
+
+
+seconds: 2835.7773125
+filename: 08
+
+
+seconds: 2839.78375
+filename: 20
+
+
+seconds: 2846.7043125
+filename: 08
+
+
+seconds: 2851.384125
+filename: 01
+
+
+seconds: 2854.9378125
+filename: 21
+
+
+seconds: 2858.4465
+filename: 20
+
+
+seconds: 2867.0156875
+filename: 19
+
+
+seconds: 2879.358125
+filename: 12
+
+
+seconds: 2884.096
+filename: 13
+
+
+seconds: 2888.0211875
+filename: 22
+
+
+seconds: 2896.8225625
+filename: 14
+
+
+seconds: 2906.55275
+filename: 14
+
+
+seconds: 2910.24575
+filename: 22
+
+
+seconds: 2919.627625
+filename: 18
+
+
+seconds: 2924.679
+filename: 01
+
+
+seconds: 2931.83175
+filename: 11
+
+
+seconds: 2936.5348125
+filename: 10
+
+
+seconds: 2940.8895625
+filename: 05
+
+
+seconds: 2949.83025
+filename: 06
+
+
+seconds: 2960.0364375
+filename: 01
+
+
+seconds: 2967.2936875
+filename: 23
+
+
+seconds: 2971.6716875
+filename: 02
+
+
+seconds: 2978.59225
+filename: 08
+
+
+seconds: 2986.4648125
+filename: 23
+
+
+seconds: 2990.68025
+filename: 03
+
+
+seconds: 3000.956125
+filename: 03
+
+
+seconds: 3014.0415625
+filename: 19
+
+
+seconds: 3024.735375
+filename: 16
+
+
+seconds: 3035.289875
+filename: 16
+
+
+seconds: 3039.4820625
+filename: 08
+
+
+seconds: 3044.4405625
+filename: 07
+
+
+seconds: 3049.062375
+filename: 07
+
+
+seconds: 3058.0959375
+filename: 10
+
+
+seconds: 3062.891875
+filename: 02
+
+
+seconds: 3067.037625
+filename: 05
+
+
+seconds: 3071.671
+filename: 01
+
+
+seconds: 3075.561375
+filename: 21
+
+
+seconds: 3079.1846875
+filename: 24
+
+
+seconds: 3083.3275625
+filename: 19
+
+
+seconds: 3094.230375
+filename: 01
+
+
+seconds: 3108.720625
+filename: 12
+
+
+seconds: 3113.087
+filename: 09
+
+
+seconds: 3117.244375
+filename: 17
+
+
+seconds: 3121.8545625
+filename: 14
+
+
+seconds: 3125.5359375
+filename: 22
+
+
+seconds: 3136.427125
+filename: 24
+
+
+seconds: 3140.805125
+filename: 08
+
+
+seconds: 3147.214875
+filename: 11
+
+
+seconds: 3152.0805
+filename: 02
+
+
+seconds: 3160.3361875
+filename: 08
+
+
+seconds: 3165.132125
+filename: 14
+
+
+seconds: 3169.158875
+filename: 05
+
+
+seconds: 3178.343375
+filename: 19
+
+
+seconds: 3182.036375
+filename: 21
+
+
+seconds: 3188.318375
+filename: 03
+
+
+seconds: 3192.0751875
+filename: 20
+
+
+seconds: 3196.5460625
+filename: 02
+
+
+seconds: 3204.9410625
+filename: 13
+
+
+seconds: 3214.1255625
+filename: 19
+
+
+seconds: 3217.748875
+filename: 22
+
+
+seconds: 3223.5084375
+filename: 20
+
+
+seconds: 3232.739375
+filename: 19
+
+
+seconds: 3236.699375
+filename: 23
+
+
+seconds: 3240.6245625
+filename: 23
+
+
+seconds: 3255.1148125
+filename: 12
+
+
+seconds: 3263.2544375
+filename: 14
+
+
+seconds: 3273.3909375
+filename: 12
+
+
+seconds: 3280.880375
+filename: 24
+
+
+seconds: 3289.588875
+filename: 01
+
+
+seconds: 3293.8159375
+filename: 09
+
+
+seconds: 3297.5815
+filename: 01
+
+
+seconds: 3301.5183125
+filename: 03
+
+
+seconds: 3309.100625
+filename: 11
+
+
+seconds: 3315.49875
+filename: 20
+
+
+seconds: 3319.3716875
+filename: 23
+
+
+seconds: 3323.5755
+filename: 02
+
+
+seconds: 3328.116
+filename: 10
+
+
+seconds: 3332.84225
+filename: 12
+
+
+seconds: 3337.7543125
+filename: 13
+
+
+seconds: 3341.348625
+filename: 21
+
+
+seconds: 3346.1678125
+filename: 14
+
+
+seconds: 3353.1
+filename: 22
+
+
+seconds: 3362.981125
+filename: 13
+
+
+seconds: 3370.842125
+filename: 01
+
+
+seconds: 3375.2085
+filename: 13
+
+
+seconds: 3383.917
+filename: 01
+
+
+seconds: 3388.968375
+filename: 05
+
+
+seconds: 3398.2921875
+filename: 08
+
+
+seconds: 3402.1186875
+filename: 21
+
+
+seconds: 3406.0090625
+filename: 23
+
+
+seconds: 3409.8994375
+filename: 21
+
+
+seconds: 3414.7650625
+filename: 16
+
+
+seconds: 3426.5501875
+filename: 19
+
+
+seconds: 3431.531875
+filename: 13
+
+
+seconds: 3435.5789375
+filename: 11
+
+
+seconds: 3439.41125
+filename: 20
+
+
+seconds: 3444.3000625
+filename: 15
+
+
+seconds: 3449.49075
+filename: 13
+
+
+seconds: 3456.35325
+filename: 01
+
+
+seconds: 3461.10275
+filename: 15
+
+
+seconds: 3466.1773125
+filename: 07
+
+
+seconds: 3470.276625
+filename: 19
+
+
+seconds: 3474.840375
+filename: 09
+
+
+seconds: 3479.7291875
+filename: 10
+
+
+seconds: 3484.5948125
+filename: 10
+
+
+seconds: 3489.088875
+filename: 08
+
+
+seconds: 3493.577125
+filename: 18
+
+
+seconds: 3497.154
+filename: 21
+
+
+seconds: 3509.542875
+filename: 05
+
+
+seconds: 3514.0718125
+filename: 13
+
+
+seconds: 3522.0836875
+filename: 24
+
+
+seconds: 3526.8215625
+filename: 10
+
+
+seconds: 3535.4139375
+filename: 05
+
+
+seconds: 3540.6278125
+filename: 16
+
+
+seconds: 3544.355625
+filename: 22
+
+
+seconds: 3549.3605625
+filename: 04
+
+
+seconds: 3558.905
+filename: 19
+
+
+seconds: 3563.271375
+filename: 09
+
+
+seconds: 3567.74225
+filename: 01
+
+
+seconds: 3571.9344375
+filename: 12
+
+
+seconds: 3576.55625
+filename: 18
+
+
+seconds: 3580.632375
+filename: 11
+
+
+seconds: 3584.9290625
+filename: 12
+
+
+seconds: 3589.7598125
+filename: 10
+
+
+seconds: 3594.2190625
+filename: 05
+
+
+seconds: 3599.0324375
+filename: 05
+
+
+seconds: 3610.0513125
+filename: 04
+
+
+seconds: 3619.5725
+filename: 10
+
+
+seconds: 3623.5905625
+filename: 17
+
+
+seconds: 3628.3168125
+filename: 05
+
+
+seconds: 3632.8805625
+filename: 05
+
+
+seconds: 3637.188875
+filename: 08
+
+
+seconds: 3641.3810625
+filename: 12
+
+
+seconds: 3645.41075
+filename: 11
+
+
+seconds: 3649.1501875
+filename: 24
+
+
+seconds: 3653.4004375
+filename: 12
+
+
+seconds: 3663.6646875
+filename: 07
+
+
+seconds: 3667.299625
+filename: 20
+
+
+seconds: 3671.457
+filename: 12
+
+
+seconds: 3675.5911875
+filename: 06
+
+
+seconds: 3680.2245625
+filename: 10
+
+
+seconds: 3689.676125
+filename: 05
+
+
+seconds: 3693.473625
+filename: 22
+
+
+seconds: 3698.33925
+filename: 14
+
+
+seconds: 3706.2815
+filename: 19
+
+
+seconds: 3713.0163125
+filename: 17
+
+
+seconds: 3717.0691875
+filename: 08
+
+
+seconds: 3725.0114375
+filename: 10
+
+
+seconds: 3734.1959375
+filename: 03
+
+
+seconds: 3738.3533125
+filename: 08
+
+
+seconds: 3747.4565625
+filename: 02
+
+
+seconds: 3756.408875
+filename: 01
+
+
+seconds: 3761.135125
+filename: 07
+
+
+seconds: 3765.9310625
+filename: 14
+
+
+seconds: 3770.54125
+filename: 14
+
+
+seconds: 3778.7273125
+filename: 19
+
+
+seconds: 3786.1355
+filename: 18
+
+
+seconds: 3797.1079375
+filename: 10
+
+
+seconds: 3801.0679375
+filename: 20
+
+
+seconds: 3805.37625
+filename: 08
+
+
+seconds: 3814.3169375
+filename: 14
+
+
+seconds: 3819.0431875
+filename: 03
+
+
+seconds: 3823.1076875
+filename: 23
+
+
+seconds: 3826.7774375
+filename: 21
+
+
+seconds: 3830.71425
+filename: 03
+
+
+seconds: 3835.3011875
+filename: 12
+
+
+seconds: 3841.8966875
+filename: 20
+
+
+seconds: 3846.321125
+filename: 18
+
+
+seconds: 3850.176625
+filename: 22
+
+
+seconds: 3855.135125
+filename: 14
+
+
+seconds: 3859.4840625
+filename: 19
+
+
+seconds: 3875.1236875
+filename: 05
+
+
+seconds: 3879.14175
+filename: 11
+
+
+seconds: 3885.621125
+filename: 24
+
+
+seconds: 3889.62175
+filename: 03
+
+
+seconds: 3901.244375
+filename: 03
+
+
+seconds: 3910.1850625
+filename: 06
+
+
+seconds: 3915.0506875
+filename: 15
+
+
+seconds: 3918.9410625
+filename: 24
+
+
+seconds: 3923.5048125
+filename: 10
+
+
+seconds: 3928.0685625
+filename: 12
+
+
+seconds: 3932.5394375
+filename: 03
+
+
+seconds: 3936.662
+filename: 08
+
+
+seconds: 3940.9703125
+filename: 02
+
+
+seconds: 3950.294125
+filename: 10
+
+
+seconds: 3958.8285
+filename: 07
+
+
+seconds: 3963.5431875
+filename: 10
+
+
+seconds: 3967.8340625
+filename: 06
+
+
+seconds: 3972.421
+filename: 14
+
+
+seconds: 3985.970875
+filename: 07
+
+
+seconds: 3994.9928125
+filename: 12
+
+
+seconds: 3998.97025
+filename: 08
+
+
+seconds: 4007.36525
+filename: 08
+
+
+seconds: 4011.650375
+filename: 05
+
+
+seconds: 4017.1196875
+filename: 22
+
+
+seconds: 4021.311875
+filename: 08
+
+
+seconds: 4025.8291875
+filename: 14
+
+
+seconds: 4029.8124375
+filename: 22
+
+
+seconds: 4034.202
+filename: 04
+
+
+seconds: 4041.8075625
+filename: 21
+
+
+seconds: 4046.6499375
+filename: 18
+
+
+seconds: 4056.473
+filename: 06
+
+
+seconds: 4066.8649375
+filename: 05
+
+
+seconds: 4071.4983125
+filename: 02
+
+
+seconds: 4076.0736875
+filename: 14
+
+
+seconds: 4080.312375
+filename: 23
+
+
+seconds: 4084.8993125
+filename: 13
+
+
+seconds: 4088.8593125
+filename: 24
+
+
+seconds: 4093.1444375
+filename: 06
+
+
+seconds: 4101.1215
+filename: 13
+
+
+seconds: 4105.78975
+filename: 18
+
+
+seconds: 4114.0686875
+filename: 11
+
+
+seconds: 4118.8065625
+filename: 16
+
+
+seconds: 4123.114875
+filename: 04
+
+
+seconds: 4126.8195
+filename: 24
+
+
+seconds: 4131.36
+filename: 15
+
+
+seconds: 4135.1110625
+filename: 20
+
+
+seconds: 4139.16975
+filename: 09
+
+
+seconds: 4143.20525
+filename: 06
+
+
+seconds: 4155.6405625
+filename: 10
+
+
+seconds: 4159.7456875
+filename: 02
+
+
+seconds: 4164.2861875
+filename: 19
+
+
+seconds: 4174.1440625
+filename: 16
+
+
+seconds: 4178.7078125
+filename: 09
+
+
+seconds: 4182.7839375
+filename: 04
+
+
+seconds: 4187.370875
+filename: 09
+
+
+seconds: 4191.238
+filename: 24
+
+
+seconds: 4198.3326875
+filename: 21
+
+
+seconds: 4202.9660625
+filename: 04
+
+
+seconds: 4207.5065625
+filename: 05
+
+
+seconds: 4211.5710625
+filename: 11
+
+
+seconds: 4219.757125
+filename: 19
+
+
+seconds: 4224.7388125
+filename: 16
+
+
+seconds: 4228.547875
+filename: 21
+
+
+seconds: 4232.833
+filename: 23
+
+
+seconds: 4237.042625
+filename: 05
+
+
+seconds: 4241.2696875
+filename: 19
+
+
+seconds: 4249.7808125
+filename: 19
+
+
+seconds: 4253.6479375
+filename: 23
+
+
+seconds: 4257.9795
+filename: 03
+
+
+seconds: 4262.7986875
+filename: 14
+
+
+seconds: 4273.771125
+filename: 10
+
+
+seconds: 4278.2651875
+filename: 17
+
+
+seconds: 4282.7825
+filename: 14
+
+
+seconds: 4287.0501875
+filename: 19
+
+
+seconds: 4291.0334375
+filename: 03
+
+
+seconds: 4298.2094375
+filename: 06
+
+
+seconds: 4302.610625
+filename: 06
+
+
+seconds: 4307.0350625
+filename: 06
+
+
+seconds: 4319.470375
+filename: 10
+
+
+seconds: 4324.52175
+filename: 18
+
+
+seconds: 4328.6385
+filename: 05
+
+
+seconds: 4333.4111875
+filename: 02
+
+
+seconds: 4337.940125
+filename: 02
+
+
+seconds: 4347.043375
+filename: 02
+
+
+seconds: 4351.7
+filename: 10
+
+
+seconds: 4360.501375
+filename: 14
+
+
+seconds: 4365.1928125
+filename: 16
+
+
+seconds: 4369.4663125
+filename: 19
+
+
+seconds: 4373.983625
+filename: 13
+
+
+seconds: 4383.063625
+filename: 19
+
+
+seconds: 4393.9664375
+filename: 12
+
+
+seconds: 4402.326625
+filename: 05
+
+
+seconds: 4406.704625
+filename: 10
+
+
+seconds: 4411.454125
+filename: 13
+
+
+seconds: 4415.7856875
+filename: 17
+
+
+seconds: 4420.186875
+filename: 12
+
+
+seconds: 4428.9534375
+filename: 13
+
+
+seconds: 4432.959875
+filename: 20
+
+
+seconds: 4444.5360625
+filename: 15
+
+
+seconds: 4448.4264375
+filename: 21
+
+
+seconds: 4453.025
+filename: 14
+
+
+seconds: 4457.5190625
+filename: 14
+
+
+seconds: 4461.9899375
+filename: 02
+
+
+seconds: 4472.3354375
+filename: 06
+
+
+seconds: 4485.258375
+filename: 04
+
+
+seconds: 4494.4196875
+filename: 06
+
+
+seconds: 4498.3274375
+filename: 03
+
+
+seconds: 4506.90825
+filename: 13
+
+
+seconds: 4514.8853125
+filename: 03
+
+
+seconds: 4519.47225
+filename: 09
+
+
+seconds: 4523.618
+filename: 17
+
+
+seconds: 4528.2398125
+filename: 08
+
+
+seconds: 4532.548125
+filename: 06
+
+
+seconds: 4536.3049375
+filename: 22
+
+
+seconds: 4540.8454375
+filename: 20
+
+
+seconds: 4549.58875
+filename: 02
+
+
+seconds: 4554.2918125
+filename: 13
+
+
+seconds: 4558.785875
+filename: 14
+
+
+seconds: 4563.3438125
+filename: 16
+
+
+seconds: 4567.76825
+filename: 06
+
+
+seconds: 4572.332
+filename: 07
+
+
+seconds: 4581.028875
+filename: 17
+
+
+seconds: 4585.4300625
+filename: 02
+
+
+seconds: 4589.4829375
+filename: 01
+
+
+seconds: 4603.172125
+filename: 12
+
+
+seconds: 4607.59075
+filename: 14
+
+
+seconds: 4618.83025
+filename: 12
+
+
+seconds: 4623.5565
+filename: 06
+
+
+seconds: 4628.49175
+filename: 15
+
+
+seconds: 4632.277625
+filename: 22
+
+
+seconds: 4636.853
+filename: 14
+
+
+seconds: 4644.6443125
+filename: 11
+
+
+seconds: 4657.451125
+filename: 04
+
+
+seconds: 4661.2601875
+filename: 22
+
+
+seconds: 4670.2125
+filename: 01
+
+
+seconds: 4674.6020625
+filename: 04
+
+
+seconds: 4679.386375
+filename: 18
+
+
+seconds: 4685.76125
+filename: 23
+
+
+seconds: 4690.2959375
+filename: 11
+
+
+seconds: 4695.115125
+filename: 15
+
+
+seconds: 4706.15725
+filename: 11
+
+
+seconds: 4710.5584375
+filename: 12
+
+
+seconds: 4714.564875
+filename: 06
+
+
+seconds: 4722.2749375
+filename: 03
+
+
+seconds: 4733.5028125
+filename: 17
+
+
+seconds: 4738.1361875
+filename: 10
+
+
+seconds: 4747.5993125
+filename: 16
+
+
+seconds: 4757.8635625
+filename: 05
+
+
+seconds: 4761.7190625
+filename: 03
+
+
+seconds: 4765.8648125
+filename: 03
+
+
+seconds: 4774.4688125
+filename: 13
+
+
+seconds: 4778.7075
+filename: 23
+
+
+seconds: 4782.307625
+filename: 22
+
+
+seconds: 4786.29375
+filename: 08
+
+
+seconds: 4794.3636875
+filename: 18
+
+
+seconds: 4798.75325
+filename: 16
+
+
+seconds: 4803.096375
+filename: 19
+
+
+seconds: 4806.8241875
+filename: 24
+
+
+seconds: 4810.6768125
+filename: 01
+
+
+seconds: 4821.27775
+filename: 23
+
+
+seconds: 4830.5086875
+filename: 14
+
+
+seconds: 4841.17925
+filename: 12
+
+
+seconds: 4846.30025
+filename: 07
+
+
+seconds: 4858.271125
+filename: 14
+
+
+seconds: 4865.551625
+filename: 20
+
+
+seconds: 4869.9528125
+filename: 10
+
+
+seconds: 4878.220125
+filename: 09
+
+
+seconds: 4882.4239375
+filename: 12
+
+
+seconds: 4893.187375
+filename: 04
+
+
+seconds: 4902.1280625
+filename: 06
+
+
+seconds: 4906.4828125
+filename: 19
+
+
+seconds: 4911.38325
+filename: 18
+
+
+seconds: 4914.960125
+filename: 21
+
+
+seconds: 4919.1523125
+filename: 06
+
+
+seconds: 4922.984625
+filename: 20
+
+
+seconds: 4934.5375625
+filename: 06
+
+
+seconds: 4943.21125
+filename: 07
+
+
+seconds: 4947.7285625
+filename: 14
+
+
+seconds: 4952.2690625
+filename: 15
+
+
+seconds: 4963.729125
+filename: 04
+
+
+seconds: 4967.689125
+filename: 23
+
+
+seconds: 4971.6026875
+filename: 23
+
+
+seconds: 4976.189625
+filename: 18
+
+
+seconds: 4980.8694375
+filename: 04
+
+
+seconds: 4988.6839375
+filename: 12
+
+
+seconds: 4992.318875
+filename: 22
+
+
+seconds: 5001.6426875
+filename: 10
+
+
+seconds: 5011.15225
+filename: 22
+
+
+seconds: 5014.9729375
+filename: 24
+
+
+seconds: 5018.5208125
+filename: 24
+
+
+seconds: 5023.432875
+filename: 17
+
+
+seconds: 5027.392875
+filename: 22
+
+
+seconds: 5031.1613125
+filename: 24
+
+
+seconds: 5038.9061875
+filename: 20
+
+
+seconds: 5043.0055
+filename: 09
+
+
+seconds: 5047.638875
+filename: 10
+
+
+seconds: 5051.9065625
+filename: 04
+
+
+seconds: 5061.416125
+filename: 12
+
+
+seconds: 5071.1115
+filename: 13
+
+
+seconds: 5075.3036875
+filename: 03
+
+
+seconds: 5080.2389375
+filename: 15
+
+
+seconds: 5084.825875
+filename: 16
+
+
+seconds: 5089.3431875
+filename: 11
+
+
+seconds: 5093.477375
+filename: 08
+
+
+seconds: 5097.7625
+filename: 17
+
+
+seconds: 5102.4423125
+filename: 11
+
+
+seconds: 5106.1236875
+filename: 21
+
+
+seconds: 5110.4088125
+filename: 12
+
+
+seconds: 5114.7519375
+filename: 09
+
+
+seconds: 5121.6144375
+filename: 01
+
+
+seconds: 5130.9150625
+filename: 17
+
+
+seconds: 5139.461
+filename: 18
+
+
+seconds: 5143.44425
+filename: 21
+
+
+seconds: 5148.3446875
+filename: 07
+
+
+seconds: 5154.7311875
+filename: 23
+
+
+seconds: 5162.986875
+filename: 18
+
+
+seconds: 5170.99875
+filename: 24
+
+
+seconds: 5175.16775
+filename: 20
+
+
+seconds: 5179.151
+filename: 22
+
+
+seconds: 5184.0398125
+filename: 10
+
+
+seconds: 5190.3101875
+filename: 08
+
+
+seconds: 5200.5628125
+filename: 09
+
+
+seconds: 5204.9291875
+filename: 02
+
+
+seconds: 5214.5084375
+filename: 24
+
+
+seconds: 5219.043125
+filename: 10
+
+
+seconds: 5228.7385
+filename: 13
+
+
+seconds: 5238.5731875
+filename: 13
+
+
+seconds: 5246.3645
+filename: 11
+
+
+seconds: 5255.4329375
+filename: 15
+
+
+seconds: 5263.793125
+filename: 05
+
+
+seconds: 5268.4961875
+filename: 14
+
+
+seconds: 5272.06
+filename: 21
+
+
+seconds: 5276.0955
+filename: 07
+
+
+seconds: 5279.7304375
+filename: 24
+
+
+seconds: 5283.8761875
+filename: 11
+
+
+seconds: 5288.498
+filename: 13
+
+
+seconds: 5292.6901875
+filename: 03
+
+
+seconds: 5297.277125
+filename: 15
+
+
+seconds: 5301.4809375
+filename: 01
+
+
+seconds: 5305.562875
+filename: 09
+
+
+seconds: 5310.5329375
+filename: 15
+
+
+seconds: 5314.57425
+filename: 01
+
+
+seconds: 5318.360125
+filename: 20
+
+
+seconds: 5322.91225
+filename: 15
+
+
+seconds: 5327.940375
+filename: 15
+
+
+seconds: 5332.5005
+filename: 15
+
+
+seconds: 5336.61725
+filename: 05
+
+
+seconds: 5341.3899375
+filename: 15
+
+
+seconds: 5345.7795
+filename: 04
+
+
+seconds: 5350.23875
+filename: 12
+
+
+seconds: 5360.5378125
+filename: 16
+
+
+seconds: 5370.1054375
+filename: 04
+
+
+seconds: 5380.4045
+filename: 09
+
+
+seconds: 5389.4729375
+filename: 15
+
+
+seconds: 5394.0483125
+filename: 04
+
+
+seconds: 5398.5191875
+filename: 03
+
+
+seconds: 5402.943625
+filename: 18
+
+
+seconds: 5407.31
+filename: 02
+
+
+seconds: 5411.241
+filename: 11
+
+
+seconds: 5415.6305625
+filename: 16
+
+
+seconds: 5419.82275
+filename: 06
+
+
+seconds: 5429.0885
+filename: 05
+
+
+seconds: 5436.9959375
+filename: 01
+
+
+seconds: 5443.8468125
+filename: 21
+
+
+seconds: 5448.468625
+filename: 07
+
+
+seconds: 5452.2254375
+filename: 20
+
+
+seconds: 5456.348
+filename: 11
+
+
+seconds: 5465.71825
+filename: 06
+
+
+seconds: 5471.826125
+filename: 11
+
+
+seconds: 5478.6654375
+filename: 20
+
+
+seconds: 5488.8368125
+filename: 15
+
+
+seconds: 5500.38975
+filename: 06
+
+
+seconds: 5504.6980625
+filename: 03
+
+
+seconds: 5514.0683125
+filename: 18
+
+
+seconds: 5518.109625
+filename: 12
+
+
+seconds: 5523.161
+filename: 07
+
+
+seconds: 5527.9105
+filename: 15
+
+
+seconds: 5531.8705
+filename: 24
+
+
+seconds: 5535.9291875
+filename: 08
+
+
+seconds: 5545.671
+filename: 04
+
+
+seconds: 5549.538125
+filename: 24
+
+
+seconds: 5553.149875
+filename: 24
+
+
+seconds: 5563.309625
+filename: 02
+
+
+seconds: 5568.0126875
+filename: 13
+
+
+seconds: 5571.9495
+filename: 22
+
+
+seconds: 5578.127
+filename: 15
+
+
+seconds: 5582.2611875
+filename: 06
+
+
+seconds: 5587.0919375
+filename: 13
+
+
+seconds: 5591.911125
+filename: 04
+
+
+seconds: 5596.4284375
+filename: 14
+
+
+seconds: 5600.2026875
+filename: 21
+
+
+seconds: 5604.3600625
+filename: 17
+
+
+seconds: 5608.877375
+filename: 16
+
+
+seconds: 5613.2205
+filename: 11
+
+
+seconds: 5617.7145625
+filename: 23
+
+
+seconds: 5622.046125
+filename: 03
+
+
+seconds: 5631.92725
+filename: 13
+
+
+seconds: 5636.6535
+filename: 07
+
+
+seconds: 5640.8689375
+filename: 08
+
+
+seconds: 5645.6996875
+filename: 14
+
+
+seconds: 5652.631875
+filename: 22
+
+
+seconds: 5663.2328125
+filename: 05
+
+
+seconds: 5671.7671875
+filename: 14
+
+
+seconds: 5678.58325
+filename: 20
+
+
+seconds: 5682.7174375
+filename: 03
+
+
+seconds: 5692.0876875
+filename: 06
+
+
+seconds: 5696.697875
+filename: 19
+
+
+seconds: 5700.24575
+filename: 24
+
+
+seconds: 5708.68725
+filename: 22
+
+
+seconds: 5712.7808125
+filename: 11
+
+
+seconds: 5717.2516875
+filename: 01
+
+
+seconds: 5721.6876875
+filename: 05
+
+
+seconds: 5726.216625
+filename: 14
+
+
+seconds: 5730.0750625
+filename: 01
+
+
+seconds: 5733.698375
+filename: 24
+
+
+seconds: 5737.524875
+filename: 01
+
+
+seconds: 5741.1830625
+filename: 22
+
+
+seconds: 5751.8420625
+filename: 16
+
+
+seconds: 5756.2665
+filename: 01
+
+
+seconds: 5760.04075
+filename: 21
+
+
+seconds: 5767.7275625
+filename: 01
+
+
+seconds: 5772.3145
+filename: 18
+
+
+seconds: 5782.7064375
+filename: 02
+
+
+seconds: 5790.3584375
+filename: 23
+
+
+seconds: 5794.4635625
+filename: 05
+
+
+seconds: 5802.8005625
+filename: 24
+
+
+seconds: 5807.09725
+filename: 01
+
+
+seconds: 5815.3761875
+filename: 11
+
+
+seconds: 5820.566875
+filename: 13
+
+
+seconds: 5824.4253125
+filename: 01
+
+
+seconds: 5828.7916875
+filename: 08
+
+
+seconds: 5833.1464375
+filename: 17
+
+
+seconds: 5839.5445625
+filename: 20
+
+
+seconds: 5843.667125
+filename: 23
+
+
+seconds: 5850.33225
+filename: 21
+
+
+seconds: 5857.4269375
+filename: 20
+
+
+seconds: 5866.3095625
+filename: 05
+
+
+seconds: 5870.6759375
+filename: 02
+
+
+seconds: 5875.2164375
+filename: 05
+
+
+seconds: 5880.0588125
+filename: 18
+
+
+seconds: 5884.4368125
+filename: 09
+
+
+seconds: 5894.03925
+filename: 16
+
+
+seconds: 5898.31275
+filename: 19
+
+
+seconds: 5902.8068125
+filename: 17
+
+
+seconds: 5906.941
+filename: 06
+
+
+seconds: 5910.993875
+filename: 23
+
+
+seconds: 5915.2209375
+filename: 17
+
+
+seconds: 5919.4305625
+filename: 05
+
+
+seconds: 5929.5903125
+filename: 02
+
+
+seconds: 5934.3165625
+filename: 12
+
+
+seconds: 5938.37525
+filename: 08
+
+
+seconds: 5942.9041875
+filename: 14
+
+
+seconds: 5952.820125
+filename: 04
+
+
+seconds: 5956.4783125
+filename: 21
+
+
+seconds: 5960.5311875
+filename: 23
+
+
+seconds: 5970.447125
+filename: 02
+
+
+seconds: 5978.888625
+filename: 22
+
+
+seconds: 5990.789875
+filename: 04
+
+
+seconds: 5995.4929375
+filename: 05
+
+
+seconds: 5999.6155
+filename: 01
+
+
+seconds: 6004.0515
+filename: 15
+
+
+seconds: 6008.3598125
+filename: 08
+
+
+seconds: 6012.7029375
+filename: 13
+
+
+seconds: 6017.0345
+filename: 16
+
+
+seconds: 6021.01775
+filename: 03
+
+
+seconds: 6025.3493125
+filename: 05
+
+
+seconds: 6029.9130625
+filename: 19
+
+
+seconds: 6034.7786875
+filename: 08
+
+
+seconds: 6039.5281875
+filename: 18
+
+
+seconds: 6044.057125
+filename: 13
+
+
+seconds: 6048.411875
+filename: 09
+
+
+seconds: 6056.249625
+filename: 09
+
+
+seconds: 6060.7436875
+filename: 02
+
+
+seconds: 6064.86625
+filename: 23
+
+
+seconds: 6072.8433125
+filename: 13
+
+
+seconds: 6082.2251875
+filename: 18
+
+
+seconds: 6086.359375
+filename: 03
+
+
+seconds: 6091.317875
+filename: 07
+
+
+seconds: 6095.672625
+filename: 09
+
+
+seconds: 6099.684875
+filename: 09
+
+
+seconds: 6103.84225
+filename: 02
+
+
+seconds: 6107.4771875
+filename: 22
+
+
+seconds: 6111.135375
+filename: 20
+
+
+seconds: 6114.909625
+filename: 20
+
+
+seconds: 6118.9509375
+filename: 01
+
+
+seconds: 6123.178
+filename: 04
+
+
+seconds: 6127.42825
+filename: 09
+
+
+seconds: 6131.38825
+filename: 23
+
+
+seconds: 6135.835875
+filename: 01
+
+
+seconds: 6140.7479375
+filename: 16
+
+
+seconds: 6150.3271875
+filename: 24
+
+
+seconds: 6154.8909375
+filename: 10
+
+
+seconds: 6163.9013125
+filename: 07
+
+
+seconds: 6173.724375
+filename: 06
+
+
+seconds: 6180.110875
+filename: 23
+
+
+seconds: 6184.570125
+filename: 12
+
+
+seconds: 6188.9596875
+filename: 04
+
+
+seconds: 6198.1441875
+filename: 04
+
+
+seconds: 6203.9385625
+filename: 23
+
+
+seconds: 6208.2004375
+filename: 09
+
+
+seconds: 6213.0660625
+filename: 07
+
+
+seconds: 6222.3318125
+filename: 05
+
+
+seconds: 6226.8375
+filename: 15
+
+
+seconds: 6236.6721875
+filename: 13
+
+
+seconds: 6242.9425625
+filename: 08
+
+
+seconds: 6247.6920625
+filename: 15
+
+
+seconds: 6252.2558125
+filename: 19
+
+
+seconds: 6260.3954375
+filename: 14
+
+
+seconds: 6270.6480625
+filename: 09
+
+
+seconds: 6274.5384375
+filename: 23
+
+
+seconds: 6279.0266875
+filename: 18
+
+
+seconds: 6283.6600625
+filename: 04
+
+
+seconds: 6287.596875
+filename: 22
+
+
+seconds: 6292.160625
+filename: 11
+
+
+seconds: 6296.3760625
+filename: 19
+
+
+seconds: 6300.498625
+filename: 23
+
+
+seconds: 6311.5175
+filename: 04
+
+
+seconds: 6315.802625
+filename: 17
+
+
+seconds: 6320.0180625
+filename: 05
+
+
+seconds: 6328.9935625
+filename: 09
+
+
+seconds: 6339.106875
+filename: 02
+
+
+seconds: 6345.516625
+filename: 11
+
+
+seconds: 6359.62375
+filename: 16
+
+
+seconds: 6367.0435625
+filename: 17
+
+
+seconds: 6374.9741875
+filename: 15
+
+
+seconds: 6383.6014375
+filename: 20
+
+
+seconds: 6387.3640625
+filename: 20
+
+
+seconds: 6392.369
+filename: 13
+
+
+seconds: 6400.903375
+filename: 07
+
+
+seconds: 6405.16525
+filename: 06
+
+
+seconds: 6412.44575
+filename: 20
+
+
+seconds: 6419.586875
+filename: 21
+
+
+seconds: 6429.2125625
+filename: 24
+
+
+seconds: 6433.3699375
+filename: 08
+
+
+seconds: 6438.1194375
+filename: 07
+
+
+seconds: 6442.9501875
+filename: 14
+
+
+seconds: 6447.5255625
+filename: 18
+
+
+seconds: 6452.5653125
+filename: 15
+
+
+seconds: 6457.3148125
+filename: 15
+
+
+seconds: 6461.6115
+filename: 06
+
+
+seconds: 6470.32
+filename: 16
+
+
+seconds: 6474.8779375
+filename: 16
+
+
+seconds: 6486.1058125
+filename: 23
+
+
+seconds: 6496.4745625
+filename: 14
+
+
+seconds: 6505.0785625
+filename: 01
+
+
+seconds: 6509.294
+filename: 11
+
+
+seconds: 6517.8748125
+filename: 13
+
+
+seconds: 6522.4385625
+filename: 09
+
+
+seconds: 6526.3289375
+filename: 21
+
+
+seconds: 6530.3644375
+filename: 07
+
+
+seconds: 6539.409625
+filename: 15
+
+
+seconds: 6544.135875
+filename: 04
+
+
+seconds: 6554.4581875
+filename: 17
+
+
+seconds: 6561.669
+filename: 03
+
+
+seconds: 6572.5718125
+filename: 12
+
+
+seconds: 6576.764
+filename: 03
+
+
+seconds: 6580.921375
+filename: 11
+
+
+seconds: 6584.9510625
+filename: 11
+
+
+seconds: 6593.137125
+filename: 03
+
+
+seconds: 6601.6715
+filename: 22
+
+
+seconds: 6606.2584375
+filename: 16
+
+
+seconds: 6610.4013125
+filename: 19
+
+
+seconds: 6614.5935
+filename: 05
+
+
+seconds: 6618.646375
+filename: 11
+
+
+seconds: 6622.919875
+filename: 08
+
+
+seconds: 6629.3528125
+filename: 09
+
+
+seconds: 6633.7191875
+filename: 14
+
+
+seconds: 6638.2713125
+filename: 13
+
+
+seconds: 6649.1625
+filename: 24
+
+
+seconds: 6658.045125
+filename: 21
+
+
+seconds: 6662.7481875
+filename: 13
+
+
+seconds: 6666.66175
+filename: 21
+
+
+seconds: 6675.7069375
+filename: 15
+
+
+seconds: 6686.8419375
+filename: 09
+
+
+seconds: 6690.5175
+filename: 06
+
+
+seconds: 6694.6690625
+filename: 08
+
+
+seconds: 6699.9758125
+filename: 16
+
+
+seconds: 6704.0403125
+filename: 11
+
+
+seconds: 6708.2325
+filename: 19
+
+
+seconds: 6712.6046875
+filename: 17
+
+
+seconds: 6717.2380625
+filename: 13
+
+
+seconds: 6721.8830625
+filename: 15
+
+
+seconds: 6725.639875
+filename: 22
+
+
+seconds: 6736.589125
+filename: 04
+
+
+seconds: 6746.934625
+filename: 10
+
+
+seconds: 6755.051
+filename: 22
+
+
+seconds: 6762.7610625
+filename: 03
+
+
+seconds: 6766.6136875
+filename: 01
+
+
+seconds: 6771.0265
+filename: 02
+
+
+seconds: 6775.4509375
+filename: 12
+
+
+seconds: 6779.678
+filename: 19
+
+
+seconds: 6787.8408125
+filename: 24
+
+
+seconds: 6791.9865625
+filename: 11
+
+
+seconds: 6797.9435
+filename: 21
+
+
+seconds: 6802.4375625
+filename: 06
+
+
+seconds: 6807.25675
+filename: 04
+
+
+seconds: 6815.9304375
+filename: 12
+
+
+seconds: 6819.7279375
+filename: 24
+
+
+seconds: 6830.6539375
+filename: 18
+
+
+seconds: 6841.0226875
+filename: 14
+
+
+seconds: 6844.7505
+filename: 24
+
+
+seconds: 6849.1285
+filename: 08
+
+
+seconds: 6855.9678125
+filename: 20
+
+
+seconds: 6860.879875
+filename: 13
+
+
+seconds: 6864.985
+filename: 02
+
+
+seconds: 6869.13075
+filename: 05
+
+
+seconds: 6873.5319375
+filename: 06
+
+
+seconds: 6878.066625
+filename: 11
+
+
+seconds: 6886.47325
+filename: 13
+
+
+seconds: 6891.0718125
+filename: 09
+
+
+seconds: 6895.6123125
+filename: 15
+
+
+seconds: 6903.299125
+filename: 01
+
+
+seconds: 6920.3784375
+filename: 02
+
+
+seconds: 6924.58225
+filename: 19
+
+
+seconds: 6932.23425
+filename: 23
+
+
+seconds: 6943.276375
+filename: 10
+
+
+seconds: 6950.9864375
+filename: 01
+
+
+seconds: 6956.93175
+filename: 15
+
+
+seconds: 6965.8724375
+filename: 15
+
+
+seconds: 6969.5654375
+filename: 20
+
+
+seconds: 6977.472875
+filename: 01
+
+
+seconds: 6981.7811875
+filename: 06
+
+
+seconds: 6985.509
+filename: 22
+
+
+seconds: 6990.3978125
+filename: 18
+
+
+seconds: 6994.532
+filename: 11
+
+
+seconds: 7003.7629375
+filename: 07
+
+
+seconds: 7007.7229375
+filename: 22
+
+
+seconds: 7014.5041875
+filename: 06
+
+
+seconds: 7023.2010625
+filename: 17
+
+
+seconds: 7027.880875
+filename: 09
+
+
+seconds: 7036.0785625
+filename: 09
+
+
+seconds: 7040.7119375
+filename: 13
+
+
+seconds: 7050.651125
+filename: 02
+
+
+seconds: 7058.0245
+filename: 09
+
+
+seconds: 7063.075875
+filename: 01
+
+
+seconds: 7066.75725
+filename: 21
+
+
+seconds: 7071.204875
+filename: 16
+
+
+seconds: 7075.6060625
+filename: 04
+
+
+seconds: 7079.937625
+filename: 06
+
+
+seconds: 7088.7041875
+filename: 13
+
+
+seconds: 7093.523375
+filename: 14
+
+
+seconds: 7097.378875
+filename: 20
+
+
+seconds: 7102.22125
+filename: 18
+
+
+seconds: 7111.19675
+filename: 09
+
+
+seconds: 7121.461
+filename: 07
+
+
+seconds: 7125.13075
+filename: 21
+
+
+seconds: 7129.183625
+filename: 21
+
+
+seconds: 7133.851875
+filename: 07
+
+
+seconds: 7141.689625
+filename: 09
+
+
+seconds: 7146.305625
+filename: 09
+
+
+seconds: 7150.4049375
+filename: 09
+
+
+seconds: 7161.30775
+filename: 01
+
+
+seconds: 7174.9969375
+filename: 12
+
+
+seconds: 7179.583875
+filename: 09
+
+
+seconds: 7183.6019375
+filename: 11
+
+
+seconds: 7190.719875
+filename: 09
+
+
+seconds: 7201.645875
+filename: 18
+
+
+seconds: 7206.2560625
+filename: 16
+
+
+seconds: 7210.0825625
+filename: 21
+
+
+seconds: 7218.33825
+filename: 18
+
+
+seconds: 7222.77425
+filename: 15
+
+
+seconds: 7227.3844375
+filename: 16
+
+
+seconds: 7231.518625
+filename: 06
+
+
+seconds: 7236.17525
+filename: 05
+
+
+seconds: 7244.4541875
+filename: 24
+
+
+seconds: 7255.3801875
+filename: 18
+
+
+seconds: 7264.0770625
+filename: 23
+
+
+seconds: 7268.3621875
+filename: 11
+
+
+seconds: 7272.58925
+filename: 12
+
+
+seconds: 7283.2830625
+filename: 16
+
+
+seconds: 7288.0441875
+filename: 18
+
+
+seconds: 7296.114125
+filename: 18
+
+
+seconds: 7303.162375
+filename: 24
+
+
+seconds: 7313.2756875
+filename: 12
+
+
+seconds: 7324.4106875
+filename: 09
+
+
+seconds: 7328.6958125
+filename: 04
+
+
+seconds: 7333.2711875
+filename: 18
+
+
+seconds: 7341.9796875
+filename: 21
+
+
+seconds: 7345.7075
+filename: 24
+
+
+seconds: 7349.412125
+filename: 24
+
+
+seconds: 7360.1755625
+filename: 04
+
+
+seconds: 7370.0915
+filename: 02
+
+
+seconds: 7374.4695
+filename: 08
+
+
+seconds: 7381.6803125
+filename: 03
+
+
+seconds: 7397.3199375
+filename: 05
+
+
+seconds: 7402.78925
+filename: 22
+
+
+seconds: 7406.946625
+filename: 12
+
+
+seconds: 7413.5536875
+filename: 07
+
+
+seconds: 7418.25675
+filename: 04
+
+
+seconds: 7422.0135625
+filename: 20
+
+
+seconds: 7425.9735625
+filename: 23
+
+
+seconds: 7430.0555
+filename: 09
+
+
+seconds: 7437.591375
+filename: 22
+
+
+seconds: 7442.5963125
+filename: 13
+
+
+seconds: 7447.6476875
+filename: 10
+
+
+seconds: 7460.570625
+filename: 04
+
+
+seconds: 7468.7334375
+filename: 08
+
+
+seconds: 7473.2275
+filename: 12
+
+
+seconds: 7477.3616875
+filename: 06
+
+
+seconds: 7487.66075
+filename: 09
+
+
+seconds: 7491.3885625
+filename: 24
+
+
+seconds: 7495.429875
+filename: 23
+
+
+seconds: 7503.65075
+filename: 22
+
+
+seconds: 7508.1680625
+filename: 11
+
+
+seconds: 7512.1396875
+filename: 23
+
+
+seconds: 7516.7034375
+filename: 11
+
+
+seconds: 7521.22075
+filename: 16
+
+
+seconds: 7531.183125
+filename: 19
+
+
+seconds: 7535.8049375
+filename: 07
+
+
+seconds: 7539.556
+filename: 20
+
+
+seconds: 7548.16
+filename: 01
+
+
+seconds: 7556.5318125
+filename: 24
+
+
+seconds: 7566.18075
+filename: 07
+
+
+seconds: 7570.14075
+filename: 06
+
+
+seconds: 7577.699875
+filename: 10
+
+
+seconds: 7582.0081875
+filename: 03
+
+
+seconds: 7586.432625
+filename: 01
+
+
+seconds: 7590.996375
+filename: 02
+
+
+seconds: 7595.2930625
+filename: 10
+
+
+seconds: 7599.787125
+filename: 19
+
+
+seconds: 7609.645
+filename: 16
+
+
+seconds: 7613.326375
+filename: 21
+
+
+seconds: 7617.8204375
+filename: 13
+
+
+seconds: 7622.7325
+filename: 17
+
+
+seconds: 7632.8341875
+filename: 10
+
+
+seconds: 7641.879375
+filename: 16
+
+
+seconds: 7651.2264375
+filename: 18
+
+
+seconds: 7655.0239375
+filename: 22
+
+
+seconds: 7658.9143125
+filename: 23
+
+
+seconds: 7663.5709375
+filename: 16
+
+
+seconds: 7667.7283125
+filename: 12
+
+
+seconds: 7674.5791875
+filename: 21
+
+
+seconds: 7679.2125625
+filename: 01
+
+
+seconds: 7691.1138125
+filename: 04
+
+
+seconds: 7695.4685625
+filename: 17
+
+
+seconds: 7699.2660625
+filename: 01
+
+
+seconds: 7703.3538125
+filename: 03
+
+
+seconds: 7711.3076875
+filename: 22
+
+
+seconds: 7715.3199375
+filename: 17
+
+
+seconds: 7719.814
+filename: 07
+
+
+seconds: 7724.0875
+filename: 09
+
+
+seconds: 7728.65125
+filename: 05
+
+
+seconds: 7738.532375
+filename: 17
+
+
+seconds: 7746.463
+filename: 15
+
+
+seconds: 7754.579375
+filename: 03
+
+
+seconds: 7761.6856875
+filename: 05
+
+
+seconds: 7766.2261875
+filename: 15
+
+
+seconds: 7770.5113125
+filename: 03
+
+
+seconds: 7779.5216875
+filename: 15
+
+
+seconds: 7789.82075
+filename: 16
+
+
+seconds: 7794.2103125
+filename: 05
+
+
+seconds: 7798.1006875
+filename: 21
+
+
+seconds: 7806.7046875
+filename: 13
+
+
+seconds: 7810.711125
+filename: 20
+
+
+seconds: 7814.508625
+filename: 22
+
+
+seconds: 7819.072375
+filename: 02
+
+
+seconds: 7828.4775
+filename: 22
+
+
+seconds: 7837.8013125
+filename: 08
+
+
+seconds: 7844.536125
+filename: 17
+
+
+seconds: 7848.7631875
+filename: 19
+
+
+seconds: 7858.2379375
+filename: 08
+
+
+seconds: 7868.153875
+filename: 04
+
+
+seconds: 7872.78725
+filename: 02
+
+
+seconds: 7877.0316875
+filename: 17
+
+
+seconds: 7881.270375
+filename: 17
+
+
+seconds: 7885.84575
+filename: 04
+
+
+seconds: 7890.7578125
+filename: 10
+
+
+seconds: 7898.0615
+filename: 03
+
+
+seconds: 7902.14925
+filename: 03
+
+
+seconds: 7906.3646875
+filename: 19
+
+
+seconds: 7910.3246875
+filename: 23
+
+
+seconds: 7914.749125
+filename: 12
+
+
+seconds: 7918.3840625
+filename: 20
+
+
+seconds: 7923.0290625
+filename: 07
+
+
+seconds: 7932.2135625
+filename: 07
+
+
+seconds: 7936.8585625
+filename: 07
+
+
+seconds: 7941.67775
+filename: 16
+
+
+seconds: 7946.3575625
+filename: 06
+
+
+seconds: 7953.6148125
+filename: 23
+
+
+seconds: 7963.6816875
+filename: 21
+
+
+seconds: 7967.8506875
+filename: 01
+
+
+seconds: 7975.4098125
+filename: 10
+
+
+seconds: 7980.031625
+filename: 10
+
+
+seconds: 7984.8043125
+filename: 16
+
+
+seconds: 7991.0979375
+filename: 23
+
+
+seconds: 7999.5974375
+filename: 23
+
+
+seconds: 8010.8253125
+filename: 17
+
+
+seconds: 8018.012875
+filename: 15
+
+
+seconds: 8022.58825
+filename: 18
+
+
+seconds: 8026.664375
+filename: 04
+
+
+seconds: 8034.606625
+filename: 10
+
+
+seconds: 8042.8043125
+filename: 09
+
+
+seconds: 8046.903625
+filename: 03
+
+
+seconds: 8051.734375
+filename: 16
+
+
+seconds: 8055.62475
+filename: 21
+
+
+seconds: 8064.60025
+filename: 20
+
+
+seconds: 8069.5355
+filename: 18
+
+
+seconds: 8073.809
+filename: 09
+
+
+seconds: 8077.7225625
+filename: 01
+
+
+seconds: 8088.9504375
+filename: 23
+
+
+seconds: 8099.551375
+filename: 23
+
+
+seconds: 8103.459125
+filename: 03
+
+
+seconds: 8107.0128125
+filename: 24
+
+
+seconds: 8111.7506875
+filename: 18
+
+
+seconds: 8116.3956875
+filename: 07
+
+
+seconds: 8124.47725
+filename: 20
+
+
+seconds: 8132.8374375
+filename: 11
+
+
+seconds: 8136.93675
+filename: 17
+
+
+seconds: 8146.399875
+filename: 16
+
+
+seconds: 8151.358375
+filename: 18
+
+
+seconds: 8155.51575
+filename: 12
+
+
+seconds: 8160.172375
+filename: 14
+
+
+seconds: 8164.2310625
+filename: 09
+
+
+seconds: 8174.1121875
+filename: 17
+
+
+seconds: 8181.532
+filename: 17
+
+
+seconds: 8185.0740625
+filename: 24
+
+
+seconds: 8189.9396875
+filename: 18
+
+
+seconds: 8194.4801875
+filename: 02
+
+
+seconds: 8203.7808125
+filename: 17
+
+
+seconds: 8207.5783125
+filename: 24
+
+
+seconds: 8217.97025
+filename: 05
+
+
+seconds: 8226.504625
+filename: 22
+
+
+seconds: 8236.664375
+filename: 08
+
+
+seconds: 8245.372875
+filename: 21
+
+
+seconds: 8249.9946875
+filename: 13
+
+
+seconds: 8253.8850625
+filename: 21
+
+
+seconds: 8262.34975
+filename: 13
+
+
+seconds: 8266.054375
+filename: 24
+
+
+seconds: 8273.1490625
+filename: 20
+
+
+seconds: 8277.5154375
+filename: 12
+
+
+seconds: 8282.311375
+filename: 02
+
+
+seconds: 8286.480375
+filename: 08
+
+
+seconds: 8290.6958125
+filename: 22
+
+
+seconds: 8295.085375
+filename: 04
+
+
+seconds: 8299.6723125
+filename: 09
+
+
+seconds: 8308.53175
+filename: 13
+
+
+seconds: 8312.979375
+filename: 08
+
+
+seconds: 8317.24125
+filename: 06
+
+
+seconds: 8328.051125
+filename: 14
+
+
+seconds: 8338.2225
+filename: 15
+
+
+seconds: 8342.641125
+filename: 14
+
+
+seconds: 8347.0306875
+filename: 04
+
+
+seconds: 8351.4435
+filename: 02
+
+
+seconds: 8359.38575
+filename: 19
+
+
+seconds: 8363.6011875
+filename: 02
+
+
+seconds: 8367.9559375
+filename: 24
+
+
+seconds: 8372.6009375
+filename: 15
+
+
+seconds: 8377.106625
+filename: 15
+
+
+seconds: 8381.565875
+filename: 15
+
+
+seconds: 8395.673
+filename: 16
+
+
+seconds: 8399.65625
+filename: 03
+
+
+seconds: 8408.3299375
+filename: 07
+
+
+seconds: 8412.4873125
+filename: 06
+
+
+seconds: 8422.7399375
+filename: 01
+
+
+seconds: 8433.7820625
+filename: 11
+
+
+seconds: 8438.171625
+filename: 16
+
+
+seconds: 8442.421875
+filename: 11
+
+
+seconds: 8446.5444375
+filename: 23
+
+
+seconds: 8458.9333125
+filename: 05
+
+
+seconds: 8469.511
+filename: 02
+
+
+seconds: 8474.1328125
+filename: 07
+
+
+seconds: 8478.3830625
+filename: 12
+
+
+seconds: 8485.8725
+filename: 24
+
+
+seconds: 8489.501625
+filename: 20
+
+
+seconds: 8498.8486875
+filename: 18
+
+
+seconds: 8503.55175
+filename: 02
+
+
+seconds: 8512.1325625
+filename: 18
+
+
+seconds: 8520.2489375
+filename: 13
+
+
+seconds: 8528.3653125
+filename: 03
+
+
+seconds: 8532.9174375
+filename: 07
+
+
+seconds: 8537.4579375
+filename: 02
+
+
+seconds: 8544.3436875
+filename: 08
+
+
+seconds: 8547.967
+filename: 22
+
+
+seconds: 8551.5555
+filename: 22
+
+
+seconds: 8556.2353125
+filename: 11
+
+
+seconds: 8560.6133125
+filename: 09
+
+
+seconds: 8564.9913125
+filename: 11
+
+
+seconds: 8569.5666875
+filename: 18
+
+
+seconds: 8573.7124375
+filename: 01
+
+
+seconds: 8580.2963125
+filename: 17
+
+
+seconds: 8589.805875
+filename: 22
+
+
+seconds: 8594.43925
+filename: 09
+
+
+seconds: 8598.50375
+filename: 23
+
+
+seconds: 8602.2721875
+filename: 24
+
+
+seconds: 8606.5340625
+filename: 23
+
+
+seconds: 8615.114875
+filename: 18
+
+
+seconds: 8620.8744375
+filename: 20
+
+
+seconds: 8625.4149375
+filename: 20
+
+
+seconds: 8629.4416875
+filename: 05
+
+
+seconds: 8633.2159375
+filename: 20
+
+
+seconds: 8636.9785625
+filename: 21
+
+
+seconds: 8640.6309375
+filename: 24
+
+
+seconds: 8645.2295
+filename: 09
+
+
+seconds: 8648.829625
+filename: 21
+
+
+seconds: 8652.865125
+filename: 06
+
+
+seconds: 8657.9165
+filename: 07
+
+
+seconds: 8662.3060625
+filename: 12
+
+
+seconds: 8669.633
+filename: 11
+
+
+seconds: 8674.185125
+filename: 10
+
+
+seconds: 8678.801125
+filename: 09
+
+
+seconds: 8683.0978125
+filename: 10
+
+
+seconds: 8686.692125
+filename: 21
+
+
+seconds: 8695.389
+filename: 24
+
+
+seconds: 8699.4883125
+filename: 03
+
+
+seconds: 8704.47
+filename: 10
+
+
+seconds: 8709.1730625
+filename: 14
+
+
+seconds: 8713.36525
+filename: 03
+
+
+seconds: 8717.4065625
+filename: 01
+
+
+seconds: 8725.1630625
+filename: 17
+
+
+seconds: 8732.5248125
+filename: 11
+
+
+seconds: 8736.8911875
+filename: 14
+
+
+seconds: 8741.1414375
+filename: 02
+
+
+seconds: 8745.914125
+filename: 16
+
+
+seconds: 8752.799875
+filename: 08
+
+
+seconds: 8756.5625
+filename: 20
+
+
+seconds: 8764.8181875
+filename: 08
+
+
+seconds: 8769.010375
+filename: 03
+
+
+seconds: 8776.9061875
+filename: 15
+
+
+seconds: 8780.65725
+filename: 20
+
+
+seconds: 8784.7565625
+filename: 24
+
+
+seconds: 8794.96275
+filename: 01
+
+
+seconds: 8799.5613125
+filename: 14
+
+
+seconds: 8804.241125
+filename: 06
+
+
+seconds: 8808.8513125
+filename: 16
+
+
+seconds: 8813.240875
+filename: 16
+
+
+seconds: 8817.491125
+filename: 11
+
+
+seconds: 8821.544
+filename: 11
+
+
+seconds: 8831.6456875
+filename: 16
+
+
+seconds: 8836.0585
+filename: 02
+
+
+seconds: 8843.722125
+filename: 21
+
+
+seconds: 8848.0885
+filename: 12
+
+
+seconds: 8852.0020625
+filename: 23
+
+
+seconds: 8856.0549375
+filename: 01
+
+
+seconds: 8859.9453125
+filename: 21
+
+
+seconds: 8863.6383125
+filename: 22
+
+
+seconds: 8868.0395
+filename: 16
+
+
+seconds: 8872.9515625
+filename: 16
+
+
+seconds: 8876.7490625
+filename: 22
+
+
+seconds: 8881.1966875
+filename: 14
+
+
+seconds: 8885.4818125
+filename: 11
+
+
+seconds: 8894.1786875
+filename: 24
+
+
+seconds: 8899.0675
+filename: 18
+
+
+seconds: 8906.2783125
+filename: 03
+
+
+seconds: 8910.691125
+filename: 19
+
+
+seconds: 8915.13875
+filename: 08
+
+
+seconds: 8921.432375
+filename: 23
+
+
+seconds: 8925.88
+filename: 14
+
+
+seconds: 8930.1883125
+filename: 01
+
+
+seconds: 8940.95175
+filename: 04
+
+
+seconds: 8945.91025
+filename: 14
+
+
+seconds: 8950.067625
+filename: 17
+
+
+seconds: 8959.2985625
+filename: 19
+
+
+seconds: 8964.0596875
+filename: 15
+
+
+seconds: 8974.173
+filename: 02
+
+
+seconds: 8978.3651875
+filename: 05
+
+
+seconds: 8986.6325
+filename: 09
+
+
+seconds: 8990.6738125
+filename: 06
+
+
+seconds: 8994.9125
+filename: 17
+
+
+seconds: 9003.3075
+filename: 06
+
+
+seconds: 9007.372
+filename: 11
+
+
+seconds: 9011.842875
+filename: 03
+
+
+seconds: 9020.145
+filename: 11
+
+
+seconds: 9029.1205
+filename: 20
+
+
+seconds: 9033.2895
+filename: 23
+
+
+seconds: 9037.5978125
+filename: 04
+
+
+seconds: 9041.9641875
+filename: 09
+
+
+seconds: 9046.5279375
+filename: 07
+
+
+seconds: 9051.300625
+filename: 15
+
+
+seconds: 9061.9711875
+filename: 12
+
+
+seconds: 9066.7206875
+filename: 15
+
+
+seconds: 9070.541375
+filename: 24
+
+
+seconds: 9074.6639375
+filename: 01
+
+
+seconds: 9078.983875
+filename: 04
+
+
+seconds: 9083.03675
+filename: 23
+
+
+seconds: 9090.9093125
+filename: 23
+
+
+seconds: 9095.3569375
+filename: 14
+
+
+seconds: 9099.2705
+filename: 21
+
+
+seconds: 9108.733625
+filename: 19
+
+
+seconds: 9117.6743125
+filename: 06
+
+
+seconds: 9121.20475
+filename: 21
+
+
+seconds: 9128.473625
+filename: 22
+
+
+seconds: 9135.847
+filename: 17
+
+
+seconds: 9140.0624375
+filename: 09
+
+
+seconds: 9144.1269375
+filename: 23
+
+
+seconds: 9148.53975
+filename: 19
+
+
+seconds: 9156.760625
+filename: 22
+
+
+seconds: 9161.52175
+filename: 15
+
+
+seconds: 9165.981
+filename: 05
+
+
+seconds: 9176.256875
+filename: 03
+
+
+seconds: 9180.8786875
+filename: 18
+
+
+seconds: 9186.835625
+filename: 21
+
+
+seconds: 9190.447375
+filename: 22
+
+
+seconds: 9200.5606875
+filename: 12
+
+
+seconds: 9205.0083125
+filename: 05
+
+
+seconds: 9209.502375
+filename: 02
+
+
+seconds: 9214.147375
+filename: 15
+
+
+seconds: 9222.7281875
+filename: 18
+
+
+seconds: 9227.5125
+filename: 13
+
+
+seconds: 9232.23875
+filename: 04
+
+
+seconds: 9238.1840625
+filename: 15
+
+
+seconds: 9242.8523125
+filename: 07
+
+
+seconds: 9246.5105
+filename: 22
+
+
+seconds: 9251.34125
+filename: 14
+
+
+seconds: 9260.2006875
+filename: 13
+
+
+seconds: 9264.69475
+filename: 17
+
+
+seconds: 9273.577375
+filename: 21
+
+
+seconds: 9277.508375
+filename: 11
+
+
+seconds: 9281.4451875
+filename: 03
+
+
+seconds: 9285.7186875
+filename: 12
+
+
+seconds: 9289.934125
+filename: 04
+
+
+seconds: 9294.1263125
+filename: 03
+
+
+seconds: 9304.2860625
+filename: 08
+
+
+seconds: 9308.780125
+filename: 23
+
+
+seconds: 9313.0245625
+filename: 17
+
+
+seconds: 9323.3700625
+filename: 10
+
+
+seconds: 9328.18925
+filename: 15
+
+
+seconds: 9332.0215625
+filename: 20
+
+
+seconds: 9338.280375
+filename: 21
+
+
+seconds: 9342.9601875
+filename: 10
+
+
+seconds: 9350.8211875
+filename: 01
+
+
+seconds: 9363.906625
+filename: 19
+
+
+seconds: 9368.35425
+filename: 08
+
+
+seconds: 9372.89475
+filename: 06
+
+
+seconds: 9376.5529375
+filename: 24
+
+
+seconds: 9386.7126875
+filename: 06
+
+
+seconds: 9398.17275
+filename: 04
+
+
+seconds: 9402.632
+filename: 04
+
+
+seconds: 9406.8590625
+filename: 17
+
+
+seconds: 9411.26025
+filename: 16
+
+
+seconds: 9416.0445625
+filename: 07
+
+
+seconds: 9420.643125
+filename: 18
+
+
+seconds: 9424.696
+filename: 23
+
+
+seconds: 9429.55
+filename: 07
+
+
+seconds: 9433.1849375
+filename: 22
+
+
+seconds: 9441.545125
+filename: 11
+
+
+seconds: 9445.609625
+filename: 23
+
+
+seconds: 9449.883125
+filename: 09
+
+
+seconds: 9453.5645
+filename: 20
+
+
+seconds: 9457.930875
+filename: 13
+
+
+seconds: 9465.8266875
+filename: 15
+
+
+seconds: 9469.856375
+filename: 17
+
+
+seconds: 9474.4433125
+filename: 19
+
+
+seconds: 9482.629375
+filename: 03
+
+
+seconds: 9494.2055625
+filename: 15
+
+
+seconds: 9505.8281875
+filename: 03
+
+
+seconds: 9509.9043125
+filename: 11
+
+
+seconds: 9514.5609375
+filename: 05
+
+
+seconds: 9518.9389375
+filename: 09
+
+
+seconds: 9522.5390625
+filename: 21
+
+
+seconds: 9527.31175
+filename: 04
+
+
+seconds: 9531.85225
+filename: 06
+
+
+seconds: 9536.81075
+filename: 14
+
+
+seconds: 9540.3833125
+filename: 24
+
+
+seconds: 9549.0105625
+filename: 10
+
+
+seconds: 9557.3126875
+filename: 14
+
+
+seconds: 9567.426
+filename: 17
+
+
+seconds: 9577.1678125
+filename: 04
+
+
+seconds: 9581.4355
+filename: 19
+
+
+seconds: 9590.155625
+filename: 02
+
+
+seconds: 9594.719375
+filename: 19
+
+
+seconds: 9599.677875
+filename: 18
+
+
+seconds: 9604.137125
+filename: 13
+
+
+seconds: 9608.608
+filename: 02
+
+
+seconds: 9613.421375
+filename: 05
+
+
+seconds: 9617.9154375
+filename: 07
+
+
+seconds: 9625.2888125
+filename: 09
+
+
+seconds: 9629.782875
+filename: 19
+
+
+seconds: 9634.3930625
+filename: 17
+
+
+seconds: 9638.5620625
+filename: 06
+
+
+seconds: 9648.9308125
+filename: 16
+
+
+seconds: 9652.972125
+filename: 06
+
+
+seconds: 9657.141125
+filename: 08
+
+
+seconds: 9661.704875
+filename: 16
+
+
+seconds: 9666.0248125
+filename: 16
+
+
+seconds: 9670.0109375
+filename: 08
+
+
+seconds: 9673.6284375
+filename: 20
+
+
+seconds: 9678.018
+filename: 13
+
+
+seconds: 9686.0415
+filename: 15
+
+
+seconds: 9692.9620625
+filename: 08
+
+
+seconds: 9697.665125
+filename: 02
+
+
+seconds: 9702.53075
+filename: 18
+
+
+seconds: 9707.257
+filename: 19
+
+
+seconds: 9715.652
+filename: 08
+
+
+seconds: 9722.7583125
+filename: 05
+
+
+seconds: 9727.1363125
+filename: 08
+
+
+seconds: 9731.0963125
+filename: 20
+
+
+seconds: 9741.5115
+filename: 08
+
+
+seconds: 9745.483125
+filename: 23
+
+
+seconds: 9749.8843125
+filename: 17
+
+
+seconds: 9754.4248125
+filename: 19
+
+
+seconds: 9759.4529375
+filename: 15
+
+
+seconds: 9764.0283125
+filename: 18
+
+
+seconds: 9774.8614375
+filename: 17
+
+
+seconds: 9779.4948125
+filename: 13
+
+
+seconds: 9790.0144375
+filename: 22
+
+
+seconds: 9793.6435625
+filename: 20
+
+
+seconds: 9798.46275
+filename: 04
+
+
+seconds: 9802.713
+filename: 02
+
+
+seconds: 9807.1141875
+filename: 12
+
+
+seconds: 9811.828875
+filename: 18
+
+
+seconds: 9815.6379375
+filename: 22
+
+
+seconds: 9819.615375
+filename: 08
+
+
+seconds: 9824.341625
+filename: 06
+
+
+seconds: 9828.0926875
+filename: 20
+
+
+seconds: 9838.693625
+filename: 05
+
+
+seconds: 9843.0251875
+filename: 06
+
+
+seconds: 9847.217375
+filename: 12
+
+
+seconds: 9851.281875
+filename: 11
+
+
+seconds: 9855.75275
+filename: 02
+
+
+seconds: 9865.633875
+filename: 07
+
+
+seconds: 9870.2556875
+filename: 07
+
+
+seconds: 9874.5175625
+filename: 09
+
+
+seconds: 9878.02625
+filename: 20
+
+
+seconds: 9881.5900625
+filename: 21
+
+
+seconds: 9892.5393125
+filename: 04
+
+
+seconds: 9901.0736875
+filename: 14
+
+
+seconds: 9905.115
+filename: 23
+
+
+seconds: 9914.3459375
+filename: 07
+
+
+seconds: 9919.258
+filename: 13
+
+
+seconds: 9923.5546875
+filename: 19
+
+
+seconds: 9937.1045625
+filename: 07
+
+
+seconds: 9941.6683125
+filename: 16
+
+
+seconds: 9949.57575
+filename: 01
+
+
+seconds: 9954.4065
+filename: 14
+
+
+seconds: 9958.6335625
+filename: 06
+
+
+seconds: 9975.712875
+filename: 02
+
+
+seconds: 9980.5088125
+filename: 18
+
+
+seconds: 9989.542375
+filename: 19
+
+
+seconds: 9993.43275
+filename: 23
+
+
+seconds: 10002.0019375
+filename: 10
+
+
+seconds: 10006.8095
+filename: 13
+
+
+seconds: 10011.4196875
+filename: 19
+
+
+seconds: 10015.1126875
+filename: 21
+
+
+seconds: 10019.5835625
+filename: 03
+
+
+seconds: 10023.973125
+filename: 02
+
+
+seconds: 10029.0245
+filename: 10
+
+
+seconds: 10032.642
+filename: 20
+
+
+seconds: 10037.496
+filename: 10
+
+
+seconds: 10046.12325
+filename: 10
+
+
+seconds: 10053.485
+filename: 11
+
+
+seconds: 10057.8745625
+filename: 05
+
+
+seconds: 10062.3105625
+filename: 12
+
+
+seconds: 10066.9439375
+filename: 13
+
+
+seconds: 10072.04175
+filename: 07
+
+
+seconds: 10075.9205
+filename: 23
+
+
+seconds: 10079.53225
+filename: 21
+
+
+seconds: 10086.487625
+filename: 06
+
+
+seconds: 10091.213875
+filename: 19
+
+
+seconds: 10095.3364375
+filename: 11
+
+
+seconds: 10099.708625
+filename: 17
+
+
+seconds: 10104.1098125
+filename: 02
+
+
+seconds: 10111.030375
+filename: 08
+
+
+seconds: 10115.6289375
+filename: 13
+
+
+seconds: 10126.2879375
+filename: 16
+
+
+seconds: 10129.8764375
+filename: 22
+
+
+seconds: 10134.225375
+filename: 19
+
+
+seconds: 10142.1328125
+filename: 01
+
+
+seconds: 10151.5959375
+filename: 14
+
+
+seconds: 10160.6063125
+filename: 15
+
+
