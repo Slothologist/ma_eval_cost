@@ -7,6 +7,9 @@ orc_topic = '/speechrec/psa/speechRecognition/simple'
 logfile_name = './saved_time/p2.txt'
 logfile = open(logfile_name, 'w', 1)
 
+logfile2_name = './saved_time/p2_segmentations.txt'
+logfile2 = open(logfile2_name, 'w', 1)
+
 orc_msgs = []
 
 filename_to_utterance = {
@@ -52,6 +55,10 @@ def start_msg(msg):
     rostime = msg.data
     logfile.write('starting_time: ' + str(rostime) + '\n\n\n')
 
+def segmentation_msg(msg):
+    rostime = msg.data
+    logfile2.write('segmentation time:' + str(rostime) + '\n')
+
 orc_sub = rospy.Subscriber(orc_topic, String, orc_sub_fn)
 
 
@@ -59,11 +66,13 @@ def kill_p(signal):
     time.sleep(5)
     orc_sub.unregister()
     logfile.close()
+    logfile2.close()
     rospy.signal_shutdown('successfully finished')
     exit(0)
 
 sub = rospy.Subscriber('/esiaf/wav_player/shutdown', String, kill_p)
 sub2 = rospy.Subscriber('/ps_start', Time, start_msg)
+sub3 = rospy.Subscriber('/ps_adapter/segEnd/pub', Time, segmentation_msg)
 
 rospy.loginfo('Ready!')
 

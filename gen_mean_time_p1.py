@@ -37,6 +37,12 @@ max_time = 0.
 min_time = 1000000.
 chunkos = []
 
+segmented = []
+with open('saved_time/' + pipeline + '/p2_segmentations.txt', 'r') as file:
+    segmented = file.readlines()
+
+print('len segmented: ' + str(len(segmented)))
+
 with open('saved_time/' + pipeline + '/p2.txt', 'r') as file:
     complete_file = file.read()
 
@@ -48,15 +54,18 @@ with open('saved_time/' + pipeline + '/p2.txt', 'r') as file:
     # chunk all responses together
     chunked = second_section.strip().split('\n\n')
     print('len chunked: ' + str(len(chunked)))
-    for chunk in chunked:
+    for a in range(len(chunked)):
+        chunk = chunked[a]
+        segmenta = segmented[a]
         if 'none' in chunk:
             continue
         recording = chunk.split(':')[0].split(' of ')[1].split('\n')[0].strip()
         time = (int(chunk.split(':')[1].strip()) - starting_time) * 10e-10 + 0
+        seg_time = (int(segmenta.split(':')[1].strip()) - starting_time) * 10e-10
         if not recording == 'null':
             if 'mein name ist' in recording:
                 recording = 'mein name ist'
-            chunkos.append((utterance_to_filename[recording], time))
+            chunkos.append((utterance_to_filename[recording], time, seg_time))
 
 with open('./annotated_wav_file.pickle', 'r') as fileo:
     annots = pickle.load(fileo)
@@ -64,7 +73,7 @@ with open('./annotated_wav_file.pickle', 'r') as fileo:
 print('len chunkos: ' + str(len(chunkos)))
 
 for a in range(min(len(chunkos), len(annots))):
-    print(annots[a], chunkos[a])
+    pass#print(annots[a], chunkos[a])
 
 for a in range(min(len(chunkos), len(annots)), max(len(chunkos), len(annots))):
     pass#print(annots[a])
@@ -78,11 +87,18 @@ for anno in annots:
         if anno[1] < rec[1] < anno[1] + 2 and rec[0] == anno[0]:
             match = rec
     if match:
-        matches.append((anno[0], anno[1] ,match[1]))
+        matches.append((anno[0], anno[1], match[1], match[2]))
 
 timings = [x[2]-x[1] for x in matches]
+seg_timings = [x[3]-x[1] for x in matches]
 
 print(len(matches)/float(amount_of_samples))
 print(sum(timings)/len(matches))
 print(max(timings))
 print(min(timings))
+
+print('----------')
+
+print(sum(seg_timings)/len(matches))
+print(max(seg_timings))
+print(min(seg_timings))
