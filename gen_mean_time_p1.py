@@ -90,7 +90,7 @@ for anno in annots:
         matches.append((anno[0], anno[1], match[1], match[2]))
 
 timings = [x[2]-x[1] for x in matches]
-seg_timings = [x[3]-x[1] for x in matches]
+seg_timings = [x[2]-x[3] for x in matches]
 
 print(len(matches)/float(amount_of_samples))
 print(sum(timings)/len(matches))
